@@ -1,4 +1,4 @@
-[![MasterHead](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif)]
+[![MasterHead](/github-header-image.png)]
 
 <h1 align="center">Hi 👋, I'm Rajesh Ranjan</h1>
 <h3 align="center">An enthusiastic Full Stack Web Developer adept at leveraging a diverse skill set trying to switch from a background in service desk support. Currently learning MERN Full Stack Development at GeeksForGeeks and building projects. Proficient in ReactJS, JavaScript, Node.js, MongoDB, ExpressJS, Python, and Java with an inclination towards delivering dynamic and user-friendly web applications.</h3>
