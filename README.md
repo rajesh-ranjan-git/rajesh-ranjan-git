@@ -1,12 +1,12 @@
-[![MasterHead](/github-header-image.png)]
+![MasterHead](/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Rajesh Ranjan</h1>
 <h3 align="center">An enthusiastic Full Stack Web Developer adept at leveraging a diverse skill set trying to switch from a background in service desk support. Currently learning MERN Full Stack Development at GeeksForGeeks and building projects. Proficient in ReactJS, JavaScript, Node.js, MongoDB, ExpressJS, Python, and Java with an inclination towards delivering dynamic and user-friendly web applications.</h3>
-<img align="right" alt="coding" width="100%" style="margin-top: 50;" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="100%" src="/create-space.png">
 
 # 💫 About Me:
 
-<img align="right" alt="coding" width="500" style="margin-top: 50;" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="450" src="/side-img.gif">
 🌱 I’m currently learning **MERN, React JS, Node.js, ExpressJS, JavaScript, MongoDB**<br><br>💬 Ask me about **MERN, React JS, Node.js, ExpressJS, JavaScript, MongoDB**<br><br>📫 How to reach me **rajeshranjan@gmail.com**<br><br>📄 Know about my experiences (Resume Link) : https://www.linkedin.com/in/rajesh-ranjan-660b1b13a/overlay/1716751210948/single-media-viewer/?type=DOCUMENT&profileId=ACoAACH7QugBEDs8g99PDcJo7iH_R0nlppK50Gk](https://www.linkedin.com/in/rajesh-ranjan-660b1b13a/overlay/1716751210948/single-media-viewer/?type=DOCUMENT&profileId=ACoAACH7QugBEDs8g99PDcJo7iH_R0nlppK50Gk)
 
 
