@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-<img align="right" alt="coding" width="500" src="/side-img.gif">
+<img align="right" alt="coding" width="400" src="/side-img.gif">
 🌱 I’m currently learning **MERN, React JS, Node.js, ExpressJS, JavaScript, MongoDB**<br><br>💬 Ask me about **MERN, React JS, Node.js, ExpressJS, JavaScript, MongoDB**<br><br>📫 How to reach me **rajeshranjan@gmail.com**<br><br>📄 Know about my experiences (Resume Link) : https://www.linkedin.com/in/rajesh-ranjan-660b1b13a/overlay/1716751210948/single-media-viewer/?type=DOCUMENT&profileId=ACoAACH7QugBEDs8g99PDcJo7iH_R0nlppK50Gk
 
 
