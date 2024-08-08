@@ -7,7 +7,11 @@
 # 💫 About Me:
 
 <img align="right" alt="coding" width="400" src="/side-img.gif">
-🌱 Certified with MERN Full Stack Web Development by GeeksForGeeks<br><br>💬 Ask me about **MERN, React JS, Node.js, ExpressJS, JavaScript, MongoDB**<br><br>📫 How to reach me **rajeshranjan@gmail.com**<br><br>📫 Call me at : +91-999-934-0771<br><br>📄 Know about my experiences (Resume Link) : https://www.linkedin.com/in/rajesh-ranjan-660b1b13a/overlay/1716751210948/single-media-viewer/?type=DOCUMENT&profileId=ACoAACH7QugBEDs8g99PDcJo7iH_R0nlppK50Gk
+🌱 Certified with MERN Full Stack Web Development by GeeksForGeeks<br><br>
+💬 Ask me about **MERN, React JS, Node.js, ExpressJS, JavaScript, MongoDB**<br><br>
+📫 Reach me at : rajeshranjan@gmail.com<br><br>
+📫 Call me at : +91-999-934-0771<br><br>
+📄 Know about my experiences (Resume Link) : https://www.linkedin.com/in/rajesh-ranjan-660b1b13a/overlay/1723087518869/single-media-viewer/?profileId=ACoAACH7QugBEDs8g99PDcJo7iH_R0nlppK50Gk
 
 ## 🌐 Socials:
 
@@ -31,10 +35,6 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=rajesh-ranjan-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://meme-api.com/gimme)
 
 ### 🔝 Top Contributed Repo
 
