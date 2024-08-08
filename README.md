@@ -6,14 +6,13 @@
 
 # 💫 About Me:
 
-<!-- <img align="right" alt="coding" width="500" src="/side-img.gif"> -->
-<div width="500" style="background-image: url('/side-img.gif')">
+<img align="right" alt="coding" width="350" src="/side-img.gif">
 </div>
 🌱 Certified with MERN Full Stack Web Development by GeeksForGeeks<br><br>
 💬 Ask me about **MERN, React JS, Node.js, ExpressJS, JavaScript, MongoDB**<br><br>
 📫 Reach me at : rajeshranjan@gmail.com<br><br>
 📫 Call me at : +91-999-934-0771<br><br>
-📄 Know about my experiences (Resume Link) : https://www.linkedin.com/in/rajesh-ranjan-660b1b13a/overlay/1723087518869/single-media-viewer/?profileId=ACoAACH7QugBEDs8g99PDcJo7iH_R0nlppK50Gk
+📄 Know about my experiences (Resume Link) : https://www.linkedin.com/in/rajesh-ranjan-660b1b13a/overlay/1723087518869/single-media-viewer/?profileId=ACoAACH7QugBEDs8g99PDcJo7iH_R0nlppK50Gk<br><br>
 📄 Git Resume Link : https://github.com/rajesh-ranjan-git/rajesh-ranjan-git/blob/main/Rajesh_Resume.pdf
 
 ## 🌐 Socials:
