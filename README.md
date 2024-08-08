@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-<img align="right" alt="coding" width="400" src="/side-img.gif">
+<img align="right" alt="coding" width="500" src="/side-img.gif">
 🌱 Certified with MERN Full Stack Web Development by GeeksForGeeks<br><br>
 💬 Ask me about **MERN, React JS, Node.js, ExpressJS, JavaScript, MongoDB**<br><br>
 📫 Reach me at : rajeshranjan@gmail.com<br><br>
@@ -40,10 +40,6 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=rajesh-ranjan-git&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 
