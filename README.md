@@ -6,7 +6,9 @@
 
 # 💫 About Me:
 
-<img align="right" alt="coding" width="500" src="/side-img.gif">
+<!-- <img align="right" alt="coding" width="500" src="/side-img.gif"> -->
+<div width="500" style="background-image: url('/side-img.gif')">
+</div>
 🌱 Certified with MERN Full Stack Web Development by GeeksForGeeks<br><br>
 💬 Ask me about **MERN, React JS, Node.js, ExpressJS, JavaScript, MongoDB**<br><br>
 📫 Reach me at : rajeshranjan@gmail.com<br><br>
