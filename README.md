@@ -8,6 +8,7 @@
 
 <img align="right" alt="coding" width="350" src="/side-img.gif">
 </div>
+🌱 Certified with React JS Development by GeeksForGeeks<br><br>
 🌱 Certified with MERN Full Stack Web Development by GeeksForGeeks<br><br>
 💬 Ask me about **MERN, React JS, Node.js, ExpressJS, JavaScript, MongoDB**<br><br>
 📫 Reach me at : rajeshranjan@gmail.com<br><br>
