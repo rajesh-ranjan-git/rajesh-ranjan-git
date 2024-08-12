@@ -30,8 +30,6 @@
 
 </p>
 
-<br/>
-
 </div>
 
 <!-- <div align="center">
@@ -64,7 +62,7 @@
   <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
 
-# 💻 Social:
+# 💻 <h1 align="center">Hi 👋, I'm Rajesh Ranjan</h1>
 
 <p align="center">
 
