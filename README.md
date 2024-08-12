@@ -89,6 +89,7 @@
 </a>
 
 </p>
+<br />
 
 <h1 align="center">💻 Tech Stack</h1>
 
@@ -114,8 +115,11 @@
 <img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" /> 
 <img style="margin-top: 10px" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="Remix" height="40" /> 
 </div>
+  
+<br>
+<br>
 
-# 📊 GitHub Stats:
+<h1 align="center">📊 Tech Stack</h1>
 
 <p align="center" >
   <img height="150" width="150" src="./webp/left.webp"  style="width:20%">
