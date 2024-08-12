@@ -157,8 +157,6 @@
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
-
 <h1 align="center">🔝 Top Contributed Repo</h1>
 
 <p align="center">
@@ -219,5 +217,3 @@
 #
 
 ![footer](/footer.webp)
-
-<!-- ![snake gif](https://github.com/rajesh-ranjan-git/rajesh-ranjan-git/blob/output/github-contribution-grid-snake.svg) -->
