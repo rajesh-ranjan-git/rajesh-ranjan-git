@@ -64,6 +64,17 @@
   <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
 
+<h1 align="center">🏆 GitHub Trophies</h1>
+
+<p align="center" style="width:100%">  
+<img  src="https://github-profile-trophy.vercel.app/?username=rajesh-ranjan-git&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=false&theme=juicyfresh" >
+
+<p align="center" >
+  <img height="150" width="150" src="/left.webp"  style="width:20%">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-ranjan-git&theme=dark&hide_border=false" style="width:50%"  />
+  <img height="150" width="150" src="/right.webp" style="width:20%">
+</p>
+
 <h1 align="center">👋 Socials</h1>
 
 <p align="center">
@@ -126,12 +137,6 @@
 <br>
 
 <h1 align="center">📊 GitHub Stats</h1>
-
-<p align="center" >
-  <img height="150" width="150" src="/left.webp"  style="width:20%">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-ranjan-git&theme=dark&hide_border=false" style="width:50%"  />
-  <img height="150" width="150" src="/right.webp" style="width:20%">
-</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=rajesh-ranjan-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajesh-ranjan-git&theme=dark&hide_border=false)<br/>
