@@ -38,6 +38,34 @@
  <a href="https://app.daily.dev/PranavElric"><img src="./devcard.svg"  style="width: 300px;" align="right" alt="Pranav Choudhary's Dev Card"/></a>
  </div> -->
 
+<br />
+
+<h1 align="center">Hi 👋, I'm Rajesh Ranjan</h1>
+<h3 align="center">An enthusiastic Full Stack Web Developer adept at leveraging a diverse skill set trying. Certified with MERN Full Stack Web Development at GeeksForGeeks. Proficient in ReactJS, JavaScript, Node.js, MongoDB, ExpressJS, Python, and Java with an inclination towards delivering dynamic and user-friendly web applications.</h3><br><br>
+
+# 💫 About Me:
+
+<img align="right" alt="coding" width="400" src="/side-img.gif">
+</div>
+⚡ Certified with React JS Development by GeeksForGeeks<br><br>
+⚡ Certified with MERN Full Stack Web Development by GeeksForGeeks<br><br>
+💬 Ask me about **MERN, React JS, Node.js, ExpressJS, JavaScript, MongoDB**<br><br>
+📫 Reach me at : rajeshranjan@gmail.com<br><br>
+📫 Call me at : +91-999-934-0771<br><br>
+📄 Know about my experiences (Resume Link) : https://www.linkedin.com/in/rajesh-ranjan-660b1b13a/overlay/1723087518869/single-media-viewer/?profileId=ACoAACH7QugBEDs8g99PDcJo7iH_R0nlppK50Gk<br><br>
+📄 Git Resume Link : https://github.com/rajesh-ranjan-git/rajesh-ranjan-git/blob/main/Rajesh_Resume.pdf<br><br>
+🌱 React JS Certification Link : https://media.geeksforgeeks.org/courses/certificates/b93b9e18acf8cfe7685efe662e76ef77.pdf<br><br>
+🌱 MERN Full Stack Web Development Certification Link : https://media.geeksforgeeks.org/courses/certificates/cd5821e65eb73895ef125b8cec818f83.pdf
+
+<p align="center">  
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rajesh-ranjan-git&style=flat&color=blue"> •   
+  <!-- <a href="https://user-badge.committers.top/india_private/pranavelric"><img src="https://user-badge.committers.top/india_private/pranvelric.svg"></a> • -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
+</p>
+
+# 💻 Social:
+
 <p align="center">
 
 <a href="https://github.com/rajesh-ranjan-git" target="blank">
@@ -64,30 +92,6 @@
 
 <br />
 <br />
-
-<h1 align="center">Hi 👋, I'm Rajesh Ranjan</h1>
-<h3 align="center">An enthusiastic Full Stack Web Developer adept at leveraging a diverse skill set trying. Certified with MERN Full Stack Web Development at GeeksForGeeks. Proficient in ReactJS, JavaScript, Node.js, MongoDB, ExpressJS, Python, and Java with an inclination towards delivering dynamic and user-friendly web applications.</h3><br><br>
-
-# 💫 About Me:
-
-<img align="right" alt="coding" width="400" src="/side-img.gif">
-</div>
-⚡ Certified with React JS Development by GeeksForGeeks<br><br>
-⚡ Certified with MERN Full Stack Web Development by GeeksForGeeks<br><br>
-💬 Ask me about **MERN, React JS, Node.js, ExpressJS, JavaScript, MongoDB**<br><br>
-📫 Reach me at : rajeshranjan@gmail.com<br><br>
-📫 Call me at : +91-999-934-0771<br><br>
-📄 Know about my experiences (Resume Link) : https://www.linkedin.com/in/rajesh-ranjan-660b1b13a/overlay/1723087518869/single-media-viewer/?profileId=ACoAACH7QugBEDs8g99PDcJo7iH_R0nlppK50Gk<br><br>
-📄 Git Resume Link : https://github.com/rajesh-ranjan-git/rajesh-ranjan-git/blob/main/Rajesh_Resume.pdf<br><br>
-🌱 React JS Certification Link : https://media.geeksforgeeks.org/courses/certificates/b93b9e18acf8cfe7685efe662e76ef77.pdf<br><br>
-🌱 MERN Full Stack Web Development Certification Link : https://media.geeksforgeeks.org/courses/certificates/cd5821e65eb73895ef125b8cec818f83.pdf
-
-<p align="center">  
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rajesh-ranjan-git&style=flat&color=blue"> •   
-  <!-- <a href="https://user-badge.committers.top/india_private/pranavelric"><img src="https://user-badge.committers.top/india_private/pranvelric.svg"></a> • -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
-</p>
 
 # 💻 Tech Stack:
 
