@@ -4,7 +4,7 @@
 
 </p>
 
-</div>
+<div>
 
 <p align="center">
 <a href="https://dev.to/pranavelric" target="_blank">
@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-<div >
+</div>
 
 <div align="center">
  <a href="https://app.daily.dev/PranavElric"><img src="./devcard.svg"  style="width: 300px;" align="right" alt="Pranav Choudhary's Dev Card"/></a>
