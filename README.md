@@ -63,8 +63,6 @@
   <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
 
-<br />
-
 <h1 align="center">👋 Socials</h1>
 
 <p align="center">
@@ -90,9 +88,6 @@
 </a>
 
 </p>
-
-<br />
-<br />
 
 # 💻 Tech Stack:
 
