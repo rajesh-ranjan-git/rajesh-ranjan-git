@@ -58,9 +58,9 @@
 <br />
 
 <p align="center">  
-  <img alt = "profile views" src="https://visitcount.itsvg.in/api?id=rajesh-ranjan-git&icon=0&color=0">•   
+  <img alt = "profile views" src="https://visitcount.itsvg.in/api?id=rajesh-ranjan-git&icon=0&color=0"> •   
   <!-- <a href="https://user-badge.committers.top/india_private/pranavelric"><img src="https://user-badge.committers.top/india_private/pranvelric.svg"></a> • -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social">•
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
 
@@ -162,8 +162,6 @@
 <img align="center" src="https://github-contributor-stats.vercel.app/api?username=rajesh-ranjan-git&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
-![](https://github-contributor-stats.vercel.app/api?username=rajesh-ranjan-git&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 #
 
 <p align="center">
@@ -181,7 +179,7 @@
 <img align="center" src="https://readme-jokes.vercel.app/api">
 </p>
 
-<h1>
+<h1 align="center">
   Connect With Me
   <img src="/Handshake.gif" height="25px">
 </h1>
