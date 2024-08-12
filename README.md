@@ -38,8 +38,6 @@
  <a href="https://app.daily.dev/PranavElric"><img src="./devcard.svg"  style="width: 300px;" align="right" alt="Pranav Choudhary's Dev Card"/></a>
  </div> -->
 
-<div>
-
 <p align="center">
 
 <a href="https://github.com/rajesh-ranjan-git" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rajesh-ranjan-git" height="30" width="40" /></a>
@@ -54,7 +52,8 @@
 
 </p>
 
-</div>
+<br />
+<br />
 
 <h1 align="center">Hi 👋, I'm Rajesh Ranjan</h1>
 <h3 align="center">An enthusiastic Full Stack Web Developer adept at leveraging a diverse skill set trying. Certified with MERN Full Stack Web Development at GeeksForGeeks. Proficient in ReactJS, JavaScript, Node.js, MongoDB, ExpressJS, Python, and Java with an inclination towards delivering dynamic and user-friendly web applications.</h3><br><br>
