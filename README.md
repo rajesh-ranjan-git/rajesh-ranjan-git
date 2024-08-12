@@ -189,19 +189,18 @@
     <code><img height="60" width="60" src="https://skillicons.dev/icons?i=linkedin"/></code>
   </a>
   <a href="https://twitter.com/_rajesh____" target="_blank">
-    <code><img  height="60" width="60" src="https://skillicons.dev/icons?i=x"/></code>
+    <code><img  height="60" width="60" src="https://skillicons.dev/icons?i=twitter"/></code>
   </a>
   <a href="https://www.instagram.com/_rajesh____" target="_blank">
     <code><img height="60" width="60" src="https://skillicons.dev/icons?i=instagram"/></code>
   </a>
   <a href="https://fb.com/rajeshranjan8271" target="_blank">
-    <code><img height="60" width="60" src="https://skillicons.dev/icons?i=facebook"/></code>
+    <code><img height="60" width="60" src="https://img.shields.io/badge/facebook-%23000000.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></code>
   </a>
   <a href="mailto:rajeshranjan8271@gmail.com">
     <code><img src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="Pranav's Mail" height="60" width="60"></code>
   </a>     
 </p>
-<br/>
 <br/>
 
 <div align="center">
