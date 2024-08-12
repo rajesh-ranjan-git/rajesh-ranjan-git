@@ -7,22 +7,30 @@
 <div>
 
 <p align="center">
+
 <a href="https://github.com/rajesh-ranjan-git" target="_blank">
-<img src=https://img.shields.io/badge/github-%231E77B5.svg?&style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%231E77B5.svg?&style=for-the-badge&logo=github&logoColor=white alt=rajesh-ranjan-git style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/pranav-choudhary/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+
+<a href="https://twitter.com/_rajesh____" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%231E77B5.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=_rajesh____ style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/pranav.elric" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+
+<a href="https://linkedin.com/in/rajesh-ranjan-660b1b13a" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=rajesh-ranjan-660b1b13a style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://fb.com/rajeshranjan8271" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%231E77B5.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=rajeshranjan8271 style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://instagram.com/_rajesh____" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=_rajesh____ style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/10224590/pranav-choudhary?tab=profile" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://pranavelric.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=portfolio style="margin-bottom: 5px;" />
-</a>
 </p>
 
 <br/>
@@ -40,9 +48,13 @@
 <p align="center">
 
 <a href="https://github.com/rajesh-ranjan-git" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rajesh-ranjan-git" height="30" width="40" /></a>
+
 <a href="https://twitter.com/_rajesh____" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rajesh____" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/rajesh-ranjan-660b1b13a" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh-ranjan-660b1b13a" height="30" width="40" /></a>
+
 <a href="https://fb.com/rajeshranjan8271" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajeshranjan8271" height="30" width="40"  /></a>
+
 <a href="https://instagram.com/_rajesh____" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rajesh____" height="30" width="40"  /></a>
 
 </p>
