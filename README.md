@@ -32,11 +32,11 @@
 
 </div>
 
-<!-- <div align="center">
- <a href="https://app.daily.dev/PranavElric"><img src="./devcard.svg"  style="width: 300px;" align="right" alt="Pranav Choudhary's Dev Card"/></a>
- </div> -->
-
 <h1 align="center">Hi 👋, I'm Rajesh Ranjan</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Frontend+Developer;ReactJS+Developer;Software+Engineer;&center=true&width=500&height=50"></a>
+</p>
+<br>
 <h3 align="center">An enthusiastic Full Stack Web Developer adept at leveraging a diverse skill set trying. Certified with MERN Full Stack Web Development at GeeksForGeeks. Proficient in ReactJS, JavaScript, Node.js, MongoDB, ExpressJS, Python, and Java with an inclination towards delivering dynamic and user-friendly web applications.</h3>
 
 # 💫 About Me:
@@ -61,10 +61,8 @@
 <br />
 
 <p align="center">  
-  <img alt = "profile views" src="https://visitcount.itsvg.in/api?id=rajesh-ranjan-git&icon=0&color=0"> •   
-  <a href="https://user-badge.committers.top/india_private/rajesh-ranjan-git"><img src="https://user-badge.committers.top/india_private/rajesh-ranjan-git.svg"></a> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
+<img alt = "profile views" src="https://visitcount.itsvg.in/api?id=rajesh-ranjan-git&icon=0&color=0"> • <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social"> • 
+<img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
 
 <h1 align="center">🏆 GitHub Trophies</h1>
