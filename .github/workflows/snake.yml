@@ -23,4 +23,4 @@ jobs:
           build_dir: dist
           keep_history: true
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ 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 }}
