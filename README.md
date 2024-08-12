@@ -58,9 +58,9 @@
 <br />
 
 <p align="center">  
-  <img alt = "profile views" src="https://visitcount.itsvg.in/api?id=rajesh-ranjan-git&icon=0&color=0"> •   
+  <img alt = "profile views" src="https://visitcount.itsvg.in/api?id=rajesh-ranjan-git&icon=0&color=0">•   
   <!-- <a href="https://user-badge.committers.top/india_private/pranavelric"><img src="https://user-badge.committers.top/india_private/pranvelric.svg"></a> • -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social"> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social">•
   <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
 
@@ -160,19 +160,15 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=rajesh-ranjan-git&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=rajesh-ranjan-git&icon=0&color=0)](https://visitcount.itsvg.in)
-
 #
 
 <p align="center">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
+  <h2 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h2>
 </p>
 
 <p align="center">
- <a href="https://metrics.lecoq.io/about/pranavelric"><img src="github-metrics.svg" width="75%"   alt="Pranav Choudhary's Github Metrics"/></a>
+ <a href="https://metrics.lecoq.io/about/rajesh-ranjan-git"><img src="github-metrics.svg" width="75%"   alt="Rajesh Ranjan's Github Metrics"/></a>
 </p>
 
 ## 😂 Here is a random joke that'll make you laugh!
@@ -181,24 +177,27 @@
 
 <h1>
   Connect With Me
-  <img src="GIF/Handshake.gif" height="25px">
+  <img src="/Handshake.gif" height="25px">
 </h1>
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/pranav-choudhary/" target="_blank">
+  <a href="https://github.com/rajesh-ranjan-git" target="_blank">
+    <code><img height="60" width="60" src="https://skillicons.dev/icons?i=github"/></code>
+  </a>
+  <a href="https://linkedin.com/in/rajesh-ranjan-660b1b13a" target="_blank">
     <code><img height="60" width="60" src="https://skillicons.dev/icons?i=linkedin"/></code>
   </a>
-  <a href="https://stackoverflow.com/users/10224590/pranav-choudhary/" target="_blank">
-    <code><img  height="60" width="60" src="https://skillicons.dev/icons?i=stackoverflow"/></code>
+  <a href="https://twitter.com/_rajesh____" target="_blank">
+    <code><img  height="60" width="60" src="https://skillicons.dev/icons?i=x"/></code>
   </a>
-  <a href="https://www.instagram.com/pranav.elric" target="_blank">
+  <a href="https://www.instagram.com/_rajesh____" target="_blank">
     <code><img height="60" width="60" src="https://skillicons.dev/icons?i=instagram"/></code>
   </a>
-  <a href="https://dev.to/pranavelric" target="_blank">
-    <code><img height="60" width="60" src="https://skillicons.dev/icons?i=devto"/></code>
+  <a href="https://fb.com/rajeshranjan8271" target="_blank">
+    <code><img height="60" width="60" src="https://skillicons.dev/icons?i=facebook"/></code>
   </a>
-  <a href="mailto:pranavchoudhary500@gmail.com">
+  <a href="mailto:rajeshranjan8271@gmail.com">
     <code><img src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="Pranav's Mail" height="60" width="60"></code>
   </a>     
 </p>
@@ -213,4 +212,4 @@
 
 #
 
-![footer](./webp/footer.webp)
+![footer](/footer.webp)
