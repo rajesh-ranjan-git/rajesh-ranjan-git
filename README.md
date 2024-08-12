@@ -138,7 +138,7 @@
 
 <h1 align="center">📊 GitHub Stats</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=rajesh-ranjan-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=rajesh-ranjan-git&theme=vue&show_icons=true&hide_border=false&include_all_commits=false&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajesh-ranjan-git&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-ranjan-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
