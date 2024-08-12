@@ -4,6 +4,38 @@
 
 </p>
 
+</div>
+
+<p align="center">
+<a href="https://dev.to/pranavelric" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/pranav-choudhary/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/pranav.elric" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/10224590/pranav-choudhary?tab=profile" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://pranavelric.github.io/" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=portfolio style="margin-bottom: 5px;" />
+</a>
+</p>
+
+<br/>
+
+<br/>
+<br/>
+
+<div >
+
+<div align="center">
+ <a href="https://app.daily.dev/PranavElric"><img src="./devcard.svg"  style="width: 300px;" align="right" alt="Pranav Choudhary's Dev Card"/></a>
+ </div>
+
 <p align="center">
 
 <a href="https://github.com/rajesh-ranjan-git" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rajesh-ranjan-git" height="30" width="40" align="center"/></a>
