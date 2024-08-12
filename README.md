@@ -1,4 +1,7 @@
-![MasterHead](/github-header-image.png)
+<p align="center">
+
+ [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20there!%20I'm%20Rajesh%20Ranjan&text2=%20I%20am%20a%20Full%20Stack%20EWeb%20Developer%20with%20passion%20for%20developing%20awesome%20websites...&width=1000&height=500)](https://pranavelric.github.io/)
+</p>
 
 <h1 align="center">Hi 👋, I'm Rajesh Ranjan</h1>
 <h3 align="center">An enthusiastic Full Stack Web Developer adept at leveraging a diverse skill set trying. Certified with MERN Full Stack Web Development at GeeksForGeeks. Proficient in ReactJS, JavaScript, Node.js, MongoDB, ExpressJS, Python, and Java with an inclination towards delivering dynamic and user-friendly web applications.</h3>
