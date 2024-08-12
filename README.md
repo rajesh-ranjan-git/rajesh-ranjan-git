@@ -58,7 +58,7 @@
 <br />
 
 <p align="center">  
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rajesh-ranjan-git&style=flat&color=brightgreen"> •   
+  <img alt = "profile views" src="https://visitcount.itsvg.in/api?id=rajesh-ranjan-git&icon=0&color=brightgreen"> •   
   <!-- <a href="https://user-badge.committers.top/india_private/pranavelric"><img src="https://user-badge.committers.top/india_private/pranvelric.svg"></a> • -->
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
@@ -155,17 +155,6 @@
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
-
-## 🏆 GitHub Trophies
-
-<p align="center" style="width:100%">  
-<img  src="https://github-profile-trophy.vercel.app/?username=rajesh-ranjan-git&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=false&theme=juicyfresh" >
- 
-</p>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=rajesh-ranjan-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 
