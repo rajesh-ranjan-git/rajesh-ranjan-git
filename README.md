@@ -152,9 +152,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajesh-ranjan-git&theme=react-dark&hide_border=true&area=true&radius=10&color=00DCA8&line=00ab75&area_color=4ddb75" alt="Rajesh's github activity graph" />
 </p>
 
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+<!-- ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg) -->
 
 <h1 align="center">🔝 Top Contributed Repo</h1>
 
@@ -164,14 +164,14 @@
 
 #
 
-<p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />  
+<!-- <p align="center">
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />
   <h1 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h1>
 </p>
 
 <p align="center">
  <a href="https://metrics.lecoq.io/about/rajesh-ranjan-git"><img src="github-metrics.svg" width="75%"   alt="Rajesh Ranjan's Github Metrics"/></a>
-</p>
+</p> -->
 
 <h1 align="center">😂 Here is a random joke that'll make you laugh!</h1>
 
