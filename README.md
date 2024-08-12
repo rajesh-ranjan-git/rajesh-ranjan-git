@@ -158,13 +158,16 @@
 
 <h1 align="center">🔝 Top Contributed Repo</h1>
 
-<img align="center" src="https://github-contributor-stats.vercel.app/api?username=rajesh-ranjan-git&limit=5&theme=dark&combine_all_yearly_contributions=true">
+<p align="center">
+<img align="center" src="https://github-contributor-stats.vercel.app/api?username=rajesh-ranjan-git&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
 ![](https://github-contributor-stats.vercel.app/api?username=rajesh-ranjan-git&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 #
 
 <p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />  
   <h1 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h1>
 </p>
 
@@ -174,9 +177,9 @@
 
 <h1 align="center">😂 Here is a random joke that'll make you laugh!</h1>
 
+<p align="center">
 <img align="center" src="https://readme-jokes.vercel.app/api">
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+</p>
 
 <h1>
   Connect With Me
@@ -198,7 +201,7 @@
     <code><img height="60" width="60" src="https://skillicons.dev/icons?i=instagram"/></code>
   </a>
   <a href="https://fb.com/rajeshranjan8271" target="_blank">
-    <code><img height="60" width="60" src="https://img.shields.io/badge/facebook"/></code>
+    <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/></code>
   </a>
   <a href="mailto:rajeshranjan8271@gmail.com">
     <code><img src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="Pranav's Mail" height="60" width="60"></code>
