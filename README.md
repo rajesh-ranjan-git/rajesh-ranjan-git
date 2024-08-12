@@ -140,12 +140,16 @@
 
 <p align="center" > 
 <img  height="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh-ranjan-git&theme=vue&show_icons=true&hide_border=false&include_all_commits=false&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&count_private=false"/>
+
+<br />
+<br />
+
 <img align="center"  height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-ranjan-git&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&langs_count=15&layout=compact&hide_border=false" />
 </p>
 
 <p align=center>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavelric&theme=react-dark&hide_border=true&area=true&radius=10&color=00DCA8&line=00ab75&area_color=4ddb75" alt="Pranav's github activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajesh-ranjan-git&theme=react-dark&hide_border=true&area=true&radius=10&color=00DCA8&line=00ab75&area_color=4ddb75" alt="Rajesh's github activity graph" />
 </p>
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
