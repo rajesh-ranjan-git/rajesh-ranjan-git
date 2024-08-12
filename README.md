@@ -32,16 +32,14 @@
 
 <br/>
 
-<br/>
-<br/>
-
 </div>
 
 <!-- <div align="center">
  <a href="https://app.daily.dev/PranavElric"><img src="./devcard.svg"  style="width: 300px;" align="right" alt="Pranav Choudhary's Dev Card"/></a>
  </div> -->
 
-<div style="display: flex, justify-content: center, align-items:center">
+<div>
+
 <p align="center">
 
 <a href="https://github.com/rajesh-ranjan-git" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rajesh-ranjan-git" height="30" width="40" /></a>
@@ -55,6 +53,7 @@
 <a href="https://instagram.com/_rajesh____" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rajesh____" height="30" width="40"  /></a>
 
 </p>
+
 </div>
 
 <h1 align="center">Hi 👋, I'm Rajesh Ranjan</h1>
