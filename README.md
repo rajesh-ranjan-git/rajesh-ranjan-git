@@ -156,22 +156,25 @@
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
-### 🔝 Top Contributed Repo
+<h1 align="center">🔝 Top Contributed Repo</h1>
 
+<img align="center" src="https://github-contributor-stats.vercel.app/api?username=rajesh-ranjan-git&limit=5&theme=dark&combine_all_yearly_contributions=true">
 ![](https://github-contributor-stats.vercel.app/api?username=rajesh-ranjan-git&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 #
 
 <p align="center">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  <h2 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h2>
+  <h1 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h1>
 </p>
 
 <p align="center">
  <a href="https://metrics.lecoq.io/about/rajesh-ranjan-git"><img src="github-metrics.svg" width="75%"   alt="Rajesh Ranjan's Github Metrics"/></a>
 </p>
 
-## 😂 Here is a random joke that'll make you laugh!
+<h1 align="center">😂 Here is a random joke that'll make you laugh!</h1>
+
+<img align="center" src="https://readme-jokes.vercel.app/api">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -195,7 +198,7 @@
     <code><img height="60" width="60" src="https://skillicons.dev/icons?i=instagram"/></code>
   </a>
   <a href="https://fb.com/rajeshranjan8271" target="_blank">
-    <code><img height="60" width="60" src="https://img.shields.io/badge/facebook-%23000000.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></code>
+    <code><img height="60" width="60" src="https://img.shields.io/badge/facebook"/></code>
   </a>
   <a href="mailto:rajeshranjan8271@gmail.com">
     <code><img src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="Pranav's Mail" height="60" width="60"></code>
