@@ -128,9 +128,9 @@
 <h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center" >
-  <img height="150" width="150" src="./webp/left.webp"  style="width:20%">
+  <img height="150" width="150" src="/left.webp"  style="width:20%">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-ranjan-git&theme=dark&hide_border=false" style="width:50%"  />
-  <img height="150" width="150" src="./webp/right.webp" style="width:20%">
+  <img height="150" width="150" src="/right.webp" style="width:20%">
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=rajesh-ranjan-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
