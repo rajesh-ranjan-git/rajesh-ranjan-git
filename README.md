@@ -41,7 +41,10 @@
 
 # 💫 About Me:
 
-<img align="right" alt="coding" width="380" src="/side-img.gif">
+<!-- <img align="right" alt="coding" width="380" src="/side-img.gif"> -->
+
+<a href="https://app.daily.dev/rajeshranjandevcard"><img src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="356" alt="Rajesh Ranjan's Dev Card"/></a>
+
 </div>
 ⚡ Certified with React JS Development by GeeksForGeeks<br><br>
 ⚡ Certified with MERN Full Stack Web Development by GeeksForGeeks<br><br>
@@ -217,4 +220,4 @@
 
 ![footer](/footer.webp)
 
-![snake gif](https://github.com/rajesh-ranjan-git/rajesh-ranjan-git/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/rajesh-ranjan-git/rajesh-ranjan-git/blob/output/github-contribution-grid-snake.svg) -->
