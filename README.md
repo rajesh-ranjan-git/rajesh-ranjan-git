@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://twitter.com/_rajesh____" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%231E77B5.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=_rajesh____ style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white alt=_rajesh____ style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://linkedin.com/in/rajesh-ranjan-660b1b13a" target="_blank">
@@ -21,14 +21,11 @@
 </a>
 
 <a href="https://fb.com/rajeshranjan8271" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%231E77B5.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=rajeshranjan8271 style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/facebook-%23000000.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=rajeshranjan8271 style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://instagram.com/_rajesh____" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=_rajesh____ style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/10224590/pranav-choudhary?tab=profile" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%231E77B5.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=_rajesh____ style="margin-bottom: 5px;" />
 </a>
 
 </p>
