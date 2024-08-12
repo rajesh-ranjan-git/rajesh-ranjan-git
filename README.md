@@ -36,10 +36,10 @@
  <a href="https://app.daily.dev/PranavElric"><img src="./devcard.svg"  style="width: 300px;" align="right" alt="Pranav Choudhary's Dev Card"/></a>
  </div> -->
 
-<br />
-
 <h1 align="center">Hi 👋, I'm Rajesh Ranjan</h1>
-<h3 align="center">An enthusiastic Full Stack Web Developer adept at leveraging a diverse skill set trying. Certified with MERN Full Stack Web Development at GeeksForGeeks. Proficient in ReactJS, JavaScript, Node.js, MongoDB, ExpressJS, Python, and Java with an inclination towards delivering dynamic and user-friendly web applications.</h3><br><br>
+<h3 align="center">An enthusiastic Full Stack Web Developer adept at leveraging a diverse skill set trying. Certified with MERN Full Stack Web Development at GeeksForGeeks. Proficient in ReactJS, JavaScript, Node.js, MongoDB, ExpressJS, Python, and Java with an inclination towards delivering dynamic and user-friendly web applications.</h3>
+
+<br />
 
 # 💫 About Me:
 
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
 
-# 💻 <h1 align="center">Hi 👋, I'm Rajesh Ranjan</h1>
+<h1 align="center">👋 Socials</h1>
 
 <p align="center">
 
