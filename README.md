@@ -7,8 +7,9 @@
 <div>
 
 <p align="center">
-
-<a href="https://github.com/rajesh-ranjan-git" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rajesh-ranjan-git" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranav-choudhary/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <a href="https://instagram.com/pranav.elric" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
@@ -32,6 +33,7 @@
  <a href="https://app.daily.dev/PranavElric"><img src="./devcard.svg"  style="width: 300px;" align="right" alt="Pranav Choudhary's Dev Card"/></a>
  </div> -->
 
+<div>
 <p align="center">
 
 <a href="https://github.com/rajesh-ranjan-git" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rajesh-ranjan-git" height="30" width="40" /></a>
@@ -41,6 +43,7 @@
 <a href="https://instagram.com/_rajesh____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rajesh____" height="30" width="40"  /></a>
 
 </p>
+</div>
 
 <h1 align="center">Hi 👋, I'm Rajesh Ranjan</h1>
 <h3 align="center">An enthusiastic Full Stack Web Developer adept at leveraging a diverse skill set trying. Certified with MERN Full Stack Web Development at GeeksForGeeks. Proficient in ReactJS, JavaScript, Node.js, MongoDB, ExpressJS, Python, and Java with an inclination towards delivering dynamic and user-friendly web applications.</h3><br><br>
