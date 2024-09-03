@@ -51,8 +51,8 @@
 💬 Ask me about **MERN, React JS, Node.js, ExpressJS, JavaScript, MongoDB**<br><br>
 📫 Reach me at : rajeshranjan@gmail.com<br><br>
 📫 Call me at : +91-999-934-0771<br><br>
-📄 Know about my experiences (Resume Link) : https://www.linkedin.com/in/rajesh-ranjan-660b1b13a/overlay/1723087518869/single-media-viewer/?profileId=ACoAACH7QugBEDs8g99PDcJo7iH_R0nlppK50Gk<br><br>
-📄 Git Resume Link : https://github.com/rajesh-ranjan-git/rajesh-ranjan-git/blob/main/Rajesh_Resume.pdf<br><br>
+📄 Know about me (Portfolio) : https://rajesh-ranjan-portfolio.netlify.app/<br><br>
+📄 Resume : https://drive.google.com/file/d/1PCoanFWeWReUQ_QmWO-PsgsPzsHHWCan/view?usp=sharing<br><br>
 🌱 React JS Certification Link : https://media.geeksforgeeks.org/courses/certificates/b93b9e18acf8cfe7685efe662e76ef77.pdf<br><br>
 🌱 MERN Full Stack Web Development Certification Link : https://media.geeksforgeeks.org/courses/certificates/cd5821e65eb73895ef125b8cec818f83.pdf
 
@@ -201,7 +201,7 @@
     <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/></code>
   </a>
   <a href="mailto:rajeshranjan8271@gmail.com">
-    <code><img src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="Pranav's Mail" height="60" width="60"></code>
+    <code><img src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="Rajesh's Mail" height="70" width="70"></code>
   </a>     
 </p>
 <br/>
