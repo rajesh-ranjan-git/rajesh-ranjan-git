@@ -201,7 +201,7 @@
     <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/></code>
   </a>
   <a href="mailto:rajeshranjan8271@gmail.com">
-    <code><img src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="Rajesh's Mail" height="auto" width="80"></code>
+    <code><img src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="Rajesh's Mail" height="60" width="60"></code>
   </a>     
 </p>
 <br/>
