@@ -36,7 +36,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Frontend+Developer;ReactJS+Developer;Software+Engineer;&center=true&width=500&height=50"></a>
 </p>
-<h3 align="center">An enthusiastic Full Stack Web Developer adept at leveraging a diverse skill set trying. Certified with MERN Full Stack Web Development at GeeksForGeeks. Proficient in ReactJS, JavaScript, Node.js, MongoDB, ExpressJS, Python, and Java with an inclination towards delivering dynamic and user-friendly web applications.</h3>
+<h3 align="center">Driven and detail-oriented Web Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js) seeking a challenging role to leverage my skills in building scalable, responsive, and high-performance applications. Passionate about developing efficient back-end solutions and intuitive front-end designs, I am eager to contribute to a dynamic team focused on delivering innovative digital experiences.</h3>
 
 # 💫 About Me:
 
