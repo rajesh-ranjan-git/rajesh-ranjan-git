@@ -61,7 +61,7 @@
 <br />
 
 <p align="center">  
-<img alt = "profile views" src="https://visitcount.itsvg.in/api?id=rajesh-ranjan-git&icon=0&color=0"> • <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rajesh-ranjan-git&style=flat&color=brightgreen"> • <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social"> • 
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=rajesh-ranjan-git&style=flat&color=white"> • <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social"> • 
 <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
 
@@ -72,7 +72,8 @@
 
 <p align="center" >
   <img height="150" width="150" src="/left.webp"  style="width:20%">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-ranjan-git&theme=dark&hide_border=false" style="width:50%"  />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-ranjan-git&theme=dark&hide_border=false" style="width:50%"  /> -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   <img height="150" width="150" src="/right.webp" style="width:20%">
 </p>
 
