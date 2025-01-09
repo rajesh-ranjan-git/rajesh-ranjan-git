@@ -73,7 +73,7 @@
 <p align="center" >
   <img height="150" width="150" src="/left.webp"  style="width:20%">
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-ranjan-git&theme=dark&hide_border=false" style="width:50%"  /> -->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rajesh-ranjan-git&theme=merko" alt="GitHub Streak" /></a>
   <img height="150" width="150" src="/right.webp" style="width:20%">
 </p>
 
