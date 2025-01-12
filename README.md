@@ -72,8 +72,8 @@
 
 <p align="center" >
   <img height="150" width="150" src="/left.webp"  style="width:20%">
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-ranjan-git&theme=dark&hide_border=false" style="width:50%"  /> -->
-  <a href="https://rajesh-ranjan-portfolio.netlify.app/"><img src="https://streak-stats.demolab.com?user=rajesh-ranjan-git&theme=merko" alt="GitHub Streak" style="width:50%" /></a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-ranjan-git&theme=dark&hide_border=false" style="width:50%"  />
+<!--   <a href="https://rajesh-ranjan-portfolio.netlify.app/"><img src="https://streak-stats.demolab.com?user=rajesh-ranjan-git&theme=merko" alt="GitHub Streak" style="width:50%" /></a> -->
   <img height="150" width="150" src="/right.webp" style="width:20%">
 </p>
 
