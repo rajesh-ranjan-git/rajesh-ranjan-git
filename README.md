@@ -36,7 +36,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Frontend+Developer;ReactJS+Developer;Software+Engineer;&center=true&width=500&height=50"></a>
 </p>
-<h3 align="center">Driven and detail-oriented Web Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js) seeking a challenging role to leverage my skills in building scalable, responsive, and high-performance applications. Passionate about developing efficient back-end solutions and intuitive front-end designs, I am eager to contribute to a dynamic team focused on delivering innovative digital experiences.</h3>
+<h3 align="center">Driven and detail-oriented Web Developer with expertise in the MERN stack (JavaScript, TypeScript, MongoDB, Express JS, React JS, Node JS, Next JS, ReactNative) seeking a challenging role to leverage my skills in building scalable, responsive, and high-performance applications. Passionate about developing efficient back-end solutions and intuitive front-end designs, I am eager to contribute to a dynamic team focused on delivering innovative digital experiences.</h3>
 
 # 💫 About Me:
 
@@ -48,7 +48,7 @@
 </div>
 ⚡ Certified with React JS Development by GeeksForGeeks<br><br>
 ⚡ Certified with MERN Full Stack Web Development by GeeksForGeeks<br><br>
-💬 Ask me about **MERN, React JS, Node.js, ExpressJS, JavaScript, MongoDB**<br><br>
+💬 Ask me about **MERN, React JS, Node.js, ExpressJS, JavaScript, TypeScript, Next JS, React Native, MongoDB**<br><br>
 📫 Reach me at : rajeshranjan@gmail.com<br><br>
 📫 Call me at : +91-999-934-0771<br><br>
 📄 Know about me (Portfolio) : https://rajesh-ranjan-portfolio.netlify.app/<br><br>
