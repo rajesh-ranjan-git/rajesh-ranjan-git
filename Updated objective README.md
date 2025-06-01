@@ -36,7 +36,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Frontend+Developer;ReactJS+Developer;Software+Engineer;&center=true&width=500&height=50"></a>
 </p>
-<h3 align="center">Driven and detail-oriented Web Developer with expertise in the MERN stack (JavaScript, TypeScript, MongoDB, Express JS, React JS, Node JS, Next JS, ReactNative) seeking a challenging role to leverage my skills in building scalable, responsive, and high-performance applications. Passionate about developing efficient back-end solutions and intuitive front-end designs, I am eager to contribute to a dynamic team focused on delivering innovative digital experiences.</h3>
+<h3 align="center">💻 Full Stack Developer @Business Today Tech | India Today Group | Ex-NTT<br>
+🚀 MERN Stack Specialist | JavaScript | TypeScript | MongoDB | MySQL | Express.js | React.js | Node.js | Next.js | React Native<br>
+🛠️ Building scalable web & cloud solutions with clean, performant code</h3>
 
 # 💫 About Me:
 
