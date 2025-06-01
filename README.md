@@ -48,7 +48,7 @@
 <br />
 
 </div>
-💻 Full Stack Developer @Business Today Tech | India Today Group | Ex-NTT<br><br>
+💻 Full Stack Developer @Business Today Technology | India Today Group | Ex-NTT<br><br>
 ⚡ Certified with React JS Development by GeeksForGeeks<br><br>
 ⚡ Certified with MERN Full Stack Web Development by GeeksForGeeks<br><br>
 💬 Ask me about **Next JS, React JS, Node JS, Express JS, JavaScript, TypeScript, React Native, MongoDB, MySQL**<br><br>
