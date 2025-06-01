@@ -1,6 +1,6 @@
 <p align="center">
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Rajesh%20Ranjan&text2=%20I%20am%20a%20Full%20Stack%20Web%20Developer%20with%20passion%20for%20developing%20awesome%20websites...&width=1000&height=300)](https://rajesh-ranjan-portfolio.netlify.app/)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Rajesh%20Ranjan&text2=%20Full%20Stack%20Developer&width=1000&height=300)](https://rajesh-ranjan-portfolio.netlify.app/)
 
 </p>
 
