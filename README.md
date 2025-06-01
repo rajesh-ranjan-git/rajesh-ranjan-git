@@ -1,6 +1,6 @@
 <p align="center">
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Rajesh%20Ranjan&text2=%20Full%20Stack%20Developer&width=1000&height=300)](https://rajesh-ranjan-portfolio.netlify.app/)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Rajesh%20Ranjan&text2=%20Full%20Stack%20Developer%20@Business%20Today@Technology%20|%20India%20Today&width=1000&height=300)](https://rajesh-ranjan-portfolio.netlify.app/)
 
 </p>
 
@@ -34,9 +34,9 @@
 
 <h1 align="center">Hi 👋, I'm Rajesh Ranjan</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Frontend+Developer;ReactJS+Developer;Software+Engineer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Software+Engineer;Full+Stack+Web+Developer;Software+Developer;&center=true&width=500&height=50"></a>
 </p>
-<h3 align="center">💻 Full Stack Developer @Business Today Tech | India Today Group | Ex-NTT<br>
+<h3 align="center">💻 Full Stack Developer @Business Today Technology | India Today Group | Ex-NTT<br>
 🚀 MERN Stack | React.js | Node.js | Next.js | React Native | JavaScript | TypeScript | | Express.js | MongoDB | MySQL<br>
 🛠️ Building scalable web & cloud solutions with clean, performant code</h3>
 
