@@ -36,9 +36,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Software+Engineer;Full+Stack+Web+Developer;Software+Developer;&center=true&width=500&height=50"></a>
 </p>
-<h3 align="center">💻 Full Stack Developer @Business Today Technology | India Today Group | Ex-NTT<br>
-🚀 MERN Stack | React.js | Node.js | Next.js | React Native | JavaScript | TypeScript | | Express.js | MongoDB | MySQL<br>
-🛠️ Building scalable web & cloud solutions with clean, performant code</h3>
+<h3 align="center">💻 Full Stack Developer @Business Today Technology | India Today Group | Ex-NTT 💻<br>
+🚀 MERN Stack | React.js | Node.js | Next.js | React Native | JavaScript | TypeScript | Express.js | MongoDB | MySQL 🚀<br>
+🛠️ Building scalable web & cloud solutions with clean, performant code 🛠️</h3>
 
 # 💫 About Me:
 
@@ -48,7 +48,7 @@
 <br />
 
 </div>
-💻 Full Stack Developer @Business Today Tech | India Today Group | Ex-NTT<br>
+💻 Full Stack Developer @Business Today Tech | India Today Group | Ex-NTT<br><br>
 ⚡ Certified with React JS Development by GeeksForGeeks<br><br>
 ⚡ Certified with MERN Full Stack Web Development by GeeksForGeeks<br><br>
 💬 Ask me about **MERN, React JS, Node.js, ExpressJS, JavaScript, TypeScript, Next JS, React Native, MongoDB**<br><br>
