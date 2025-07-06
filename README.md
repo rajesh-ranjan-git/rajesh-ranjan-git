@@ -55,7 +55,7 @@
 📫 Reach me at : rajeshranjan@gmail.com<br><br>
 📫 Call me at : +91-999-934-0771<br><br>
 📄 Know about me (Portfolio) : https://rajesh-ranjan-portfolio.netlify.app/<br><br>
-📄 Resume : https://drive.google.com/file/d/1LsgZszXm3WHWVnlrTxY_EDPyh3vtKAp0/view?usp=drive_link<br><br>
+📄 Resume : https://drive.google.com/file/d/1i57BJ4Zp61cIREahhDu-HEPkcNZ6X1AE/view?usp=sharing<br><br>
 🌱 React JS Certification Link : https://media.geeksforgeeks.org/courses/certificates/b93b9e18acf8cfe7685efe662e76ef77.pdf<br><br>
 🌱 MERN Full Stack Web Development Certification Link : https://media.geeksforgeeks.org/courses/certificates/cd5821e65eb73895ef125b8cec818f83.pdf
 
