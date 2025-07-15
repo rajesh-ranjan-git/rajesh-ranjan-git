@@ -48,8 +48,6 @@
 <br />
 
 </div>
-<br />
-<br />
 💻 Full Stack Developer @Business Today Technology | India Today Group | Ex-NTT<br><br>
 ⚡ Certified with React JS Development by GeeksForGeeks<br><br>
 ⚡ Certified with MERN Full Stack Web Development by GeeksForGeeks<br><br>
