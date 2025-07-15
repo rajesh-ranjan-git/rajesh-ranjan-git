@@ -2,10 +2,6 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Rajesh%20Ranjan&text2=%20Full%20Stack%20Developer%20@Business%20Today%20Technology%20|%20India%20Today%20Group&width=1000&height=300)](https://rajesh-ranjan-portfolio.netlify.app/)
 
-<div style="width: 100%; display: flex; justify-content: center;">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Rajesh%20Ranjan&text2=%20Full%20Stack%20Developer%20@Business%20Today%20Technology%20|%20India%20Today%20Group&width=1000&height=300" style="max-width: 100%; height: auto;" alt="SVG Banner">
-</div>
-
 </p>
 
 <div>
