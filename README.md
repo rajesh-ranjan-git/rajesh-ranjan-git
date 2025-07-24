@@ -46,12 +46,6 @@
 
 # 💫 About Me:
 
-<!-- <img align="right" alt="coding" width="380" src="/side-img.gif"> -->
-
-<a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="356" alt="Rajesh Ranjan's Dev Card" style="margin-bottom: 10px;"/></a>
-<br />
-<br />
-
 💻 Full Stack Developer @Business Today Technology | India Today Group | Ex-NTT<br><br>
 ⚡ Certified with React JS Development by GeeksForGeeks<br><br>
 ⚡ Certified with MERN Full Stack Web Development by GeeksForGeeks<br><br>
@@ -62,6 +56,8 @@
 📄 Resume : https://drive.google.com/file/d/1i57BJ4Zp61cIREahhDu-HEPkcNZ6X1AE/view?usp=sharing<br><br>
 🌱 React JS Certification Link : https://media.geeksforgeeks.org/courses/certificates/b93b9e18acf8cfe7685efe662e76ef77.pdf<br><br>
 🌱 MERN Full Stack Web Development Certification Link : https://media.geeksforgeeks.org/courses/certificates/cd5821e65eb73895ef125b8cec818f83.pdf
+
+<a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="356" alt="Rajesh Ranjan's Dev Card" style="margin-bottom: 10px;"/></a>
 
 <br />
 <br />
