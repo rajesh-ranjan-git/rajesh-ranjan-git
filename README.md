@@ -2,10 +2,6 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Rajesh%20Ranjan&text2=%20Full%20Stack%20Developer%20@Business%20Today%20Technology%20|%20India%20Today%20Group&width=1000&height=300)](https://rajesh-ranjan-portfolio.netlify.app/)
 
-<!-- <a href="https://rajesh-ranjan-portfolio.netlify.app/" target="_blank">
-<img src="/banner.svg" alt="rajesh-banner" style="margin-bottom: 5px; width: 100%; height:600px;" />
-</a> -->
-
 </p>
 
 <div>
@@ -46,8 +42,6 @@
 
 # 💫 About Me:
 
-<div>&nbsp;</div>
-
 <a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="380" alt="Rajesh Ranjan's Dev Card"/></a>
 
 <div>&nbsp;</div>
@@ -77,15 +71,9 @@
 
 <p align="center" >
   <img height="150" width="150" src="/left.webp"  style="width:20%">
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-ranjan-git&theme=dark&hide_border=false" style="width:50%"  /> -->
-<!--   <img src="https://streak-stats.demolab.com?user=rajesh-ranjan-git&theme=merko" alt="GitHub Streak" style="width:50%" /> -->
   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rajesh-ranjan-git&theme=dark&hide_border=false" style="width:50%"  />
   <img height="150" width="150" src="/right.webp" style="width:20%">
 </p>
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=rajesh-ranjan-git&theme=dark)](https://rajesh-ranjan-portfolio.netlify.app/)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rajesh-ranjan-git)]
-<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rajesh-ranjan-git&theme=dark&hide_border=false" style="width:50%"  /> -->
 
 <h1 align="center">👋 Socials</h1>
 
