@@ -46,9 +46,9 @@
 
 # ⭐ My Dev Card:
 
-<div>
 <a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" alt="Rajesh Ranjan's Dev Card"/></a>
-<div>
+
+<img src="/transparent-bg.svg" alt="transparent-bg"/>
 
 # 💫 About Me:
 
