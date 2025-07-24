@@ -44,11 +44,11 @@
 🚀 Next.js | React.js | Node.js | React Native | JavaScript | TypeScript | Express.js | MongoDB | MySQL 🚀<br>
 🛠️ Building scalable web & cloud solutions with clean, performant code 🛠️</h3>
 
-# ⭐ Rajesh Ranjan Dev Card:
+# ⭐ My Dev Card:
 
-<a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="356" height="500" alt="Rajesh Ranjan's Dev Card" style="margin-bottom: 10px;"/></a>
-
-#     
+<div>
+<a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" alt="Rajesh Ranjan's Dev Card"/></a>
+<div>
 
 # 💫 About Me:
 
