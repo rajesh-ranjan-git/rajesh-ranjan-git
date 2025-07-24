@@ -48,7 +48,7 @@
 
 <div>&nbsp;</div>
 
-<a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="356" alt="Rajesh Ranjan's Dev Card"/></a>
+<a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="380" alt="Rajesh Ranjan's Dev Card"/></a>
 
 <div>&nbsp;</div>
 
@@ -62,8 +62,6 @@
 📄 Resume : https://drive.google.com/file/d/1i57BJ4Zp61cIREahhDu-HEPkcNZ6X1AE/view?usp=sharing<br><br>
 🌱 React JS Certification Link : https://media.geeksforgeeks.org/courses/certificates/b93b9e18acf8cfe7685efe662e76ef77.pdf<br><br>
 🌱 MERN Full Stack Web Development Certification Link : https://media.geeksforgeeks.org/courses/certificates/cd5821e65eb73895ef125b8cec818f83.pdf
-
-<img src="/transparent-bg.png" width="100%" alt="transparent-bg"/>
 
 <h1 align="center">👀 Profile Metrics</h1>
 
