@@ -46,7 +46,11 @@
 
 # 💫 About Me:
 
+<div>&nbsp;</div>
+
 <a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="356" alt="Rajesh Ranjan's Dev Card"/></a>
+
+<div>&nbsp;</div>
 
 💻 Full Stack Developer @Business Today Technology | India Today Group | Ex-NTT<br><br>
 ⚡ Certified with React JS Development by GeeksForGeeks<br><br>
