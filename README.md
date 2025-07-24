@@ -59,8 +59,6 @@
 
 <a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" alt="Rajesh Ranjan's Dev Card"/></a>
 
-<img src="/transparent-bg.svg" width="100%" height="100px" alt="transparent-bg"/>
-
 <h1 align="center">👀 Profile Metrics</h1>
 
 <p align="center">  
