@@ -48,7 +48,7 @@
 
 <!-- <img align="right" alt="coding" width="380" src="/side-img.gif"> -->
 
-<a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="356" alt="Rajesh Ranjan's Dev Card"/></a>
+<a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="356" alt="Rajesh Ranjan's Dev Card" style="margin-bottom: 10px;"/></a>
 <br />
 
 </div>
