@@ -1,10 +1,10 @@
 <p align="center">
 
-<!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Rajesh%20Ranjan&text2=%20Full%20Stack%20Developer%20@Business%20Today%20Technology%20|%20India%20Today%20Group&width=1000&height=300)](https://rajesh-ranjan-portfolio.netlify.app/) -->
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Rajesh%20Ranjan&text2=%20Full%20Stack%20Developer%20@Business%20Today%20Technology%20|%20India%20Today%20Group&width=1000&height=300)](https://rajesh-ranjan-portfolio.netlify.app/)
 
-<a href="https://rajesh-ranjan-portfolio.netlify.app/" target="_blank">
+<!-- <a href="https://rajesh-ranjan-portfolio.netlify.app/" target="_blank">
 <img src="/banner.svg" alt="rajesh-banner" style="margin-bottom: 5px; width: 100%; height:600px;" />
-</a>
+</a> -->
 
 </p>
 
@@ -59,7 +59,7 @@
 
 <a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="356" alt="Rajesh Ranjan's Dev Card" style="margin-bottom: 10px;"/></a>
 
-<h1 align="center"></h1>
+<hr />
 <h1 align="center">📊 Profile Metrics</h1>
 
 <p align="center">  
