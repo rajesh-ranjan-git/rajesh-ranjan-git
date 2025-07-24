@@ -59,7 +59,7 @@
 🌱 React JS Certification Link : https://media.geeksforgeeks.org/courses/certificates/b93b9e18acf8cfe7685efe662e76ef77.pdf<br><br>
 🌱 MERN Full Stack Web Development Certification Link : https://media.geeksforgeeks.org/courses/certificates/cd5821e65eb73895ef125b8cec818f83.pdf
 
-<img src="/transparent-bg.png" alt="transparent-bg"/>
+<img src="/transparent-bg.png" width="100%" alt="transparent-bg"/>
 
 <h1 align="center">👀 Profile Metrics</h1>
 
