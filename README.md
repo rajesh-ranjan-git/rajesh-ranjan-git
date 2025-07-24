@@ -57,10 +57,9 @@
 🌱 React JS Certification Link : https://media.geeksforgeeks.org/courses/certificates/b93b9e18acf8cfe7685efe662e76ef77.pdf<br><br>
 🌱 MERN Full Stack Web Development Certification Link : https://media.geeksforgeeks.org/courses/certificates/cd5821e65eb73895ef125b8cec818f83.pdf
 
-<a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="356" alt="Rajesh Ranjan's Dev Card" style="margin-bottom: 10px;"/></a>
+<a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="356" height="500" alt="Rajesh Ranjan's Dev Card" style="margin-bottom: 10px;"/></a>
 
-<hr />
-<h1 align="center">📊 Profile Metrics</h1>
+<h1 align="center">👀 Profile Metrics</h1>
 
 <p align="center">  
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rajesh-ranjan-git&style=flat&color=brightgreen"> • <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social"> • 
