@@ -99,6 +99,10 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rajesh____" height="30" width="40"  />
 </a>
 
+<a href="mailto:rajeshranjan8271@gmail.com" target="blank">
+<img src="https://skillicons.dev/icons?i=gmail" alt="rajeshranjan8271@gmail.com" height="30" width="40"  />
+</a>
+
 </p>
 <br />
 
