@@ -95,7 +95,7 @@
 <div>
   <h1 align="center">🔧 Gears Behind the Code</h1>
 
-  <img align="left" height="250px" width="250px" alt="𝙶𝙸𝙵" src="https://octodex.github.com/images/Fintechtocat.png"/>
+  <img align="left" height="350px" width="350px" alt="gif" src="/assets/fintechtocat.png"/>
 </div>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -180,11 +180,12 @@
 <div>
   <h1 align="center">📈 Developer Dashboard</h1>
 
-  <p align="center" > 
-    <img  height="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh-ranjan-git&theme=vue&show_icons=true&hide_border=false&include_all_commits=false&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&count_private=false"/>
-    <br />
-    <br />
-    <img align="center"  height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-ranjan-git&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&langs_count=15&layout=compact&hide_border=false" />
+  <p align="center"> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh-ranjan-git&theme=vue&show_icons=true&hide_border=false&include_all_commits=false&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&count_private=false"/>
+  </p>
+    
+  <p align="center"> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-ranjan-git&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&langs_count=15&layout=compact&hide_border=false" />
   </p>
 
   <p align=center>
