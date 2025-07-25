@@ -52,28 +52,28 @@
 
   ```javascript
     const rajeshRanjan = {
-        currentRole: "Full Stack Developer",
-        education: "B.Tech (CSE)",
-        experience: "5+ years in Full Stack Development",
-        
-        workingOn: "Development across multiple websites with key focus on performance, UI/UX, backend functionality, and SEO enhancements - Business Today Technology (India Today Group) - Full Stack Development Team",
-                
-        specialties: [
-            "Full Stack Development", 
-            "News Publishing Platform",
-            "Digital Media Platform",
-            "CMS-Based Website",
-            "News Aggregation Site",
-            "E-commerce Platforms",
-            "Real-time Applications", 
-            "Performance Optimization",
-            "SEO Optimization",
-        ],
-        
-        currentFocus: "Architecting and building scalable digital news publishing platforms with a strong focus on performance, uptime, and SEO-optimized, fast-loading content delivery for high-traffic audiences.",
-        funFact: "From architecting microservices for scalable news platforms to optimizing algorithms — I bring the same enthusiasm to building systems as I do to solving LeetCode challenges! 🧩"
+      currentRole: "Full Stack Developer",
+      education: "B.Tech (CSE)",
+      experience: "5+ years in Full Stack Development",
+      
+      workingOn: "Development across multiple websites with key focus on performance, UI/UX, backend functionality, and SEO enhancements - Business Today Technology (India Today Group) - Full Stack Development Team",
+              
+      specialties: [
+          "Full Stack Development", 
+          "News Publishing Platform",
+          "Digital Media Platform",
+          "CMS-Based Website",
+          "News Aggregation Site",
+          "E-commerce Platforms",
+          "Real-time Applications", 
+          "Performance Optimization",
+          "SEO Optimization",
+      ],
+      
+      currentFocus: "Architecting and building scalable digital news publishing platforms with a strong focus on performance, uptime, and SEO-optimized, fast-loading content delivery for high-traffic audiences.",
+      funFact: "From architecting microservices for scalable news platforms to optimizing algorithms — I bring the same enthusiasm to building systems as I do to solving LeetCode challenges! 🧩"
     };
-    ```
+  ```
 
 </div>
 
@@ -364,7 +364,7 @@ ign="center">🧭 Contributor Stats</h1>
     <source media="(prefers-color-scheme: light)" srcset="/assets/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="/assets/github-contribution-grid-snake.svg">
   </picture>
-  
+
 </div>
 
 <div>
