@@ -138,6 +138,8 @@
   <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="Remix" width="40" height="40" /> 
 </div>
 
+<br />
+
 <div>
   <h1 align="center">📊 GitHub Stats</h1>
 
