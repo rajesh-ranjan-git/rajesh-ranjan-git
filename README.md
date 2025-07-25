@@ -392,10 +392,6 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
     <img alt="github-snake" src="/snake-commit-contribution/github-snake.svg" />
   </picture>
 
-  <picture>
-    <img alt="github-snake" src="/snake-commit-contribution/ocean.gif" />
-  </picture>
-
 </div>
 
 <div>

@@ -28,8 +28,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=white&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/ocean.gif?palette=github-dark&color_snake=white&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=white
 
       - name: Upload snake files
         uses: actions/upload-artifact@v4
@@ -52,5 +51,5 @@ jobs:
           git config user.email "github-actions@github.com"
           git pull origin main
           git add snake-commit-contribution/*
-          git commit -m "chore: update contribution snake assets in snake-commit-contribution" || echo "No changes to commit"
+          git commit -m "chore: update contribution snake SVGs in snake-commit-contribution" || echo "No changes to commit"
           git push origin main
