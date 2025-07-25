@@ -374,6 +374,19 @@
 
   <h1 align="center">😂 Here is a random joke that'll make you laugh!</h1>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rajesh-ranjan-git/rajesh-ranjan-git/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rajesh-ranjan-git/rajesh-ranjan-git/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://github.com/rajesh-ranjan-git/rajesh-ranjan-git/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+
+</div>
+
+
+<div>
+
+  <h1 align="center">😂 Here is a random joke that'll make you laugh!</h1>
+
   <p align="center">
   <img align="center" src="https://readme-jokes.vercel.app/api" width="100%" height="100%">
   </p>
