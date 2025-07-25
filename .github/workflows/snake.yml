@@ -30,14 +30,15 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Move SVGs to root (optional)
+      - name: Create assets folder if not exists and move files
         run: |
-          mv dist/*.svg .
+          mkdir -p assets
+          mv dist/*.svg assets/
 
-      - name: Commit and push files to main
+      - name: Commit and push to main
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add *.svg
-          git commit -m "chore: update snake contribution graph SVG" || echo "No changes to commit"
+          git add assets/*.svg
+          git commit -m "chore: update contribution snake SVGs in assets" || echo "No changes to commit"
           git push origin main

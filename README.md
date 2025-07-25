@@ -369,9 +369,9 @@
   <h1 align="center">🐍 Contribution Snake</h1>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="/assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="/assets/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="/assets/github-contribution-grid-snake.svg" />
   </picture>
 
 </div>
