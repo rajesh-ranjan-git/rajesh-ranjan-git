@@ -372,7 +372,7 @@
 
 <div>
 
-  <h1 align="center">😂 Here is a random joke that'll make you laugh!</h1>
+  <h1 align="center">🐍 Contribution Snake</h1>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
