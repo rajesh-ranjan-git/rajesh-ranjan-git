@@ -3,12 +3,12 @@
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white)](https://rajesh-ranjan-portfolio.netlify.app/)
-  [![GitHub](https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/)
+  [![GitHub](https://img.shields.io/badge/Github-23000000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/rajesh_leetcode_handle/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajesh-ranjan-660b1b13a/)
-  [![Twitter](https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_rajesh____/)
-  [![Facebook](https://img.shields.io/badge/facebook-%0077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/rajeshranjan8271/)
-  [![Instagram](https://img.shields.io/badge/instagram-%D62976.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_rajesh____/)
+  [![Twitter](https://img.shields.io/badge/Twitter-23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_rajesh____/)
+  [![Facebook](https://img.shields.io/badge/Facebook-0077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/rajeshranjan8271/)
+  [![Instagram](https://img.shields.io/badge/Instagram-D62976.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_rajesh____/)
     
 </div>
 
