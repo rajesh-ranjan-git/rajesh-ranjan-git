@@ -11,7 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:      
       - name: Create output directory
-        run: mkdir -p github-contribution-metrics
+        run: |
+            mkdir -p github-contribution-metrics
+            mv dist/*.svg github-contribution-metrics/
 
       - uses: lowlighter/metrics@latest
         with:
