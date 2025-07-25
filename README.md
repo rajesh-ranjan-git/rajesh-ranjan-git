@@ -186,7 +186,7 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
   <img src="/assets/tech-img/jenkins.svg" alt="jenkins" width="40" height="40">
   <img src="/assets/tech-img/je-st.svg" alt="jest" width="40" height="40">
   <img src="/assets/tech-img/j-query.svg" alt="j-query" width="40" height="40">
-  <img src="/assets/tech-img/ka-fka.svg" alt="kafka" width="40" height="40">
+  <img src="/assets/tech-img/kafka.svg" alt="kafka" width="40" height="40">
   <img src="/assets/tech-img/kali.svg" alt="kali" width="40" height="40">
   <img src="/assets/tech-img/kotlin.svg" alt="kotlin" width="40" height="40">
   <img src="/assets/tech-img/kubernetes.svg" alt="kubernetes" width="40" height="40">
