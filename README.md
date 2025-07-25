@@ -293,7 +293,7 @@
 
 <div>
 
-  <h1 align="center">🎯 Current Focus & Goals</h1>
+  <h1 align="center">🎯 Ongoing Priorities & Aspirations</h1>
 
   ```yaml
     🔭 Professional Goals:
