@@ -27,8 +27,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=#ffffff88,#ffffff55,#ffffff33,#ffffff11;#e3f2fd,#90caf9,#42a5f5,#0d47a1
+            dist/github-contribution-grid-snake-dark.svg?palette=#ffffffcc,#ffffff99,#ffffff66,#ffffff33;#bbdefb,#64b5f6,#2196f3,#1565c0
 
       - name: Create snake-commit-contribution folder if not exists and move files
         run: |
