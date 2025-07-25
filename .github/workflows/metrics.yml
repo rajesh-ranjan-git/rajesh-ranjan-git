@@ -111,5 +111,6 @@ jobs:
           git config user.email "github-actions@github.com"
           git add github-contribution-metrics/*.svg
           git commit -m "chore: update contribution metrics SVGs in github-contribution-metrics" || echo "No changes to commit"
+          git pull --rebase origin main
           git push origin main
 
