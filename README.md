@@ -25,7 +25,7 @@
   🛠️ Building scalable web & cloud solutions with clean, performant code 🛠️</h3>
 </div>
 
-# 💫 About Me:
+# 🧠 About the Human Behind the Code:
 
 <div>
   <a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="380" alt="Rajesh Ranjan's Dev Card"/></a>
@@ -45,7 +45,7 @@
 </div>
 
 <div>
-  <h1 align="center">👀 Profile Metrics</h1>
+  <h1 align="center">🧮 GitHub Profile Analytics</h1>
 
   <p align="center">  
     <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rajesh-ranjan-git&style=flat&color=brightgreen"> • <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social"> • 
@@ -54,7 +54,7 @@
 </div>
 
 <div>
-  <h1 align="center">🏆 GitHub Trophies</h1>
+  <h1 align="center">🏆 Achievements Unlocked</h1>
 
   <p align="center" style="width:100%">
     <img  src="https://github-profile-trophy.vercel.app/?username=rajesh-ranjan-git&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=false&theme=juicyfresh" >
@@ -68,7 +68,7 @@
 </div>
 
 <div>
-  <h1 align="center">👋 Socials</h1>
+  <h1 align="center">📡 Follow My Trail</h1>
 
   <p align="center">
     <a href="https://github.com/rajesh-ranjan-git" target="blank">
@@ -93,7 +93,7 @@
 </div>
 
 <div>
-  <h1 align="center">💻 Tech Stack</h1>
+  <h1 align="center">🔧 Gears Behind the Code</h1>
 
   <img align="left" height="250px" width="250px" alt="𝙶𝙸𝙵" src="https://octodex.github.com/images/Fintechtocat.png"/>
 </div>
@@ -122,7 +122,7 @@
 <br />
 
 <div>
-  <h1 align="center">📊 GitHub Stats</h1>
+  <h1 align="center">📈 Developer Dashboard</h1>
 
   <p align="center" > 
     <img  height="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh-ranjan-git&theme=vue&show_icons=true&hide_border=false&include_all_commits=false&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&count_private=false"/>
@@ -139,7 +139,7 @@
 </div>
 
 <div>
-  <h1 align="center">🔝 Top Contributed Repo</h1>
+  <h1 align="center">🧩 Most Active Repository</h1>
 
   <p align="center">
     <img align="center" src="https://github-contributor-stats.vercel.app/api?username=rajesh-ranjan-git&limit=5&theme=dark&combine_all_yearly_contributions=true" />
@@ -151,7 +151,7 @@
 <div>
   <p align="center">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />
-    <h1 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h1>
+    <h1 align="center"><code>🧭 Contributor Stats</code></h1>
   </p>
 
   <p align="center">
