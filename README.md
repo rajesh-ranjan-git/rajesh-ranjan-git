@@ -61,9 +61,9 @@
   </p>
 
   <p align="center" >
-    <img height="150" width="150" src="/left.webp"  style="width:20%">
+    <img height="150" width="150" src="/assets/left.webp"  style="width:20%">
     <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rajesh-ranjan-git&theme=dark&hide_border=false" style="width:50%"  />
-    <img height="150" width="150" src="/right.webp" style="width:20%">
+    <img height="150" width="150" src="/assets/right.webp" style="width:20%">
   </p>
 </div>
 
@@ -141,7 +141,7 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
   ### 🎨 Frontend Mastery
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -157,8 +157,8 @@
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   ![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Django](https://img.shields.io/badge/django-3670A0?style=for-the-badge&logo=django&logoColor=ffdd54)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/django-3670A0?style=for-the-badge&logo=django&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
@@ -206,14 +206,14 @@
   <h1 align="center">🧭 Contributor Stats</h1>
 
   <p align="center">
-    <a href="https://metrics.lecoq.io/about/rajesh-ranjan-git"><img src="github-metrics.svg" width="75%"   alt="Rajesh Ranjan's Github Metrics"/></a>
+    <a href="https://metrics.lecoq.io/about/rajesh-ranjan-git"><img src="/assets/github-metrics.svg" width="75%"   alt="Rajesh Ranjan's Github Metrics"/></a>
   </p>
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajesh-ranjan-git/rajesh-ranjan-git/main/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajesh-ranjan-git/rajesh-ranjan-git/main/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rajesh-ranjan-git/rajesh-ranjan-git/main/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajesh-ranjan-git/rajesh-ranjan-git/main/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajesh-ranjan-git/rajesh-ranjan-git/main/assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rajesh-ranjan-git/rajesh-ranjan-git/main/assets/github-contribution-grid-snake.svg">
 </picture>
 
 <div>
@@ -227,7 +227,7 @@
 <div>
   <h1 align="center">
     🛸 Beam Me a Message
-    <img src="/Handshake.gif" height="25px">
+    <img src="/assets/handshake.gif" height="25px">
   </h1>
 
   <p align="center">
@@ -265,4 +265,4 @@
 
 #
 
-![footer](/footer.webp)
+![footer](/assets/footer.webp)
