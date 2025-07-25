@@ -154,7 +154,6 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
   <img src="/assets/tech-img/atom.svg" alt="atom" width="40" height="40">
   <img src="/assets/tech-img/aws.svg" alt="aws" width="40" height="40">
   <img src="/assets/tech-img/azure.svg" alt="azure" width="40" height="40">
-  <img src="/assets/tech-img/babel.svg" alt="babel" width="40" height="40">
   <img src="/assets/tech-img/bit-bucket.svg" alt="bit-bucket" width="40" height="40">
   <img src="/assets/tech-img/bootstrap.svg" alt="bootstrap" width="40" height="40">
   <img src="/assets/tech-img/c-sharp.svg" alt="c-sharp" width="40" height="40">
@@ -164,7 +163,6 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
   <img src="/assets/tech-img/c-plus-plus.svg" alt="c-plus-plus.svg" width="40" height="40">
   <img src="/assets/tech-img/css.svg" alt="css" width="40" height="40">
   <img src="/assets/tech-img/dev-to.svg" alt="dev-to" width="40" height="40">
-  <img src="/assets/tech-img/discord.svg" alt="discord" width="40" height="40">
   <img src="/assets/tech-img/django.svg" alt="django" width="40" height="40">
   <img src="/assets/tech-img/docker.svg" alt="docker" width="40" height="40">
   <img src="/assets/tech-img/eclipse.svg" alt="eclipse" width="40" height="40">
@@ -186,9 +184,9 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
   <img src="/assets/tech-img/java.svg" alt="java" width="40" height="40">
   <img src="/assets/tech-img/javascript.svg" alt="javascript" width="40" height="40">
   <img src="/assets/tech-img/jenkins.svg" alt="jenkins" width="40" height="40">
-  <img src="/assets/tech-img/jest.svg" alt="jest" width="40" height="40">
+  <img src="/assets/tech-img/je-st.svg" alt="jest" width="40" height="40">
   <img src="/assets/tech-img/j-query.svg" alt="j-query" width="40" height="40">
-  <img src="/assets/tech-img/kafka.svg" alt="kafka" width="40" height="40">
+  <img src="/assets/tech-img/ka-fka.svg" alt="kafka" width="40" height="40">
   <img src="/assets/tech-img/kali.svg" alt="kali" width="40" height="40">
   <img src="/assets/tech-img/kotlin.svg" alt="kotlin" width="40" height="40">
   <img src="/assets/tech-img/kubernetes.svg" alt="kubernetes" width="40" height="40">
@@ -201,7 +199,7 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
   <img src="/assets/tech-img/nest-js.svg" alt="nest-js" width="40" height="40">
   <img src="/assets/tech-img/netlify.svg" alt="netlify" width="40" height="40">
   <img src="/assets/tech-img/next-js.svg" alt="next-js" width="40" height="40">
-  <img src="/assets/tech-img/nginx.svg" alt="nginx" width="40" height="40">
+  <img src="/assets/tech-img/n-ginx.svg" alt="nginx" width="40" height="40">
   <img src="/assets/tech-img/node-js.svg" alt="node-js" width="40" height="40">
   <img src="/assets/tech-img/npm.svg" alt="npm" width="40" height="40">
   <img src="/assets/tech-img/php.svg" alt="php" width="40" height="40">
@@ -214,12 +212,10 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
   <img src="/assets/tech-img/python.svg" alt="python" width="40" height="40">
   <img src="/assets/tech-img/react-js.svg" alt="react-js" width="40" height="40">
   <img src="/assets/tech-img/redis.svg" alt="redis" width="40" height="40">
-  <img src="/assets/tech-img/redux.svg" alt="redux" width="40" height="40">
+  <img src="/assets/tech-img/re-dux.svg" alt="redux" width="40" height="40">
   <img src="/assets/tech-img/sass.svg" alt="sass" width="40" height="40">
-  <img src="/assets/tech-img/script.js" alt="script" width="40" height="40">
-  <img src="/assets/tech-img/sentry.svg" alt="sentry" width="40" height="40">
+  <img src="/assets/tech-img/se-ntry.svg" alt="sentry" width="40" height="40">
   <img src="/assets/tech-img/spring.svg" alt="spring" width="40" height="40">
-  <img src="/assets/tech-img/sqlite.svg" alt="sqlite" width="40" height="40">
   <img src="/assets/tech-img/stack-overflow.svg" alt="stack-overflow" width="40" height="40">
   <img src="/assets/tech-img/sublime.svg" alt="sublime" width="40" height="40">
   <img src="/assets/tech-img/tailwind-css.svg" alt="tailwind-css" width="40" height="40">
