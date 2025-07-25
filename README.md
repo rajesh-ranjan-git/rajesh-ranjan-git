@@ -418,34 +418,22 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
   <p align="center">
     <br>
     <a href="https://github.com/rajesh-ranjan-git" target="_blank">
-      <code>
-        <img height="60" width="60" src="https://skillicons.dev/icons?i=github"/>
-      </code>
+      <code><img height="60" width="60" src="https://skillicons.dev/icons?i=github"/></code>
     </a>
     <a href="https://linkedin.com/in/rajesh-ranjan-660b1b13a" target="_blank">
-      <code>
-        <img height="60" width="60" src="https://skillicons.dev/icons?i=linkedin"/>
-      </code>
+      <code><img height="60" width="60" src="https://skillicons.dev/icons?i=linkedin"/></code>
     </a>
     <a href="https://twitter.com/_rajesh____" target="_blank">
-      <code>
-        <img  height="60" width="60" src="https://skillicons.dev/icons?i=twitter"/>
-      </code>
+      <code><img  height="60" width="60" src="https://skillicons.dev/icons?i=twitter"/></code>
     </a>
     <a href="https://www.instagram.com/_rajesh____" target="_blank">
-      <code>
-        <img height="60" width="60" src="https://skillicons.dev/icons?i=instagram"/>
-      </code>
+      <code><img height="60" width="60" src="https://skillicons.dev/icons?i=instagram"/></code>
     </a>
     <a href="https://fb.com/rajeshranjan8271" target="_blank">
-      <code>
-        <img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/ icons/Social/facebook.svg"/>
-      </code>
+      <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/ icons/Social/facebook.svg"/></code>
     </a>
     <a href="mailto:rajeshranjan8271@gmail.com">
-      <code>
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Rajesh's Mail" height="60" width="60">
-      </code>
+      <code><img src="https://skillicons.dev/icons?i=gmail" alt="Rajesh's Mail" height="60" width="60"></code>
     </a>
   </p>
 
