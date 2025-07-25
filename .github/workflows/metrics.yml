@@ -16,6 +16,11 @@ jobs:
           persist-credentials: true
           fetch-depth: 0
 
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y docker.io jq
+
       - name: Run metrics
         uses: lowlighter/metrics@latest
         with:
@@ -111,6 +116,8 @@ jobs:
           git config user.email "github-actions@github.com"
           git add github-contribution-metrics/*.svg
           git commit -m "chore: update contribution metrics SVGs in github-contribution-metrics" || echo "No changes to commit"
+          git stash || true
           git pull --rebase origin main
+          git stash pop || true
           git push origin main
 
