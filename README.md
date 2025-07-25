@@ -149,10 +149,7 @@
 #
 
 <div>
-  <p align="center">
-    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />
-    <h1 align="center"><code>🧭 Contributor Stats</code></h1>
-  </p>
+  <h1 align="center"><code>🧭 Contributor Stats</code></h1>
 
   <p align="center">
     <a href="https://metrics.lecoq.io/about/rajesh-ranjan-git"><img src="github-metrics.svg" width="75%"   alt="Rajesh Ranjan's Github Metrics"/></a>
