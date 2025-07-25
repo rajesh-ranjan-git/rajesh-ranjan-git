@@ -10,10 +10,8 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - uses: lowlighter/metrics@latest
+      - name: Run metrics
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -100,4 +98,12 @@ jobs:
         run: |
           mkdir -p github-contribution-metrics
           mv github-metrics.svg github-contribution-metrics/github-metrics.svg
+
+      - name: Commit and push to main
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add github-contribution-metrics/*.svg
+          git commit -m "chore: update contribution metrics SVGs in github-contribution-metrics" || echo "No changes to commit"
+          git push origin main
 
