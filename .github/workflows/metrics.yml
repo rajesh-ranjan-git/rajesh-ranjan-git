@@ -9,7 +9,10 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    steps:
+    steps:      
+      - name: Create output directory
+        run: mkdir -p github-contribution-metrics
+
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
