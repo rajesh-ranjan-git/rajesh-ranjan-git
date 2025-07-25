@@ -193,12 +193,23 @@
     </a>
     <a href="mailto:rajeshranjan8271@gmail.com">
       <code><img src="https://skillicons.dev/icons?i=gmail" alt="Rajesh's Mail" height="60" width="60"></code>
-    </a>     
+    </a>
   </p>
 </div>
 
 <div align="center">
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+  
+  ### 🚀 "Code, Create, Contribute."
+  
+  **Shaping the future — one commit at a time! ⭐**
+  
+</div>
+
+<div align="center">
+
+  ### Thanks for stopping by! Let’s build something amazing together.
+  ** 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 !
+
 </div>
 
 #
