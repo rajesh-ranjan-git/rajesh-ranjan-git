@@ -114,53 +114,6 @@ const rajeshRanjan = {
 
 <div>
 
-  <h1 align="center">📡 Follow My Trail</h1>
-
-  <p align="center">
-    <!-- <a href="https://github.com/rajesh-ranjan-git" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rajesh-ranjan-git" height="40" />
-    </a>
-    <a href="https://twitter.com/_rajesh____" target="blank">
-      <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rajesh____" height="40" />
-    </a>
-    <a href="https://linkedin.com/in/rajesh-ranjan-660b1b13a" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh-ranjan-660b1b13a" height="40" />
-    </a>
-    <a href="https://fb.com/rajeshranjan8271" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajeshranjan8271" height="40"  />
-    </a>
-    <a href="https://instagram.com/_rajesh____" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rajesh____" height="40"  />
-    </a>
-    <a href="mailto:rajeshranjan8271@gmail.com" target="blank">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="rajeshranjan8271@gmail.com" height="40"  />
-    </a> -->
-    <a href="https://github.com/rajesh-ranjan-git" target="blank">
-      <img src="/assets/tech-img/git-hub.svg" alt="rajesh-ranjan-git" height="40" />
-    </a>
-    <a href="https://twitter.com/_rajesh____" target="blank">
-      <img  src="/assets/social/x.svg" alt="_rajesh____" height="40" />
-    </a>
-    <a href="https://linkedin.com/in/rajesh-ranjan-660b1b13a" target="blank">
-      <img src="/assets/social/linked-in.svg" alt="rajesh-ranjan-660b1b13a" height="40" />
-    </a>
-    <a href="https://fb.com/rajeshranjan8271" target="blank">
-      <img src="/assets/social/facebook.svg" alt="rajeshranjan8271" height="40"  />
-    </a>
-    <a href="https://instagram.com/_rajesh____" target="blank">
-      <img src="/assets/social/instagram.svg" alt="_rajesh____" height="40"  />
-    </a>
-    <a href="mailto:rajeshranjan8271@gmail.com" target="blank">
-      <img src="/assets/social/gmail.svg" alt="rajeshranjan8271@gmail.com" height="40"  />
-    </a>
-  </p>
-
-</div>
-
-<div>&nbsp;</div>
-
-<div>
-
   <h1 align="center">💼 Professional Experience</h1>
 
 ### 👨‍💻🛠️ **Full Stack Developer** - Business Today Technology (India Today Group)
