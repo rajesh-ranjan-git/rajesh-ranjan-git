@@ -13,6 +13,7 @@
 </div>
 
 <div>
+
   <h1 align="center">
     Yo! 👋, I'm Rajesh Ranjan !
     <br />
@@ -23,11 +24,13 @@
   <h3 align="center">💻 Full Stack Developer @Business Today Technology | India Today Group | Ex-NTT 💻<br>
   🚀 Next.js | React.js | Node.js | React Native | JavaScript | TypeScript | Express.js | MongoDB | MySQL 🚀<br>
   🛠️ Building scalable web & cloud solutions with clean, performant code 🛠️</h3>
+
 </div>
 
 # 🧠 About the Human Behind the Code:
 
 <div>
+
   <a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="380" alt="Rajesh Ranjan's Dev Card"/></a>
   
   <div>&nbsp;</div>
@@ -42,9 +45,11 @@
   📄 Resume : https://drive.google.com/file/d/1i57BJ4Zp61cIREahhDu-HEPkcNZ6X1AE/view?usp=sharing<br><br>
   🌱 React JS Certification Link : https://media.geeksforgeeks.org/courses/certificates/b93b9e18acf8cfe7685efe662e76ef77.pdf<br><br>
   🌱 MERN Full Stack Web Development Certification Link : https://media.geeksforgeeks.org/courses/certificates/cd5821e65eb73895ef125b8cec818f83.pdf
+
 </div>
 
 <div>
+
   ```javascript
     const rajeshRanjan = {
         currentRole: "Full Stack Developer",
@@ -69,18 +74,22 @@
         funFact: "From architecting microservices for scalable news platforms to optimizing algorithms — I bring the same enthusiasm to building systems as I do to solving LeetCode challenges! 🧩"
     };
     ```
+
 </div>
 
 <div>
+
   <h1 align="center">🧮 GitHub Profile Analytics</h1>
 
   <p align="center">  
     <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rajesh-ranjan-git&style=flat&color=brightgreen"> • <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social"> • 
     <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
   </p>
+
 </div>
 
 <div>
+
   <h1 align="center">🏆 Achievements Unlocked</h1>
 
   <p align="center" style="width:100%">
@@ -92,9 +101,11 @@
     <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rajesh-ranjan-git&theme=dark&hide_border=false" style="width:50%"  />
     <img height="150" width="150" src="/assets/right.webp" style="width:20%">
   </p>
+
 </div>
 
 <div>
+
   <h1 align="center">📡 Follow My Trail</h1>
 
   <p align="center">
@@ -117,11 +128,12 @@
       <img src="https://skillicons.dev/icons?i=gmail" alt="rajeshranjan8271@gmail.com" height="30" width="40"  />
     </a>
   </p>
+
 </div>
 
 <div>
 
-  ## 💼 Professional Experience
+  <h1 align="center">💼 Professional Experience</h1>
 
   ### 👨‍💻🛠️ **Full Stack Developer** - Business Today Technology (india Today Group)
   *April 2025 - Present | Next.js, Node.js, React.js, Express.js, TailwindCSS, MongoDB, PostgresSQL, MySQL, Redis*
@@ -144,9 +156,11 @@
 </div>
 
 <div>
+
   <h1 align="center">🔧 Gears Behind the Code</h1>
 
-  <img align="left" height="350px" width="350px" alt="gif" src="/assets/fintechtocat.png"/>
+  <img align="left" height="350px" width="350px" alt="gif" src="/assets/fintechtocat.png" />
+
 </div>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -165,6 +179,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <div>
+
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="40">
   <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"  />
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
@@ -181,6 +196,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" width="40" height="40" /> 
   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Sass" width="40" height="40" /> 
   <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="Remix" width="40" height="40" /> 
+
 </div>
 
 <br />
@@ -303,6 +319,7 @@
 </div>
 
 <div>
+
   <h1 align="center">📈 Developer Dashboard</h1>
 
   <p align="center"> 
@@ -318,39 +335,50 @@
   </p>
 
   ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+
 </div>
 
 <div>
+
   <h1 align="center">🧩 Most Active Repository</h1>
 
   <p align="center">
     <img align="center" src="https://github-contributor-stats.vercel.app/api?username=rajesh-ranjan-git&limit=5&theme=dark&combine_all_yearly_contributions=true" />
   </p>
+
 <div>
 
 <div>
-  <h1 align="center">🧭 Contributor Stats</h1>
+ign="center">🧭 Contributor Stats</h1>
 
   <p align="center">
     <a href="https://metrics.lecoq.io/about/rajesh-ranjan-git"><img src="/assets/github-metrics.svg" width="75%"   alt="Rajesh Ranjan's Github Metrics"/></a>
   </p>
+
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/assets/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="/assets/github-contribution-grid-snake.svg">
-</picture>
+<div>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/assets/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="/assets/github-contribution-grid-snake.svg">
+  </picture>
+  
+</div>
 
 <div>
+
   <h1 align="center">😂 Here is a random joke that'll make you laugh!</h1>
 
   <p align="center">
   <img align="center" src="https://readme-jokes.vercel.app/api" width="100%" height="100%">
   </p>
+
 </div>
 
 <div>
+
   <h1 align="center">
     🛸 Beam Me a Message
     <img src="/assets/handshake.gif" height="25px">
@@ -377,6 +405,7 @@
       <code><img src="https://skillicons.dev/icons?i=gmail" alt="Rajesh's Mail" height="60" width="60"></code>
     </a>
   </p>
+
 </div>
 
 <div align="center">
