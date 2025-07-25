@@ -31,6 +31,21 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
+      - name: Upload snake files
+        uses: actions/upload-artifact@v4
+        with:
+          name: snake-artifacts
+          path: dist/
+
+      - name: Download snake artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: snake-artifacts
+          path: snake-commit-contribution
+
+      - name: Show contents
+        run: ls -la snake-commit-contribution
+
       - name: Create snake-commit-contribution folder if not exists and move files
         run: |
           mkdir -p snake-commit-contribution
