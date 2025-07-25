@@ -146,39 +146,29 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
 
 </div>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 <div>
 
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="40">
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"  />
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40" height="40"  />
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="40" height="40"  />
-  <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" width="40" height="40"  />  
-  <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" width="40" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"  />  
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="40" height="40" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />   
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" width="40" height="40" /> 
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Sass" width="40" height="40" /> 
-  <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="Remix" width="40" height="40" />
+  <img src="/assets/tech-img/html.svg" alt="html" width="40" height="40">
+  <img src="/assets/tech-img/css.svg" alt="css" width="40" height="40">
+  <img src="/assets/tech-img/tailwind-css.svg" alt="tailwind-css" width="40" height="40">
+  <img src="/assets/tech-img/bootstrap.svg" alt="bootstrap" width="40" height="40">
+  <img src="/assets/tech-img/javascript.svg" alt="javascript" width="40" height="40">
+  <img src="/assets/tech-img/typescript.svg" alt="typescript" width="40" height="40">
+  <img src="/assets/tech-img/react-js.svg" alt="react-js" width="40" height="40">
+  <img src="/assets/tech-img/node-js.svg" alt="node-js" width="40" height="40">  
+  <img src="/assets/tech-img/express-js.svg" alt="express-js" width="40" height="40">
+  <img src="/assets/tech-img/next-js.svg" alt="node-js" width="40" height="40">
+  <img src="/assets/tech-img/java.svg" alt="java" width="40" height="40">
+  <img src="/assets/tech-img/python.svg" alt="python" width="40" height="40">
+  <img src="/assets/tech-img/django.svg" alt="django" width="40" height="40">
+  <img src="/assets/tech-img/mongo-db.svg" alt="mongo-db" width="40" height="40">
+  <img src="/assets/tech-img/my-sql.svg" alt="mongo-db" width="40" height="40">
+  <img src="/assets/tech-img/postgre-sql.svg" alt="postgre-sql" width="40" height="40">
+  <img src="/assets/tech-img/prisma.svg" alt="prisma" width="40" height="40">
+  <img src="/assets/tech-img/redis.svg" alt="redis" width="40" height="40">
+  <img src="/assets/tech-img/appwrite.svg" alt="appwrite" width="40" height="40">
+  <img src="/assets/tech-img/docker.svg" alt="docker" width="40" height="40">
+  <img src="/assets/tech-img/kubernetes.svg" alt="kubernetes" width="40" height="40">
 
 </div>
 
@@ -209,7 +199,7 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-3670A0?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
