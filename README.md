@@ -84,27 +84,21 @@
   <h1 align="center">👋 Socials</h1>
 
   <p align="center">
-
     <a href="https://github.com/rajesh-ranjan-git" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rajesh-ranjan-git" height="30" width="40" />
     </a>
-
     <a href="https://twitter.com/_rajesh____" target="blank">
       <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rajesh____" height="30" width="40" />
     </a>
-
     <a href="https://linkedin.com/in/rajesh-ranjan-660b1b13a" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh-ranjan-660b1b13a" height="30" width="40" />
     </a>
-
     <a href="https://fb.com/rajeshranjan8271" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajeshranjan8271" height="30" width="40"  />
     </a>
-
     <a href="https://instagram.com/_rajesh____" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rajesh____" height="30" width="40"  />
     </a>
-
     <a href="mailto:rajeshranjan8271@gmail.com" target="blank">
       <img src="https://skillicons.dev/icons?i=gmail" alt="rajeshranjan8271@gmail.com" height="30" width="40"  />
     </a>
