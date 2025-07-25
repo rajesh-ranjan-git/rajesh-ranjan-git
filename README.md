@@ -170,7 +170,7 @@
 
 <div>
   <h1 align="center">
-    Connect With Me
+    🛸 Beam Me a Message
     <img src="/Handshake.gif" height="25px">
   </h1>
 
@@ -202,10 +202,6 @@
   ### 🚀 "Code, Create, Contribute."
   
   **Shaping the future — one commit at a time! ⭐**
-  
-</div>
-
-<div align="center">
 
   ### Thanks for stopping by! Show some ❤️ by starring some of my repositories!
 
