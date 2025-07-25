@@ -16,7 +16,7 @@
 
   <h1 align="center">
     Yo! 👋, I'm Rajesh Ranjan !
-    <hr />
+    <br />
     👨‍💻 – exploring code like it’s uncharted space 🚀
   </h1>
 
@@ -134,7 +134,7 @@
 
 </div>
 
-#
+<div>&nbsp;</div>
 
 <div>
 
@@ -320,10 +320,6 @@
   > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" height="100%" alt="GitHub Quote" />
-  </p>
   
 </div>
 
