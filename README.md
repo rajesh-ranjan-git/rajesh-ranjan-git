@@ -369,9 +369,9 @@
   <h1 align="center">🐍 Activity Anaconda</h1>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/snake-commit-contribution/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="/snake-commit-contribution/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="/snake-commit-contribution/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="/snake-commit-contribution/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="/snake-commit-contribution/github-snake.svg" />
+    <img alt="github-snake" src="/snake-commit-contribution/github-snake.svg" />
   </picture>
 
 </div>
@@ -382,7 +382,7 @@
   <h1 align="center">😂 Here is a random joke that'll make you laugh!</h1>
 
   <p align="center">
-  <img align="center" src="https://readme-jokes.vercel.app/api" width="100%" height="100%">
+  <img align="center" src="https://readme-jokes.vercel.app/api" width="75%" />
   </p>
 
 </div>
