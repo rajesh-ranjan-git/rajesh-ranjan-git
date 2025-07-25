@@ -159,7 +159,7 @@
 
   <h1 align="center">🔧 Gears Behind the Code</h1>
 
-  <img align="left" height="350px" width="350px" alt="gif" src="/assets/fintechtocat.png" />
+  <img align="left" height="325px" width="325px" alt="gif" src="/assets/fintechtocat.png" />
 
 </div>
 
@@ -248,7 +248,7 @@
 
   ## 🏗️ Featured Personal Projects
 
-  ### 🛒 **Shopprixity - End-to-End E-commerce Platform**
+  ### 🛍️ **Shopprixity - End-to-End E-commerce Platform**
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/Shopprixity/)
 
   **Comprehensive E-Commerce Platform** with:
@@ -261,10 +261,10 @@
   - 📦 **NPM Package**: Lucide React + Zod
   - 🌐 **Hosting Service**: Vercel
 
-  ### 🛒 **BancardifyMe - End-to-End banking Platform**
+  ### 💰 **BancardifyMe - End-to-End banking Platform**
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/bancardifyme.git/)
 
-  **Comprehensive E-Commerce Platform** with:
+  **Horizon SaaS based Multi-Banking Platform** with:
   - 🎨 **Frontend**: TypeScript, Tailwind CSS, Next.js
   - 🛠️ **Backend**: Next.js, Node.js, Express.js
   - 🗄️ **Database**: AppWrite
@@ -273,10 +273,10 @@
   - 📦 **NPM Package**: ShadCN UI + Lucide React + Zod
   - 🌐 **Hosting Service**: Netlify
 
-  ### 🛒 **MovieMania - MovieHub Platform**
+  ### 📽️ **MovieMania - MovieHub Platform**
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/MovieMania.git/)
 
-  **Comprehensive E-Commerce Platform** with:
+  **Dynamic Movie and TV Show Browsing Platform** with:
   - 🎨 **Frontend**: JavaScript, Tailwind CSS, React.js
   - 🧳 **Bundler**: Vite
   - 📦 **NPM Package**: Lucide React
@@ -289,21 +289,21 @@
   ## 📈 Current Focus & Goals
 
   ```yaml
-  🎯 Professional Goals:
-    - Contributing to News Publishing and Digital Media Platform at Business Today Technology (india Today Group)
-    - Improving performance, seo and user experience
-    - Learning advanced development patterns
+    🎯 Professional Goals:
+      - Contributing to News Publishing and Digital Media Platform at Business Today Technology (india Today Group)
+      - Improving performance, seo and user experience
+      - Learning advanced development patterns
 
-  🔬 Learning & Development:
-    - System Design and scalability
-    - Cloud technologies and deployment  
-    - Backend optimization techniques
-    - Modern frontend frameworks
+    🔬 Learning & Development:
+      - System Design and scalability
+      - Cloud technologies and deployment  
+      - Backend optimization techniques
+      - Modern frontend frameworks
 
-  🤝 Collaboration Interests:
-    - Full stack web applications
-    - Open source contributions
-    - Developer tools and workflows
+    🤝 Collaboration Interests:
+      - Full stack web applications
+      - Open source contributions
+      - Developer tools and workflows
   ```
 
 </div>
@@ -315,6 +315,10 @@
   > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quote" />
+  </p>
   
 </div>
 
@@ -349,7 +353,7 @@
 <div>
 
 <div>
-ign="center">🧭 Contributor Stats</h1>
+  <h1 align="center">🧭 Contributor Stats</h1>
 
   <p align="center">
     <a href="https://metrics.lecoq.io/about/rajesh-ranjan-git"><img src="/assets/github-metrics.svg" width="75%"   alt="Rajesh Ranjan's Github Metrics"/></a>
