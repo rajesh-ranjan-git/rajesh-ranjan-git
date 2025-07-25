@@ -312,6 +312,7 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
 - 🗄️ **Database**: AppWrite
 - 🔐 **Auth Service**: Node.js + Express.js + AppWrite + Firebase
 - 💳 **Payment Service**: Plaid + Dwolla
+- ⏱️ **Monitoring Service**: Sentry
 - 📦 **NPM Package**: ShadCN UI + Lucide React + Zod
 - 🌐 **Hosting Service**: Netlify
 
