@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:      
-      - name: Create output directory
+      - name: Create github-contribution-metrics folder if not exists and move files
         run: |
             mkdir -p github-contribution-metrics
             mv dist/*.svg github-contribution-metrics/
