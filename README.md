@@ -142,7 +142,7 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
 
   <h1 align="center">🔧 Gears Behind the Code</h1>
 
-  <img align="left" height="325px" width="325px" alt="gif" src="/assets/fintechtocat.png" />
+  <img align="left" height="350px" width="350px" alt="gif" src="/assets/fintechtocat.png" />
 
 </div>
 
@@ -213,7 +213,7 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
   <img src="/assets/tech-img/appwrite.svg" alt="appwrite" width="40" height="40">
   <img src="/assets/tech-img/docker.svg" alt="docker" width="40" height="40">  
   <img src="/assets/tech-img/kubernetes.svg" alt="kubernetes" width="40" height="40">
-  
+
   <img src="/assets/tech-img/html.svg" alt="html" width="40" height="40">
   <img src="/assets/tech-img/css.svg" alt="css" width="40" height="40">
   <img src="/assets/tech-img/tailwind-css.svg" alt="tailwind-css" width="40" height="40">
