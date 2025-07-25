@@ -403,7 +403,7 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
   <h1 align="center">😂 Here is a random joke that'll make you laugh!</h1>
 
   <p align="center">
-  <img align="center" src="https://readme-jokes.vercel.app/api" width="75%" />
+    <img align="center" src="https://readme-jokes.vercel.app/api" width="75%" />
   </p>
 
 </div>
