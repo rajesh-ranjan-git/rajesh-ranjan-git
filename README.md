@@ -45,6 +45,33 @@
 </div>
 
 <div>
+  ```javascript
+    const rajeshRanjan = {
+        currentRole: "Full Stack Developer",
+        education: "B.Tech (CSE)",
+        experience: "5+ years in Full Stack Development",
+        
+        workingOn: "Development across multiple websites with key focus on performance, UI/UX, backend functionality, and SEO enhancements - Business Today Technology (India Today Group) - Full Stack Development Team",
+                
+        specialties: [
+            "Full Stack Development", 
+            "News Publishing Platform",
+            "Digital Media Platform",
+            "CMS-Based Website",
+            "News Aggregation Site",
+            "E-commerce Platforms",
+            "Real-time Applications", 
+            "Performance Optimization",
+            "SEO Optimization",
+        ],
+        
+        currentFocus: "Architecting and building scalable digital news publishing platforms with a strong focus on performance, uptime, and SEO-optimized, fast-loading content delivery for high-traffic audiences.",
+        funFact: "From architecting microservices for scalable news platforms to optimizing algorithms — I bring the same enthusiasm to building systems as I do to solving LeetCode challenges! 🧩"
+    };
+    ```
+</div>
+
+<div>
   <h1 align="center">🧮 GitHub Profile Analytics</h1>
 
   <p align="center">  
@@ -90,6 +117,30 @@
       <img src="https://skillicons.dev/icons?i=gmail" alt="rajeshranjan8271@gmail.com" height="30" width="40"  />
     </a>
   </p>
+</div>
+
+<div>
+
+  ## 💼 Professional Experience
+
+  ### 👨‍💻🛠️ **Full Stack Developer** - Business Today Technology (india Today Group)
+  *April 2025 - Present | Next.js, Node.js, React.js, Express.js, TailwindCSS, MongoDB, PostgresSQL, MySQL, Redis*
+
+  - 🧩 **End-to-End Web Application Development**: Built and maintained full-stack web applications using React.js and Node.js, increasing feature release speed by 35% through modular architecture and component-based design.
+  - ⚡ **Performance & Scalability Enhancements**: Optimized front-end and back-end performance using SSR (Server-Side Rendering), database indexing, and CDN caching, resulting in a **40% improvement in page load and API response times**.
+  - 🎨 **Responsive UI & Accessibility**: Engineered accessible, mobile-first interfaces with Tailwind CSS and React, ensuring WCAG compliance and consistent user experience across all screen sizes and browsers.
+  - 🔌 **API Development & Integration**: Developed and documented RESTful APIs, integrating third-party services (e.g., OAuth2) and streamlining communication between microservices.
+  - 🗃️ **Database Design & Optimization**: EDesigned and optimized databases using both NoSQL (MongoDB) and SQL (MySQL), implementing efficient schemas, aggregation pipelines, indexing, and query optimization to support high-volume data operations with minimal latency.
+  - 🤝 **Team Collaboration & Agile Workflow**: Collaborated with cross-functional teams (backend developers, UX/UI designers, product managers) in an Agile environment, code reviews, and ensuring high-quality deliverables.
+  - 🔄 **Migration**: Successfully transitioned **4+ projects from React.js to Next.JS** for Vue frontend compatibility
+  - 🚀 **Leadership**: Led **2+ high-priority projects** with architectural design & documentation
+
+  ### 🧑‍💻🖌️ **UI Developer** - NTT Data Services
+  *Nov 2020 - April 2025 | React.js, Node.js, MongoDB*
+
+  - 📊 Developed **3 major statistical dashboards** for Banking and Education
+  - 📈 Integrated dynamic charts using **HighCharts** for data visualization
+
 </div>
 
 <div>
@@ -175,6 +226,80 @@
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
+</div>
+
+<div>
+
+  ## 🏗️ Featured Personal Projects
+
+  ### 🛒 **Shopprixity - End-to-End E-commerce Platform**
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/Shopprixity/)
+
+  **Comprehensive E-Commerce Platform** with:
+  - 🎨 **Frontend**: JavaScript, Tailwind CSS, React.js
+  - 🛠️ **Backend**: Node.js, Express.js
+  - 🗄️ **Database**: MongoDB, Prisma
+  - 🧳 **Bundler**: Vite
+  - 🔐 **Auth Service**: Node.js + Express.js + MongoDB + Firebase
+  - 💳 **Payment Service**: Paypal
+  - 📦 **NPM Package**: Lucide React + Zod
+  - 🌐 **Hosting Service**: Vercel
+
+  ### 🛒 **BancardifyMe - End-to-End banking Platform**
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/bancardifyme.git/)
+
+  **Comprehensive E-Commerce Platform** with:
+  - 🎨 **Frontend**: TypeScript, Tailwind CSS, Next.js
+  - 🛠️ **Backend**: Next.js, Node.js, Express.js
+  - 🗄️ **Database**: AppWrite
+  - 🔐 **Auth Service**: Node.js + Express.js + AppWrite + Firebase
+  - 💳 **Payment Service**: Plaid + Dwolla
+  - 📦 **NPM Package**: ShadCN UI + Lucide React + Zod
+  - 🌐 **Hosting Service**: Netlify
+
+  ### 🛒 **MovieMania - MovieHub Platform**
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/MovieMania.git/)
+
+  **Comprehensive E-Commerce Platform** with:
+  - 🎨 **Frontend**: JavaScript, Tailwind CSS, React.js
+  - 🧳 **Bundler**: Vite
+  - 📦 **NPM Package**: Lucide React
+  - 🌐 **Hosting Service**: Netlify
+
+</div>
+
+<div>
+
+  ## 📈 Current Focus & Goals
+
+  ```yaml
+  🎯 Professional Goals:
+    - Contributing to News Publishing and Digital Media Platform at Business Today Technology (india Today Group)
+    - Improving performance, seo and user experience
+    - Learning advanced development patterns
+
+  🔬 Learning & Development:
+    - System Design and scalability
+    - Cloud technologies and deployment  
+    - Backend optimization techniques
+    - Modern frontend frameworks
+
+  🤝 Collaboration Interests:
+    - Full stack web applications
+    - Open source contributions
+    - Developer tools and workflows
+  ```
+
+</div>
+
+## 💡 Development Philosophy
+
+<div align="center">
+  
+  > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
 </div>
 
 <div>
