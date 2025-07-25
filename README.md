@@ -148,90 +148,87 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
 
 <div>
 
-  <img src="/assets/tech-img/html.svg" alt="html" width="40" height="40">
-  <img src="/assets/tech-img/css.svg" alt="css" width="40" height="40">
-  <img src="/assets/tech-img/tailwind-css.svg" alt="tailwind-css" width="40" height="40">
-  <img src="/assets/tech-img/bootstrap.svg" alt="bootstrap" width="40" height="40">
-  <img src="/assets/tech-img/javascript.svg" alt="javascript" width="40" height="40">
-  <img src="/assets/tech-img/typescript.svg" alt="typescript" width="40" height="40">
-  <img src="/assets/tech-img/react-js.svg" alt="react-js" width="40" height="40">
-  <img src="/assets/tech-img/node-js.svg" alt="node-js" width="40" height="40">  
-  <img src="/assets/tech-img/express-js.svg" alt="express-js" width="40" height="40">
-  <img src="/assets/tech-img/next-js.svg" alt="node-js" width="40" height="40">
-  <img src="/assets/tech-img/java.svg" alt="java" width="40" height="40">
-  <img src="/assets/tech-img/python.svg" alt="python" width="40" height="40">
-  <img src="/assets/tech-img/django.svg" alt="django" width="40" height="40">
-  <img src="/assets/tech-img/mongo-db.svg" alt="mongo-db" width="40" height="40">
-  <img src="/assets/tech-img/my-sql.svg" alt="mongo-db" width="40" height="40">
-  <img src="/assets/tech-img/postgre-sql.svg" alt="postgre-sql" width="40" height="40">
-  <img src="/assets/tech-img/prisma.svg" alt="prisma" width="40" height="40">
-  <img src="/assets/tech-img/redis.svg" alt="redis" width="40" height="40">
+  <img src="/assets/tech-img/android-studio.svg" alt="android-studio" width="40" height="40">
+  <img src="/assets/tech-img/angular.svg" alt="angular" width="40" height="40">
   <img src="/assets/tech-img/appwrite.svg" alt="appwrite" width="40" height="40">
+  <img src="/assets/tech-img/atom.svg" alt="atom" width="40" height="40">
+  <img src="/assets/tech-img/aws.svg" alt="aws" width="40" height="40">
+  <img src="/assets/tech-img/azure.svg" alt="azure" width="40" height="40">
+  <img src="/assets/tech-img/babel.svg" alt="babel" width="40" height="40">
+  <img src="/assets/tech-img/bit-bucket.svg" alt="bit-bucket" width="40" height="40">
+  <img src="/assets/tech-img/bootstrap.svg" alt="bootstrap" width="40" height="40">
+  <img src="/assets/tech-img/c-sharp.svg" alt="c-sharp" width="40" height="40">
+  <img src="/assets/tech-img/c.svg" alt="c" width="40" height="40">
+  <img src="/assets/tech-img/cloudflare.svg" alt="cloudflare" width="40" height="40">
+  <img src="/assets/tech-img/code-pen.svg" alt="code-pen" width="40" height="40">
+  <img src="/assets/tech-img/cpp.svg" alt="cpp" width="40" height="40">
+  <img src="/assets/tech-img/css.svg" alt="css" width="40" height="40">
+  <img src="/assets/tech-img/dev-to.svg" alt="dev-to" width="40" height="40">
+  <img src="/assets/tech-img/discord.svg" alt="discord" width="40" height="40">
+  <img src="/assets/tech-img/django.svg" alt="django" width="40" height="40">
   <img src="/assets/tech-img/docker.svg" alt="docker" width="40" height="40">
-  <img src="/assets/tech-img/kubernetes.svg" alt="kubernetes" width="40" height="40">
-
-  <img src="/assets/tech-img/html.svg" alt="html" width="40" height="40">
-  <img src="/assets/tech-img/css.svg" alt="css" width="40" height="40">
-  <img src="/assets/tech-img/tailwind-css.svg" alt="tailwind-css" width="40" height="40">
-  <img src="/assets/tech-img/bootstrap.svg" alt="bootstrap" width="40" height="40">
-  <img src="/assets/tech-img/javascript.svg" alt="javascript" width="40" height="40">
-  <img src="/assets/tech-img/typescript.svg" alt="typescript" width="40" height="40">
-  <img src="/assets/tech-img/react-js.svg" alt="react-js" width="40" height="40">
-  <img src="/assets/tech-img/node-js.svg" alt="node-js" width="40" height="40">  
+  <img src="/assets/tech-img/eclipse.svg" alt="eclipse" width="40" height="40">
   <img src="/assets/tech-img/express-js.svg" alt="express-js" width="40" height="40">
-  <img src="/assets/tech-img/next-js.svg" alt="node-js" width="40" height="40">
-  <img src="/assets/tech-img/java.svg" alt="java" width="40" height="40">
-  <img src="/assets/tech-img/python.svg" alt="python" width="40" height="40">
-  <img src="/assets/tech-img/django.svg" alt="django" width="40" height="40">
-  <img src="/assets/tech-img/mongo-db.svg" alt="mongo-db" width="40" height="40">
-  <img src="/assets/tech-img/my-sql.svg" alt="mongo-db" width="40" height="40">
-  <img src="/assets/tech-img/postgre-sql.svg" alt="postgre-sql" width="40" height="40">
-  <img src="/assets/tech-img/prisma.svg" alt="prisma" width="40" height="40">
-  <img src="/assets/tech-img/redis.svg" alt="redis" width="40" height="40">
-  <img src="/assets/tech-img/appwrite.svg" alt="appwrite" width="40" height="40">
-  <img src="/assets/tech-img/docker.svg" alt="docker" width="40" height="40">
-  <img src="/assets/tech-img/kubernetes.svg" alt="kubernetes" width="40" height="40">
-
+  <img src="/assets/tech-img/fast-api.svg" alt="fast-api" width="40" height="40">
+  <img src="/assets/tech-img/figma.svg" alt="figma" width="40" height="40">
+  <img src="/assets/tech-img/firebase.svg" alt="firebase" width="40" height="40">
+  <img src="/assets/tech-img/flask.svg" alt="flask" width="40" height="40">
+  <img src="/assets/tech-img/gcp.svg" alt="gcp" width="40" height="40">
+  <img src="/assets/tech-img/git-hub.svg" alt="git-hub" width="40" height="40">
+  <img src="/assets/tech-img/git-lab.svg" alt="git-lab" width="40" height="40">
+  <img src="/assets/tech-img/git.svg" alt="git" width="40" height="40">
+  <img src="/assets/tech-img/github-actions.svg" alt="github-actions" width="40" height="40">
+  <img src="/assets/tech-img/gradle.svg" alt="gradle" width="40" height="40">
+  <img src="/assets/tech-img/graph-ql.svg" alt="graph-ql" width="40" height="40">
+  <img src="/assets/tech-img/hibernate.svg" alt="hibernate" width="40" height="40">
   <img src="/assets/tech-img/html.svg" alt="html" width="40" height="40">
-  <img src="/assets/tech-img/css.svg" alt="css" width="40" height="40">
-  <img src="/assets/tech-img/tailwind-css.svg" alt="tailwind-css" width="40" height="40">
-  <img src="/assets/tech-img/bootstrap.svg" alt="bootstrap" width="40" height="40">
-  <img src="/assets/tech-img/javascript.svg" alt="javascript" width="40" height="40">
-  <img src="/assets/tech-img/typescript.svg" alt="typescript" width="40" height="40">
-  <img src="/assets/tech-img/react-js.svg" alt="react-js" width="40" height="40">
-  <img src="/assets/tech-img/node-js.svg" alt="node-js" width="40" height="40">  
-  <img src="/assets/tech-img/express-js.svg" alt="express-js" width="40" height="40">
-  <img src="/assets/tech-img/next-js.svg" alt="node-js" width="40" height="40">
+  <img src="/assets/tech-img/intellij-idea.svg" alt="intellij-idea" width="40" height="40">
   <img src="/assets/tech-img/java.svg" alt="java" width="40" height="40">
-  <img src="/assets/tech-img/python.svg" alt="python" width="40" height="40">
-  <img src="/assets/tech-img/django.svg" alt="django" width="40" height="40">
-  <img src="/assets/tech-img/mongo-db.svg" alt="mongo-db" width="40" height="40">
-  <img src="/assets/tech-img/my-sql.svg" alt="mongo-db" width="40" height="40">
-  <img src="/assets/tech-img/postgre-sql.svg" alt="postgre-sql" width="40" height="40">
-  <img src="/assets/tech-img/prisma.svg" alt="prisma" width="40" height="40">
-  <img src="/assets/tech-img/redis.svg" alt="redis" width="40" height="40">
-  <img src="/assets/tech-img/appwrite.svg" alt="appwrite" width="40" height="40">
-  <img src="/assets/tech-img/docker.svg" alt="docker" width="40" height="40">  
+  <img src="/assets/tech-img/javascript.svg" alt="javascript" width="40" height="40">
+  <img src="/assets/tech-img/jenkins.svg" alt="jenkins" width="40" height="40">
+  <img src="/assets/tech-img/jest.svg" alt="jest" width="40" height="40">
+  <img src="/assets/tech-img/jquery.svg" alt="jquery" width="40" height="40">
+  <img src="/assets/tech-img/kafka.svg" alt="kafka" width="40" height="40">
+  <img src="/assets/tech-img/kali.svg" alt="kali" width="40" height="40">
+  <img src="/assets/tech-img/kotlin.svg" alt="kotlin" width="40" height="40">
   <img src="/assets/tech-img/kubernetes.svg" alt="kubernetes" width="40" height="40">
-
-  <img src="/assets/tech-img/html.svg" alt="html" width="40" height="40">
-  <img src="/assets/tech-img/css.svg" alt="css" width="40" height="40">
-  <img src="/assets/tech-img/tailwind-css.svg" alt="tailwind-css" width="40" height="40">
-  <img src="/assets/tech-img/bootstrap.svg" alt="bootstrap" width="40" height="40">
-  <img src="/assets/tech-img/javascript.svg" alt="javascript" width="40" height="40">
-  <img src="/assets/tech-img/typescript.svg" alt="typescript" width="40" height="40">
-  <img src="/assets/tech-img/react-js.svg" alt="react-js" width="40" height="40">
-  <img src="/assets/tech-img/node-js.svg" alt="node-js" width="40" height="40">  
-  <img src="/assets/tech-img/express-js.svg" alt="express-js" width="40" height="40">
-  <img src="/assets/tech-img/next-js.svg" alt="node-js" width="40" height="40">
-  <img src="/assets/tech-img/java.svg" alt="java" width="40" height="40">
-  <img src="/assets/tech-img/python.svg" alt="python" width="40" height="40">
-  <img src="/assets/tech-img/django.svg" alt="django" width="40" height="40">
+  <img src="/assets/tech-img/latex.svg" alt="latex" width="40" height="40">
+  <img src="/assets/tech-img/linux.svg" alt="linux" width="40" height="40">
+  <img src="/assets/tech-img/material-ui.svg" alt="material-ui" width="40" height="40">
+  <img src="/assets/tech-img/maven.svg" alt="maven" width="40" height="40">
   <img src="/assets/tech-img/mongo-db.svg" alt="mongo-db" width="40" height="40">
-  <img src="/assets/tech-img/my-sql.svg" alt="mongo-db" width="40" height="40">
+  <img src="/assets/tech-img/my-sql.svg" alt="my-sql" width="40" height="40">
+  <img src="/assets/tech-img/nest-js.svg" alt="nest-js" width="40" height="40">
+  <img src="/assets/tech-img/netlify.svg" alt="netlify" width="40" height="40">
+  <img src="/assets/tech-img/next-js.svg" alt="next-js" width="40" height="40">
+  <img src="/assets/tech-img/nginx.svg" alt="nginx" width="40" height="40">
+  <img src="/assets/tech-img/node-js.svg" alt="node-js" width="40" height="40">
+  <img src="/assets/tech-img/npm.svg" alt="npm" width="40" height="40">
+  <img src="/assets/tech-img/php.svg" alt="php" width="40" height="40">
+  <img src="/assets/tech-img/pnpm.svg" alt="pnpm" width="40" height="40">
   <img src="/assets/tech-img/postgre-sql.svg" alt="postgre-sql" width="40" height="40">
+  <img src="/assets/tech-img/postman.svg" alt="postman" width="40" height="40">
+  <img src="/assets/tech-img/powershell.svg" alt="powershell" width="40" height="40">
   <img src="/assets/tech-img/prisma.svg" alt="prisma" width="40" height="40">
+  <img src="/assets/tech-img/pycharm.svg" alt="pycharm" width="40" height="40">
+  <img src="/assets/tech-img/python.svg" alt="python" width="40" height="40">
+  <img src="/assets/tech-img/react-js.svg" alt="react-js" width="40" height="40">
   <img src="/assets/tech-img/redis.svg" alt="redis" width="40" height="40">
+  <img src="/assets/tech-img/redux.svg" alt="redux" width="40" height="40">
+  <img src="/assets/tech-img/sass.svg" alt="sass" width="40" height="40">
+  <img src="/assets/tech-img/script.js" alt="script" width="40" height="40">
+  <img src="/assets/tech-img/sentry.svg" alt="sentry" width="40" height="40">
+  <img src="/assets/tech-img/spring.svg" alt="spring" width="40" height="40">
+  <img src="/assets/tech-img/sqlite.svg" alt="sqlite" width="40" height="40">
+  <img src="/assets/tech-img/stack-overflow.svg" alt="stack-overflow" width="40" height="40">
+  <img src="/assets/tech-img/sublime.svg" alt="sublime" width="40" height="40">
+  <img src="/assets/tech-img/tailwind-css.svg" alt="tailwind-css" width="40" height="40">
+  <img src="/assets/tech-img/typescript.svg" alt="typescript" width="40" height="40">
+  <img src="/assets/tech-img/vercel.svg" alt="vercel" width="40" height="40">
+  <img src="/assets/tech-img/vite.svg" alt="vite" width="40" height="40">
+  <img src="/assets/tech-img/vitest.svg" alt="vitest" width="40" height="40">
+  <img src="/assets/tech-img/vs-code.svg" alt="vs-code" width="40" height="40">
+  <img src="/assets/tech-img/webpack.svg" alt="webpack" width="40" height="40">
 
 </div>
 
