@@ -374,6 +374,12 @@
 
 </div>
 
+<div align="center">
+  
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+</div>
+
 <div>
 
   <h1 align="center">😂 Here is a random joke that'll make you laugh!</h1>
