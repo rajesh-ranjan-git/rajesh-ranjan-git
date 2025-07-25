@@ -161,7 +161,7 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
   <img src="/assets/tech-img/c.svg" alt="c" width="40" height="40">
   <img src="/assets/tech-img/cloudflare.svg" alt="cloudflare" width="40" height="40">
   <img src="/assets/tech-img/code-pen.svg" alt="code-pen" width="40" height="40">
-  <img src="/assets/tech-img/cpp.svg" alt="cpp" width="40" height="40">
+  <img src="/assets/tech-img/c-plus-plus.svg" alt="c-plus-plus.svg" width="40" height="40">
   <img src="/assets/tech-img/css.svg" alt="css" width="40" height="40">
   <img src="/assets/tech-img/dev-to.svg" alt="dev-to" width="40" height="40">
   <img src="/assets/tech-img/discord.svg" alt="discord" width="40" height="40">
