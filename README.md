@@ -1,27 +1,19 @@
-<div>
-  <p align="center">
-    [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Rajesh%20Ranjan&text2=%20Full%20Stack%20Developer%20@Business%20Today%20Technology%20|%20India%20Today%20Group&width=1000&height=300)](https://rajesh-ranjan-portfolio.netlify.app/)
-  </p>
-</div>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Rajesh%20Ranjan&text2=%20Full%20Stack%20Developer%20@Business%20Today%20Technology%20|%20India%20Today%20Group&width=1000&height=300)](https://rajesh-ranjan-portfolio.netlify.app/)
 
 <div>
   <p align="center">
     <a href="https://github.com/rajesh-ranjan-git" target="_blank">
       <img src="https://img.shields.io/badge/github-%231E77B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="rajesh-ranjan-git" style="margin-bottom: 5px;" />
     </a>
-
     <a href="https://twitter.com/_rajesh____" target="_blank">
       <img src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="_rajesh____" style="margin-bottom: 5px;" />
     </a>
-
     <a href="https://linkedin.com/in/rajesh-ranjan-660b1b13a" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="rajesh-ranjan-660b1b13a" style="margin-bottom: 5px;" />
     </a>
-
     <a href="https://fb.com/rajeshranjan8271" target="_blank">
       <img src="https://img.shields.io/badge/facebook-%23000000.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="rajeshranjan8271" style="margin-bottom: 5px;" />
     </a>
-
     <a href="https://instagram.com/_rajesh____" target="_blank">
       <img src="https://img.shields.io/badge/instagram-%231E77B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="_rajesh____" style="margin-bottom: 5px;" />
     </a>
@@ -29,7 +21,10 @@
 </div>
 
 <div>
-  <h1 align="center">Yo! 👋, I'm Rajesh Ranjan ! 👨‍💻 – exploring code like it’s uncharted space 🚀</h1>
+  <h1 align="center">
+    Yo! 👋, I'm Rajesh Ranjan !
+    <br />
+    👨‍💻 – exploring code like it’s uncharted space 🚀</h1>
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Software+Engineer;Full+Stack+Web+Developer;Software+Developer;&center=true&width=500&height=50"></a>
   </p>
