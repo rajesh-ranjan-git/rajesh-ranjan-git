@@ -142,7 +142,7 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
 
   <h1 align="center">🔧 Gears Behind the Code</h1>
 
-  <img align="left" height="350px" width="350px" alt="gif" src="/assets/fintechtocat.png" />
+  <img align="left" height="400px" width="400px" alt="gif" src="/assets/fintechtocat.png" />
 
 </div>
 
