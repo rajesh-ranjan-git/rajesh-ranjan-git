@@ -16,9 +16,11 @@
 
   <h1 align="center">
     Yo! 👋, I'm Rajesh Ranjan !
-    <br />
-    👨‍💻 – exploring code like it’s uncharted space 🚀
   </h1>
+  
+  <h3 align="center">
+    👨‍💻 – exploring code like it’s uncharted space 🚀
+  </h3>
 
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Open+Source+Contributor;&center=true&width=500&height=50"></a>
