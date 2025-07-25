@@ -26,7 +26,7 @@
     <br />
     👨‍💻 – exploring code like it’s uncharted space 🚀</h1>
   <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Software+Engineer;Full+Stack+Web+Developer;Software+Developer;&center=true&width=500&height=50"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Open+Source+Contributor;&center=true&width=500&height=50"></a>
   </p>
   <h3 align="center">💻 Full Stack Developer @Business Today Technology | India Today Group | Ex-NTT 💻<br>
   🚀 Next.js | React.js | Node.js | React Native | JavaScript | TypeScript | Express.js | MongoDB | MySQL 🚀<br>
