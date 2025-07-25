@@ -141,9 +141,6 @@ const rajeshRanjan = {
     <a href="https://twitter.com/_rajesh____" target="blank">
       <img  src="/assets/social/x.svg" alt="_rajesh____" height="40" />
     </a>
-    <a href="https://twitter.com/_rajesh____" target="blank">
-      <img  src="/assets/social/x-filled.svg" alt="_rajesh____" height="40" />
-    </a>
     <a href="https://linkedin.com/in/rajesh-ranjan-660b1b13a" target="blank">
       <img src="/assets/social/linked-in.svg" alt="rajesh-ranjan-660b1b13a" height="40" />
     </a>
@@ -439,9 +436,6 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
     </a>
     <a href="https://linkedin.com/in/rajesh-ranjan-660b1b13a" target="_blank">
       <code><img height="60" width="60" src="/assets/social/linked-in.svg"/></code>
-    </a>
-    <a href="https://twitter.com/_rajesh____" target="_blank">
-      <code><img  height="60" width="60" src="/assets/social/x-filled.svg"/></code>
     </a>
     <a href="https://twitter.com/_rajesh____" target="_blank">
       <code><img  height="60" width="60" src="/assets/social/x.svg"/></code>
