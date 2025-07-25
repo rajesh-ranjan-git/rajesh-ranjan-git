@@ -16,11 +16,14 @@
 
   <h1 align="center">
     Yo! 👋, I'm Rajesh Ranjan !
-    <br />
-    👨‍💻 – exploring code like it’s uncharted space 🚀</h1>
+    <hr />
+    👨‍💻 – exploring code like it’s uncharted space 🚀
+  </h1>
+
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Open+Source+Contributor;&center=true&width=500&height=50"></a>
   </p>
+  
   <h3 align="center">💻 Full Stack Developer @Business Today Technology | India Today Group | Ex-NTT 💻<br>
   🚀 Next.js | React.js | Node.js | React Native | JavaScript | TypeScript | Express.js | MongoDB | MySQL 🚀<br>
   🛠️ Building scalable web & cloud solutions with clean, performant code 🛠️</h3>
@@ -130,6 +133,8 @@
   </p>
 
 </div>
+
+#
 
 <div>
 
@@ -317,7 +322,7 @@
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
   <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quote" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" height="100%" alt="GitHub Quote" />
   </p>
   
 </div>
