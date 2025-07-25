@@ -46,11 +46,6 @@ jobs:
       - name: Show contents
         run: ls -la snake-commit-contribution
 
-      - name: Create snake-commit-contribution folder if not exists and move files
-        run: |
-          mkdir -p snake-commit-contribution
-          mv dist/*.svg snake-commit-contribution/
-
       - name: Commit and push to main
         run: |
           git config user.name "github-actions"

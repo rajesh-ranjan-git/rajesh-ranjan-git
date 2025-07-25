@@ -100,10 +100,20 @@ jobs:
 
           output_action: github-metrics.svg
 
-      - name: Move metrics to target folder
-        run: |
-          mkdir -p github-contribution-metrics
-          mv github-metrics.svg github-contribution-metrics/github-metrics.svg
+      - name: Upload metrics files
+        uses: actions/upload-artifact@v4
+        with:
+          name: metrics-artifacts
+          path: dist/
+
+      - name: Download metrics artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: metrics-artifacts
+          path: github-contribution-metrics
+
+      - name: Show contents
+        run: ls -la github-contribution-metrics
 
       - name: Commit and push to main
         run: |
