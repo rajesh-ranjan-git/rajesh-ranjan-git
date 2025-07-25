@@ -13,7 +13,6 @@ jobs:
       - name: Create github-contribution-metrics folder if not exists and move files
         run: |
             mkdir -p github-contribution-metrics
-            mv dist/*.svg github-contribution-metrics/
 
       - uses: lowlighter/metrics@latest
         with:
