@@ -366,7 +366,7 @@
 
 <div>
 
-  <h1 align="center">🐍 Contribution Snake</h1>
+  <h1 align="center">🐍 Activity Anaconda</h1>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/assets/github-contribution-grid-snake-dark.svg" />
