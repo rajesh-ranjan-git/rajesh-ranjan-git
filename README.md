@@ -207,8 +207,7 @@
 
 <div align="center">
 
-  ### Thanks for stopping by! Let’s build something amazing together.
-  ** 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 !
+  ### Thanks for stopping by! Show some ❤️ by starring some of my repositories!
 
 </div>
 
