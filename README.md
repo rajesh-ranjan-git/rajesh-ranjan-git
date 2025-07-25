@@ -232,9 +232,6 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
   <img src="/assets/tech-img/postgre-sql.svg" alt="postgre-sql" width="40" height="40">
   <img src="/assets/tech-img/prisma.svg" alt="prisma" width="40" height="40">
   <img src="/assets/tech-img/redis.svg" alt="redis" width="40" height="40">
-  <img src="/assets/tech-img/appwrite.svg" alt="appwrite" width="40" height="40">
-  <img src="/assets/tech-img/docker.svg" alt="docker" width="40" height="40">
-  <img src="/assets/tech-img/kubernetes.svg" alt="kubernetes" width="40" height="40">
 
 </div>
 
