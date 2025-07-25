@@ -30,9 +30,9 @@
 
 </div>
 
-# 🧠 About the Human Behind the Code:
-
 <div>
+
+  <h1 align="center">🧠 About the Human Behind the Code:</h1>
 
   <a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="380" alt="Rajesh Ranjan's Dev Card"/></a>
   
