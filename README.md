@@ -430,7 +430,7 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
       <code><img height="60" width="60" src="https://skillicons.dev/icons?i=instagram"/></code>
     </a>
     <a href="https://fb.com/rajeshranjan8271" target="_blank">
-      <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/ icons/Social/facebook.svg"/></code>
+      <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/></code>
     </a>
     <a href="mailto:rajeshranjan8271@gmail.com">
       <code><img src="https://skillicons.dev/icons?i=gmail" alt="Rajesh's Mail" height="60" width="60"></code>

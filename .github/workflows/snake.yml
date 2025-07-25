@@ -52,5 +52,4 @@ jobs:
           git config user.email "github-actions@github.com"
           git add snake-commit-contribution/*
           git commit -m "chore: update contribution snake assets in snake-commit-contribution" || echo "No changes to commit"
-          git pull origin main
           git push origin main
