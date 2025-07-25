@@ -146,10 +146,8 @@
   </p>
 <div>
 
-#
-
 <div>
-  <h1 align="center"><code>🧭 Contributor Stats</code></h1>
+  <h1 align="center">🧭 Contributor Stats</h1>
 
   <p align="center">
     <a href="https://metrics.lecoq.io/about/rajesh-ranjan-git"><img src="github-metrics.svg" width="75%"   alt="Rajesh Ranjan's Github Metrics"/></a>
