@@ -9,10 +9,9 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    steps:      
-      - name: Create github-contribution-metrics folder if not exists and move files
-        run: |
-            mkdir -p github-contribution-metrics
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - uses: lowlighter/metrics@latest
         with:
@@ -95,5 +94,10 @@ jobs:
           plugin_fortune: yes
           plugin_support: yes
 
-          output_action: github-contribution-metrics/github-metrics.svg
+          output_action: github-metrics.svg
+
+      - name: Move metrics to target folder
+        run: |
+          mkdir -p github-contribution-metrics
+          mv github-metrics.svg github-contribution-metrics/github-metrics.svg
 

@@ -359,7 +359,7 @@
   <h1 align="center">🧭 Contributor Stats</h1>
 
   <p align="center">
-    <a href="https://metrics.lecoq.io/about/rajesh-ranjan-git"><img src="/assets/github-metrics.svg" width="75%"   alt="Rajesh Ranjan's Github Metrics"/></a>
+    <a href="https://metrics.lecoq.io/about/rajesh-ranjan-git"><img src="github-metrics.svg" width="75%"   alt="Rajesh Ranjan's Github Metrics"/></a>
   </p>
 
 </div>
@@ -369,9 +369,9 @@
   <h1 align="center">🐍 Activity Anaconda</h1>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/assets/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="/assets/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="/assets/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="/snake-commit-contribution/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="/snake-commit-contribution/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="/snake-commit-contribution/github-contribution-grid-snake.svg" />
   </picture>
 
 </div>
