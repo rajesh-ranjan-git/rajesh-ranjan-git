@@ -184,8 +184,8 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
   <img src="/assets/tech-img/java.svg" alt="java" width="40" height="40">
   <img src="/assets/tech-img/javascript.svg" alt="javascript" width="40" height="40">
   <img src="/assets/tech-img/jenkins.svg" alt="jenkins" width="40" height="40">
-  <img src="/assets/tech-img/je-st.svg" alt="jest" width="40" height="40">
-  <img src="/assets/tech-img/j-query.svg" alt="j-query" width="40" height="40">
+  <img src="/assets/tech-img/jest.svg" alt="jest" width="40" height="40">
+  <img src="/assets/tech-img/jquery.svg" alt="jquery" width="40" height="40">
   <img src="/assets/tech-img/kafka.svg" alt="kafka" width="40" height="40">
   <img src="/assets/tech-img/kali.svg" alt="kali" width="40" height="40">
   <img src="/assets/tech-img/kotlin.svg" alt="kotlin" width="40" height="40">
@@ -199,7 +199,7 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
   <img src="/assets/tech-img/nest-js.svg" alt="nest-js" width="40" height="40">
   <img src="/assets/tech-img/netlify.svg" alt="netlify" width="40" height="40">
   <img src="/assets/tech-img/next-js.svg" alt="next-js" width="40" height="40">
-  <img src="/assets/tech-img/n-ginx.svg" alt="nginx" width="40" height="40">
+  <img src="/assets/tech-img/nginx.svg" alt="nginx" width="40" height="40">
   <img src="/assets/tech-img/node-js.svg" alt="node-js" width="40" height="40">
   <img src="/assets/tech-img/npm.svg" alt="npm" width="40" height="40">
   <img src="/assets/tech-img/php.svg" alt="php" width="40" height="40">
@@ -212,9 +212,9 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
   <img src="/assets/tech-img/python.svg" alt="python" width="40" height="40">
   <img src="/assets/tech-img/react-js.svg" alt="react-js" width="40" height="40">
   <img src="/assets/tech-img/redis.svg" alt="redis" width="40" height="40">
-  <img src="/assets/tech-img/re-dux.svg" alt="redux" width="40" height="40">
+  <img src="/assets/tech-img/redux.svg" alt="redux" width="40" height="40">
   <img src="/assets/tech-img/sass.svg" alt="sass" width="40" height="40">
-  <img src="/assets/tech-img/se-ntry.svg" alt="sentry" width="40" height="40">
+  <img src="/assets/tech-img/sentry.svg" alt="sentry" width="40" height="40">
   <img src="/assets/tech-img/spring.svg" alt="spring" width="40" height="40">
   <img src="/assets/tech-img/stack-overflow.svg" alt="stack-overflow" width="40" height="40">
   <img src="/assets/tech-img/sublime.svg" alt="sublime" width="40" height="40">
