@@ -220,7 +220,7 @@
   <h1 align="center">😂 Here is a random joke that'll make you laugh!</h1>
 
   <p align="center">
-  <img align="center" src="https://readme-jokes.vercel.app/api">
+  <img align="center" src="https://readme-jokes.vercel.app/api" width="100%" height="100%">
   </p>
 </div>
 
