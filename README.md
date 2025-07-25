@@ -251,7 +251,7 @@
 
 <div>
 
-  ## 🏗️ Featured Personal Projects
+  <h1 align="center">🏗️ Featured Personal Projects</h1>
 
   ### 🛍️ **Shopprixity - End-to-End E-commerce Platform**
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/Shopprixity/)
@@ -291,10 +291,10 @@
 
 <div>
 
-  ## 📈 Current Focus & Goals
+  <h1 align="center">🎯 Current Focus & Goals</h1>
 
   ```yaml
-    🎯 Professional Goals:
+    🔭 Professional Goals:
       - Contributing to News Publishing and Digital Media Platform at Business Today Technology (india Today Group)
       - Improving performance, seo and user experience
       - Learning advanced development patterns
@@ -313,9 +313,9 @@
 
 </div>
 
-## 💡 Development Philosophy
-
 <div align="center">
+
+  <h1 align="center">💡 Development Philosophy</h1>
   
   > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
   
