@@ -275,7 +275,7 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/amazon_aws-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![AWS](https://img.shields.io/badge/amazon_aws-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 </div>
