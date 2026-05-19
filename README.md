@@ -100,7 +100,7 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
 
   <p align="center" >
     <img height="150" width="150" src="/assets/left.webp"  style="width:20%">
-    <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rajesh-ranjan-git&theme=dark&hide_border=false" style="width:50%"  />
+    <img align="center" src="https://github-readme-streak-stats-two-drab.vercel.app?user=rajesh-ranjan-git&theme=github-dark-blue&hide_border=false" style="width:50%"  />
     <img height="150" width="150" src="/assets/right.webp" style="width:20%">
   </p>
 
