@@ -88,6 +88,8 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
     <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
   </p>
 
+[![Rajesh's Stats](https://follow.lazybittu.workers.dev/user/rajesh-ranjan-git.svg?theme=default)](https://follow.lazybittu.workers.dev/user/rajesh-ranjan-git)
+
 </div>
 
 <div>
@@ -412,32 +414,32 @@ _"Any fool can write code that a computer can understand. Good programmers write
 
   <h1 align="center">📈 Developer Dashboard</h1>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077)
 
   <p align=center>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's github profile details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's github profile details" />
   </p>
 
   <p align=center>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's github repos per language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's github repos per language" />
   </p>
 
   <p align=center>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's github  most commits per language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's github  most commits per language" />
   </p>
 
   <p align=center>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's github stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's github stats" />
   </p>
 
   <p align=center>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajesh-ranjan-git&theme=2077&utcOffset=5.5" alt="Rajesh's github commits" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajesh-ranjan-git&theme=2077&utcOffset=5.5" alt="Rajesh's github commits" />
   </p>
 
   <p align=center>
