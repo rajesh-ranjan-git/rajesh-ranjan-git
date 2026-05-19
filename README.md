@@ -110,6 +110,34 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
 
 </div>
 
+<div>
+
+  <h1 align="center">📈 Developer Dashboard</h1>
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub profile details" />
+  </p>
+
+  <p align="center">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub repos per language" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub most commits per language" />
+  </p>
+
+  <p align="center">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub stats" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajesh-ranjan-git&theme=2077&utcOffset=5.5" alt="Rajesh's github commits" />
+  </p>
+
+  <p align=center>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajesh-ranjan-git&show_icons=true&theme=merko" alt="Rajesh's github stats" />
+  </p>
+
+  <p align=center>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajesh-ranjan-git&theme=react-dark&hide_border=false&area=true&radius=10&color=00DCA8&line=00ab75&area_color=4ddb75" alt="Rajesh's github activity graph" />
+  </p>
+
+</div>
+
 <div align="center">
 
 # 💼 Professional Experience </div>
@@ -414,29 +442,7 @@ _"Any fool can write code that a computer can understand. Good programmers write
 
 <div>
 
-  <h1 align="center">📈 Developer Dashboard</h1>
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub profile details" />
-  </p>
-
-  <p align="center">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub repos per language" />
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub most commits per language" />
-  </p>
-
-  <p align="center">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub stats" />
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajesh-ranjan-git&theme=2077&utcOffset=5.5" alt="Rajesh's github commits" />
-  </p>
-
-  <p align=center>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajesh-ranjan-git&show_icons=true&theme=merko" alt="Rajesh's github stats" />
-  </p>
-
-  <p align=center>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajesh-ranjan-git&theme=react-dark&hide_border=false&area=true&radius=10&color=00DCA8&line=00ab75&area_color=4ddb75" alt="Rajesh's github activity graph" />
-  </p>
+  <h1 align="center">🎯 Profile Contributions 3D</h1>
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
