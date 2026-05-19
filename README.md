@@ -422,17 +422,11 @@ _"Any fool can write code that a computer can understand. Good programmers write
 
   <p align="center">
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub repos per language" />
-  </p>
-
-  <p align="center">
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub most commits per language" />
   </p>
 
   <p align="center">
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub stats" />
-  </p>
-
-  <p align=center>
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajesh-ranjan-git&theme=2077&utcOffset=5.5" alt="Rajesh's github commits" />
   </p>
 
