@@ -94,11 +94,13 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077)
 
-![Most Commits Langjuage](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077)
 
-![Productivity Time](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077)
 
-![Productivity Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajesh-ranjan-git&theme=2077&utcOffset=5.5)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajesh-ranjan-git&theme=2077&utcOffset=5.5)
+
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rajesh-ranjan-git&show_icons=true&theme=merko)
 
 <div>
 
