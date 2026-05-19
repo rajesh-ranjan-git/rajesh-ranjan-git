@@ -104,6 +104,19 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
     <img height="150" width="150" src="/assets/right.webp" style="width:20%">
   </p>
 
+[![GitHub Streak](https://github-readme-streak-stats-two-drab.vercel.app?user=rajesh-ranjan-git&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=rajesh-ranjan-git&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats-two-drab.vercel.app?user=rajesh-ranjan-git&theme=catppuccin_mocha&hide_border=true)](https://git.io/streak-stats)
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-two-drab.vercel.app?user=rajesh-ranjan-git&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
 </div>
 
 <div align="center">
