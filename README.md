@@ -417,19 +417,19 @@ _"Any fool can write code that a computer can understand. Good programmers write
   <h1 align="center">📈 Developer Dashboard</h1>
 
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&amp;theme=2077" alt="Rajesh's GitHub profile details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's GitHub profile details" />
   </p>
 
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&amp;theme=2077" alt="Rajesh's GitHub repos per language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's GitHub repos per language" />
   </p>
 
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&amp;theme=2077" alt="Rajesh's GitHub most commits per language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's GitHub most commits per language" />
   </p>
 
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&amp;theme=2077" alt="Rajesh's GitHub stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's GitHub stats" />
   </p>
 
   <p align=center>
