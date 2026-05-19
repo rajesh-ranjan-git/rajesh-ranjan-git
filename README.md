@@ -290,7 +290,9 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
 
 </div>
 
-<div align="center"> # 🏗️ Featured Personal Projects </div>
+<div align="center">
+
+# 🏗️ Featured Personal Projects </div>
 
 ## 💬 DevMatch — Developer Networking Platform
 
