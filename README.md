@@ -89,7 +89,7 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
   </p>
 
   <p align="center">
-    <img src="https://follow.lazybittu.workers.dev/user/rajesh-ranjan-git.svg?theme=default" alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜">
+    <img src="https://follow.lazybittu.workers.dev/user/rajesh-ranjan-git.svg?theme=calm_pink&preset=banner" alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜">
   </p>
 
 </div>
