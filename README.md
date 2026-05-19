@@ -88,7 +88,7 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
     <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
   </p>
 
-  <p align-"center">
+  <p align="center">
     <img src="https://follow.lazybittu.workers.dev/user/rajesh-ranjan-git.svg?theme=default" alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜">
   </p>
 
@@ -533,7 +533,3 @@ _"Any fool can write code that a computer can understand. Good programmers write
 #
 
 ![footer](/assets/footer.webp)
-
-```
-
-```
