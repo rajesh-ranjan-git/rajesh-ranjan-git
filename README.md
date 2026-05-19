@@ -54,26 +54,73 @@
 
 ```javascript
 const rajeshRanjan = {
-  currentRole: "Full Stack Developer",
-  education: "B.Tech (CSE)",
-  experience: 6+ years in Full Stack Development",
+  currentRole: "Full Stack Developer @ India Today Group",
+
+  education: "B.Tech in Computer Science & Engineering",
+
+  experience:
+    "5+ years of experience building scalable full-stack applications, real-time systems, and performance-driven web platforms",
 
   workingOn:
-    "Development across multiple websites with key focus on performance, UI/UX, backend functionality, and SEO enhancements - Business Today Technology (India Today Group) - Full Stack Development Team",
+    "Building and optimizing high-traffic media platforms at Business Today Technology (India Today Group) with focus on scalable architecture, AI-powered content systems, SEO optimization, real-time analytics, and modern full-stack engineering",
 
   specialties: [
     "Full Stack Development",
-    "CMS-Based Website",
+    "Scalable Web Architecture",
     "Real-time Applications",
+    "AI-powered Workflows",
     "Performance Optimization",
-    "SEO Optimization",
+    "SEO & Core Web Vitals",
+    "Modern Frontend Engineering",
+    "Cloud & DevOps",
   ],
 
+  techStack: {
+    frontend: [
+      "React.js",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "TanStack Query",
+      "Redux",
+      "React Native",
+    ],
+
+    backend: [
+      "Node.js",
+      "Express.js",
+      "REST APIs",
+      "GraphQL",
+      "WebSockets",
+      "Socket.IO",
+    ],
+
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+
+    cloudAndDevOps: [
+      "AWS",
+      "EC2",
+      "Cloudflare",
+      "Nginx",
+      "PM2",
+      "GitHub Actions",
+      "CI/CD",
+    ],
+
+    aiAndData: ["OpenAI APIs", "NLP Pipelines", "Python", "Transformer Models"],
+  },
+
   currentFocus:
-    "Full Stack Developer focused on scalable web applications, real-time systems, and modern frontend/backend architecture.
-Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-powered workflows. Passionate about building production-grade applications with clean architecture, performance optimization, and strong developer experience.",
+    "Designing production-grade full-stack applications with modern frontend architecture, scalable backend systems, AI integrations, and real-time communication workflows using Next.js, React, Node.js, TypeScript, WebSockets, and AWS infrastructure",
+
+  building: [
+    "DevMatch — Real-time developer networking platform",
+    "AI-powered content analysis systems",
+    "Scalable media-tech platforms",
+  ],
+
   funFact:
-    "From architecting microservices for scalable news platforms to optimizing algorithms — I bring the same enthusiasm to building systems as I do to solving LeetCode challenges! 🧩",
+    "I enjoy architecting scalable systems just as much as solving complex DSA and LeetCode problems — whether it's optimizing Core Web Vitals, designing real-time architectures, or debugging production issues at 2 AM 🚀",
 };
 ```
 
@@ -135,6 +182,14 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
   <p align=center>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajesh-ranjan-git&theme=react-dark&hide_border=false&area=true&radius=10&color=00DCA8&line=00ab75&area_color=4ddb75" alt="Rajesh's github activity graph" />
   </p>
+
+</div>
+
+<div>
+
+  <h1 align="center">🎯 Profile Contributions 3D</h1>
+
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
@@ -412,20 +467,25 @@ Dynamic movie and TV show browsing platform with responsive UI and modern fronte
 
 ```yaml
 🔭 Professional Goals:
-  - Contributing to News Publishing and Digital Media Platform at Business Today Technology (india Today Group)
-  - Improving performance, seo and user experience
-  - Learning advanced development patterns
+  - Building scalable and high-performance digital media platforms at Business Today Technology (India Today Group)
+  - Enhancing SEO, Core Web Vitals, accessibility, and overall user experience across large-scale web applications
+  - Designing production-grade architectures with focus on scalability, maintainability, and developer experience
+  - Expanding expertise in AI-powered workflows, real-time systems, and cloud-native applications
 
 🔬 Learning & Development:
-  - System Design and scalability
-  - Cloud technologies and deployment
-  - Backend optimization techniques
-  - Modern frontend frameworks
+  - Advanced System Design & Distributed Architecture
+  - Scalable backend systems and event-driven architectures
+  - Cloud infrastructure, DevOps, and deployment automation
+  - Performance optimization for high-traffic applications
+  - AI integrations, NLP pipelines, and modern data workflows
+  - Modern frontend rendering strategies and web performance optimization
 
 🤝 Collaboration Interests:
-  - Full stack web applications
-  - Open source contributions
-  - Developer tools and workflows
+  - Full-stack web applications and scalable SaaS platforms
+  - Real-time applications and developer-focused tools
+  - Open-source contributions and community-driven projects
+  - AI-powered products and modern web engineering workflows
+  - Frontend architecture, developer experience, and performance engineering
 ```
 
 </div>
@@ -437,14 +497,6 @@ Dynamic movie and TV show browsing platform with responsive UI and modern fronte
 _"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."_
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<div>
-
-  <h1 align="center">🎯 Profile Contributions 3D</h1>
-
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
