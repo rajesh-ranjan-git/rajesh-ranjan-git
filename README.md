@@ -90,18 +90,6 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
 
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajesh-ranjan-git&theme=2077&utcOffset=5.5)
-
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=rajesh-ranjan-git&show_icons=true&theme=merko)
-
 <div>
 
   <h1 align="center">🏆 Achievements Unlocked</h1>
@@ -424,12 +412,36 @@ _"Any fool can write code that a computer can understand. Good programmers write
 
   <h1 align="center">📈 Developer Dashboard</h1>
 
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh-ranjan-git&theme=vue&show_icons=true&hide_border=false&include_all_commits=false&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&count_private=false"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077)
+
+  <p align=center>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's github profile details" />
   </p>
 
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-ranjan-git&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&langs_count=15&layout=compact&hide_border=false" />
+  <p align=center>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's github repos per language" />
+  </p>
+
+  <p align=center>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's github  most commits per language" />
+  </p>
+
+  <p align=center>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's github stats" />
+  </p>
+
+  <p align=center>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajesh-ranjan-git&theme=2077&utcOffset=5.5" alt="Rajesh's github commits" />
+  </p>
+
+  <p align=center>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajesh-ranjan-git&show_icons=true&theme=merko" alt="Rajesh's github stats" />
   </p>
 
   <p align=center>
