@@ -41,6 +41,7 @@
   <div>&nbsp;</div>
 
 💻 Full Stack Developer @Business Today Technology | India Today Group | Ex-NTT<br><br>
+📢 Full Stack Developer with 5+ years of experience building scalable, high-performance web applications using React, Next.js, Node.js, TypeScript, and cloud-native technologies. Experienced in designing real-time systems, AI-powered content pipelines, and production-grade architectures with strong focus on performance optimization, scalability, and developer experience. Skilled in modern frontend architecture, backend systems, DevOps workflows, and AWS-based deployments.<br><br>
 💬 Ask me about **Next JS, React JS, Node JS, Express JS, JavaScript, TypeScript, React Native, MongoDB, MySQL**<br><br>
 📫 Reach me at : rajeshranjan@gmail.com<br><br>
 📫 Call me at : +91-999-934-0771<br><br>
