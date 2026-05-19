@@ -129,7 +129,9 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
 
 ## 📱 React Native Developer — CyberEd (Part-Time Internship)
 
-📍 Feb 2025 – Mar 2025 ⚙️ React Native • Expo • TypeScript • Push Notifications
+📍 Feb 2025 – Mar 2025
+
+⚙️ React Native • Expo • TypeScript • Push Notifications
 
 - 📲 Built reusable React Native UI components to accelerate feature development and improve maintainability.
 - 🎨 Resolved multiple responsiveness and layout issues across devices to improve user experience and mobile compatibility.
@@ -141,7 +143,9 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
 
 ## 🧑‍💻 UI Developer — NTT DATA Services
 
-📍 Nov 2020 – Apr 2025 ⚙️ React.js • JavaScript • TypeScript • MongoDB
+📍 Nov 2020 – Apr 2025
+
+⚙️ React.js • JavaScript • TypeScript • MongoDB
 
 - 🧩 Developed reusable React components and scalable frontend modules for enterprise applications.
 - 📊 Built statistical dashboards for Banking and Education domains with interactive data visualizations.
