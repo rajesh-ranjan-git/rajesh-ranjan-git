@@ -125,7 +125,9 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
 - 🔄 Led migration from Next.js 12 to Next.js 15 while resolving multiple security vulnerabilities and improving application stability.
 - 🤝 Collaborated across product, backend, and frontend teams in Agile development workflows while contributing to architectural planning and feature delivery.
 
---- ## 📱 React Native Developer — CyberEd (Part-Time Internship)
+---
+
+## 📱 React Native Developer — CyberEd (Part-Time Internship)
 
 📍 Feb 2025 – Mar 2025 ⚙️ React Native • Expo • TypeScript • Push Notifications
 
@@ -135,7 +137,9 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
 - ⚡ Contributed to OTA update workflows using Expo, enabling seamless updates without requiring Play Store releases.
 - 🤝 Collaborated with developers and stakeholders in an Agile environment to debug issues and improve application stability.
 
---- ## 🧑‍💻 UI Developer — NTT DATA Services
+---
+
+## 🧑‍💻 UI Developer — NTT DATA Services
 
 📍 Nov 2020 – Apr 2025 ⚙️ React.js • JavaScript • TypeScript • MongoDB
 
@@ -314,7 +318,9 @@ Production-grade developer networking platform focused on real-time communicatio
 
 ### 🛠️ Tech Stack `Next.js` • `TypeScript` • `MongoDB` • `Socket.IO` • `AWS` • `Tailwind CSS` • `TanStack Query`
 
---- ## 🛍️ Shopprixity — Full Stack E-Commerce Platform
+---
+
+## 🛍️ Shopprixity — Full Stack E-Commerce Platform
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/Shopprixity)
 
@@ -331,7 +337,9 @@ Modern e-commerce platform featuring authentication, product management, cloud m
 - 💳 Payments: PayPal
 - ☁️ Deployment: Vercel
 
---- ## 💳 BancardifyMe — Modern Banking Platform
+---
+
+## 💳 BancardifyMe — Modern Banking Platform
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/bancardifyme)
 
@@ -349,7 +357,9 @@ Multi-banking platform focused on secure financial workflows, authentication sys
 - 📊 Monitoring: Sentry
 - ☁️ Deployment: Netlify
 
---- ## 🎬 MovieMania — Movie Discovery Platform
+---
+
+## 🎬 MovieMania — Movie Discovery Platform
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/MovieMania)
 
