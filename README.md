@@ -314,7 +314,15 @@ Production-grade developer networking platform focused on real-time communicatio
 - 📧 AWS SES transactional email workflows
 - 🎨 Optimized frontend architecture using React Server Components & TanStack Query
 
-### 🛠️ Tech Stack `Next.js` • `TypeScript` • `MongoDB` • `Socket.IO` • `AWS` • `Tailwind CSS` • `TanStack Query`
+### 🛠️ Tech Stack
+
+- 🎨 Frontend: ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) TypeScript, Tailwind CSS, Zustand, TanStack Query, Motion (formerly Framer Motion)
+- 🛠️ Backend: Node.js, Express.js
+- 🗄️ Database: MongoDB
+- 🔐 Authentication: JWT, OAuth (Google, GitHub, LinkedIn)
+- ⚡ Real Time System: Socket.IO
+- 📨 Mailing System: Amazon SES
+- ☁️ Deployment: Amazon EC2, AWS, Cloudflare
 
 ## 🛍️ Shopprixity — Full Stack E-Commerce Platform
 
