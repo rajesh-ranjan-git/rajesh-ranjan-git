@@ -88,6 +88,40 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
     <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
   </p>
 
+  <p align="center">
+    <img
+      width="100%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&theme=2077"
+      alt="Profile Details"
+    />
+  </p>
+
+  <p align="center">
+    <img
+      width="49%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077"
+      alt="Repos Per Language"
+    />
+    <img
+      width="49%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077"
+      alt="Most Commit Language"
+    />
+  </p>
+
+  <p align="center">
+    <img
+      width="49%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077"
+      alt="Stats"
+    />
+    <img
+      width="49%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajesh-ranjan-git&theme=2077"
+      alt="Productive Time"
+    />
+  </p>
+
 </div>
 
 <div>
@@ -100,7 +134,7 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
 
   <p align="center" >
     <img height="150" width="150" src="/assets/left.webp"  style="width:20%">
-    <img align="center" src="https://github-readme-streak-stats-eight.vercel.app?user=rajesh-ranjan-git&theme=github-dark-blue&hide_border=true" style="width:50%"  />
+    <img align="center" src="https://github-readme-streak-stats-eight.vercel.app?user=rajesh-ranjan-git&theme=great-gatsby" style="width:50%"  />
     <img height="150" width="150" src="/assets/right.webp" style="width:20%">
   </p>
 
@@ -396,27 +430,29 @@ Dynamic movie and TV show browsing platform with responsive UI and modern fronte
   - Developer tools and workflows
 ```
 
+```
+
 </div>
 
 <div align="center">
 
   <h1 align="center">💡 Development Philosophy</h1>
-  
+
   > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
-  
+
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
+
 </div>
 
 <div>
 
   <h1 align="center">📈 Developer Dashboard</h1>
 
-  <p align="center"> 
+  <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh-ranjan-git&theme=vue&show_icons=true&hide_border=false&include_all_commits=false&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&count_private=false"/>
   </p>
-    
-  <p align="center"> 
+
+  <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-ranjan-git&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&langs_count=15&layout=compact&hide_border=false" />
   </p>
 
@@ -503,9 +539,9 @@ Dynamic movie and TV show browsing platform with responsive UI and modern fronte
 </div>
 
 <div align="center">
-  
+
   ### 🚀 "Code, Create, Contribute."
-  
+
   **Shaping the future — one commit at a time! ⭐**
 
 ### Thanks for stopping by! Show some ❤️ by starring some of my repositories!
@@ -515,3 +551,4 @@ Dynamic movie and TV show browsing platform with responsive UI and modern fronte
 #
 
 ![footer](/assets/footer.webp)
+```
