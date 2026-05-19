@@ -56,7 +56,7 @@
 const rajeshRanjan = {
   currentRole: "Full Stack Developer",
   education: "B.Tech (CSE)",
-  experience: "5+ years in Full Stack Development",
+  experience: 6+ years in Full Stack Development",
 
   workingOn:
     "Development across multiple websites with key focus on performance, UI/UX, backend functionality, and SEO enhancements - Business Today Technology (India Today Group) - Full Stack Development Team",
@@ -106,31 +106,46 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
 
 </div>
 
-<div>
+<div align="center"> # 💼 Professional Experience </div>
 
-  <h1 align="center">💼 Professional Experience</h1>
+---
 
-### 👨‍💻🛠️ **Full Stack Developer** - Business Today Technology (India Today Group)
+## 👨‍💻 Full Stack Developer — Business Today Technology (India Today Group)
 
-_April 2025 - Present | Next.js, Node.js, React.js, Express.js, TailwindCSS, MongoDB, PostgresSQL, MySQL, Redis_
+📍 April 2025 – Present
 
-- 🧩 **End-to-End Web Application Development**: Built and maintained full-stack web applications using React.js and Node.js, increasing feature release speed by 35% through modular architecture and component-based design.
-- ⚡ **Performance & Scalability Enhancements**: Optimized front-end and back-end performance using SSR (Server-Side Rendering), database indexing, and CDN caching, resulting in a **40% improvement in page load and API response times**.
-- 🎨 **Responsive UI & Accessibility**: Engineered accessible, mobile-first interfaces with Tailwind CSS and React, ensuring WCAG compliance and consistent user experience across all screen sizes and browsers.
-- 🔌 **API Development & Integration**: Developed and documented RESTful APIs, integrating third-party services (e.g., OAuth2) and streamlining communication between microservices.
-- 🗃️ **Database Design & Optimization**: EDesigned and optimized databases using both NoSQL (MongoDB) and SQL (MySQL), implementing efficient schemas, aggregation pipelines, indexing, and query optimization to support high-volume data operations with minimal latency.
-- 🤝 **Team Collaboration & Agile Workflow**: Collaborated with cross-functional teams (backend developers, UX/UI designers, product managers) in an Agile environment, code reviews, and ensuring high-quality deliverables.
-- 🔄 **Migration**: Successfully transitioned **4+ projects from React.js to Next.JS** for Vue frontend compatibility
-- 🚀 **Leadership**: Led **2+ high-priority projects** with architectural design & documentation
+⚙️ Next.js • React.js • Node.js • TypeScript • Python • MongoDB • PostgreSQL • Redis • AWS
 
-### 🧑‍💻🖌️ **UI Developer** - NTT Data Services
+- 🚀 Re-architected distributed Python services into a scalable Next.js-based system, reducing infrastructure complexity and improving maintainability.
+- 🤖 Built AI-powered content analysis pipelines using OpenAI APIs and NLP models to process and analyze 500,000+ news articles.
+- ⚡ Optimized SEO performance and Core Web Vitals using SSR, caching strategies, and dynamic rendering, reducing page render time from 3.7s to 1.5s.
+- 🔌 Developed scalable REST APIs, request tracking systems, and backend optimizations that reduced unnecessary API traffic by 40%+.
+- ☁️ Improved deployment workflows and cloud infrastructure efficiency, significantly reducing deployment times and operational overhead.
+- 📊 Built real-time Google Trends analytics dashboards with polling-based live data visualization systems.
+- 🔄 Led migration from Next.js 12 to Next.js 15 while resolving multiple security vulnerabilities and improving application stability.
+- 🤝 Collaborated across product, backend, and frontend teams in Agile development workflows while contributing to architectural planning and feature delivery.
 
-_Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
+--- ## 📱 React Native Developer — CyberEd (Part-Time Internship)
 
-- 📊 Developed **3 major statistical dashboards** for Banking and Education
-- 📈 Integrated dynamic charts using **HighCharts** for data visualization
+📍 Feb 2025 – Mar 2025 ⚙️ React Native • Expo • TypeScript • Push Notifications
 
-</div>
+- 📲 Built reusable React Native UI components to accelerate feature development and improve maintainability.
+- 🎨 Resolved multiple responsiveness and layout issues across devices to improve user experience and mobile compatibility.
+- 🔔 Implemented push notification systems for learning reminders and engagement workflows.
+- ⚡ Contributed to OTA update workflows using Expo, enabling seamless updates without requiring Play Store releases.
+- 🤝 Collaborated with developers and stakeholders in an Agile environment to debug issues and improve application stability.
+
+--- ## 🧑‍💻 UI Developer — NTT DATA Services
+
+📍 Nov 2020 – Apr 2025 ⚙️ React.js • JavaScript • TypeScript • MongoDB
+
+- 🧩 Developed reusable React components and scalable frontend modules for enterprise applications.
+- 📊 Built statistical dashboards for Banking and Education domains with interactive data visualizations.
+- 📈 Integrated HighCharts-based analytics systems for dynamic reporting and insights.
+- ⚡ Improved frontend performance and responsiveness by replacing heavy third-party UI libraries with optimized custom solutions.
+- 🤝 Worked closely with cross-functional teams to deliver scalable and maintainable UI systems.
+
+---
 
 <div>
 
@@ -273,52 +288,81 @@ _Nov 2020 - April 2025 | React.js, Node.js, MongoDB_
 
 </div>
 
-<div>
+<div align="center"> # 🏗️ Featured Personal Projects </div>
 
-  <h1 align="center">🏗️ Featured Personal Projects</h1>
+---
 
-### 🛍️ **Shopprixity - End-to-End E-commerce Platform**
+## 💬 DevMatch — Developer Networking Platform
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/Shopprixity/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git)
 
-**Comprehensive E-Commerce Platform** with:
+[![Live](https://img.shields.io/badge/Live-Visit_Platform-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://devmatch.live)
 
-- 🎨 **Frontend**: JavaScript, Tailwind CSS, React.js
-- 🛠️ **Backend**: Node.js, Express.js
-- 🗄️ **Database**: MongoDB, Prisma
-- 🧳 **Bundler**: Vite
-- 🔐 **Auth Service**: Node.js + Express.js + MongoDB + Firebase
-- 💳 **Payment Service**: Paypal
-- 📦 **NPM Package**: Lucide React + Zod
-- 🌐 **Hosting Service**: Vercel
+Production-grade developer networking platform focused on real-time communication and scalable full-stack architecture.
 
-### 💰 **BancardifyMe - End-to-End banking Platform**
+### 🚀 Key Features
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/bancardifyme.git/)
+- ⚡ Real-time messaging with Socket.IO
+- 🔐 JWT + OAuth authentication system
+- 👥 User discovery and notifications
+- 📡 Online presence, typing indicators & read receipts
+- 🧩 Modular backend architecture with centralized error handling
+- ☁️ AWS EC2 deployment with Nginx, PM2 & Cloudflare
+- 🔄 Automated CI/CD pipelines using GitHub Actions
+- 📧 AWS SES transactional email workflows
+- 🎨 Optimized frontend architecture using React Server Components & TanStack Query
 
-**Horizon SaaS based Multi-Banking Platform** with:
+### 🛠️ Tech Stack `Next.js` • `TypeScript` • `MongoDB` • `Socket.IO` • `AWS` • `Tailwind CSS` • `TanStack Query`
 
-- 🎨 **Frontend**: TypeScript, Tailwind CSS, Next.js
-- 🛠️ **Backend**: Next.js, Node.js, Express.js
-- 🗄️ **Database**: AppWrite
-- 🔐 **Auth Service**: Node.js + Express.js + AppWrite + Firebase
-- 💳 **Payment Service**: Plaid + Dwolla
-- ⏱️ **Monitoring Service**: Sentry
-- 📦 **NPM Package**: ShadCN UI + Lucide React + Zod
-- 🌐 **Hosting Service**: Netlify
+--- ## 🛍️ Shopprixity — Full Stack E-Commerce Platform
 
-### 📽️ **MovieMania - MovieHub Platform**
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/Shopprixity)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/MovieMania.git/)
+[![Live](https://img.shields.io/badge/Live-Visit_Platform-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://shopprixity.vercel.app)
 
-**Dynamic Movie and TV Show Browsing Platform** with:
+Modern e-commerce platform featuring authentication, product management, cloud media handling, and payment integrations.
 
-- 🎨 **Frontend**: JavaScript, Tailwind CSS, React.js
-- 🧳 **Bundler**: Vite
-- 📦 **NPM Package**: Lucide React
-- 🌐 **Hosting Service**: Netlify
+### 🛠️ Tech Stack
 
-</div>
+- 🎨 Frontend: React.js, Tailwind CSS, Vite
+- 🛠️ Backend: Node.js, Express.js
+- 🗄️ Database: MongoDB, Prisma
+- 🔐 Authentication: Firebase + JWT
+- 💳 Payments: PayPal
+- ☁️ Deployment: Vercel
+
+--- ## 💳 BancardifyMe — Modern Banking Platform
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/bancardifyme)
+
+[![Live](https://img.shields.io/badge/Live-Visit_Platform-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://bancardifyme.netlify.app)
+
+Multi-banking platform focused on secure financial workflows, authentication systems, and responsive dashboard architecture.
+
+### 🛠️ Tech Stack
+
+- 🎨 Frontend: Next.js, TypeScript, Tailwind CSS
+- 🛠️ Backend: Node.js, Express.js
+- 🗄️ Database: Appwrite
+- 🔐 Authentication: Firebase + Appwrite
+- 💳 Integrations: Plaid + Dwolla
+- 📊 Monitoring: Sentry
+- ☁️ Deployment: Netlify
+
+--- ## 🎬 MovieMania — Movie Discovery Platform
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/MovieMania)
+
+[![Live](https://img.shields.io/badge/Live-Visit_Platform-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://moviemania-platform.netlify.app)
+
+Dynamic movie and TV show browsing platform with responsive UI and modern frontend architecture.
+
+### 🛠️ Tech Stack
+
+- 🎨 React.js + Tailwind CSS
+- ⚡ Vite
+- 📦 Lucide React
+- ☁️ Netlify Deployment
 
 <div>
 
