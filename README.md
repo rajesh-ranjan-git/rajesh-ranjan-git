@@ -88,7 +88,9 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
     <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
   </p>
 
-[![Rajesh's Stats](https://follow.lazybittu.workers.dev/user/rajesh-ranjan-git.svg?theme=default)](https://follow.lazybittu.workers.dev/user/rajesh-ranjan-git)
+  <p align-"center">
+    <img src="https://follow.lazybittu.workers.dev/user/rajesh-ranjan-git.svg?theme=default" alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜">
+  </p>
 
 </div>
 
@@ -414,7 +416,7 @@ _"Any fool can write code that a computer can understand. Good programmers write
 
   <h1 align="center">📈 Developer Dashboard</h1>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&theme=2077)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&theme=2077)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077)
 
@@ -436,7 +438,7 @@ _"Any fool can write code that a computer can understand. Good programmers write
 
   <p align=center>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077" alt="Rajesh's github stats" />
-  </p>
+  </p> -->
 
   <p align=center>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajesh-ranjan-git&theme=2077&utcOffset=5.5" alt="Rajesh's github commits" />
@@ -453,16 +455,6 @@ _"Any fool can write code that a computer can understand. Good programmers write
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
-
-<div>
-
-  <h1 align="center">🧩 Most Active Repository</h1>
-
-  <p align="center">
-    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=rajesh-ranjan-git&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-  </p>
-
-<div>
 
 <div>
   <h1 align="center">🧭 Contributor Stats</h1>
