@@ -41,11 +41,11 @@
   <div>&nbsp;</div>
 
 💻 Full Stack Developer @Business Today Technology | India Today Group | Ex-NTT<br><br>
-📢 Full Stack Developer with 5+ years of experience building scalable, high-performance web applications using React, Next.js, Node.js, TypeScript, and cloud-native technologies. Experienced in designing real-time systems, AI-powered content pipelines, and production-grade architectures with strong focus on performance optimization, scalability, and developer experience. Skilled in modern frontend architecture, backend systems, DevOps workflows, and AWS-based deployments.<br><br>
+📢 Full Stack Developer with 6+ years of experience building scalable, high-performance web applications using React, Next.js, Node.js, TypeScript, and cloud-native technologies. Experienced in designing real-time systems, AI-powered content pipelines, and production-grade architectures with strong focus on performance optimization, scalability, and developer experience. Skilled in modern frontend architecture, backend systems, DevOps workflows, and AWS-based deployments.<br><br>
 💬 Ask me about **Next JS, React JS, Node JS, Express JS, JavaScript, TypeScript, React Native, MongoDB, MySQL**<br><br>
 📫 Reach me at : rajeshranjan@gmail.com<br><br>
 📫 Call me at : +91-999-934-0771<br><br>
-📄 Know about me (Portfolio) : https://rajeshranjan.dev/<br><br>
+📄 Know about me (Portfolio) : [https://rajeshranjan.dev](https://rajeshranjan.dev)<br><br>
 📄 Resume : [https://drive.google.com/file/d/1i57BJ4Zp61cIREahhDu-HEPkcNZ6X1AE/view?usp=sharing](https://drive.google.com/file/d/1otpwV4ktAwP-DMi8xBHj0ikCfMB22coU/view?usp=drive_link)<br><br>
 
 </div>
@@ -63,18 +63,15 @@ const rajeshRanjan = {
 
   specialties: [
     "Full Stack Development",
-    "News Publishing Platform",
-    "Digital Media Platform",
     "CMS-Based Website",
-    "News Aggregation Site",
-    "E-commerce Platforms",
     "Real-time Applications",
     "Performance Optimization",
     "SEO Optimization",
   ],
 
   currentFocus:
-    "Architecting and building scalable digital news publishing platforms with a strong focus on performance, uptime, and SEO-optimized, fast-loading content delivery for high-traffic audiences.",
+    "Full Stack Developer focused on scalable web applications, real-time systems, and modern frontend/backend architecture.
+Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-powered workflows. Passionate about building production-grade applications with clean architecture, performance optimization, and strong developer experience.",
   funFact:
     "From architecting microservices for scalable news platforms to optimizing algorithms — I bring the same enthusiasm to building systems as I do to solving LeetCode challenges! 🧩",
 };
