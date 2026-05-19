@@ -88,15 +88,17 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
     <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
   </p>
 
-  <p align="center">
-    <img
-      width="100%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&theme=2077"
-      alt="Profile Details"
-    />
-  </p>
-
 </div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&theme=2077)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajesh-ranjan-git&theme=2077&utcOffset=5.5)
 
 <div>
 
@@ -404,17 +406,15 @@ Dynamic movie and TV show browsing platform with responsive UI and modern fronte
   - Developer tools and workflows
 ```
 
-```
-
 </div>
 
 <div align="center">
 
   <h1 align="center">💡 Development Philosophy</h1>
 
-  > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+_"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."_
 
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -514,9 +514,9 @@ Dynamic movie and TV show browsing platform with responsive UI and modern fronte
 
 <div align="center">
 
-  ### 🚀 "Code, Create, Contribute."
+### 🚀 "Code, Create, Contribute."
 
-  **Shaping the future — one commit at a time! ⭐**
+**Shaping the future — one commit at a time! ⭐**
 
 ### Thanks for stopping by! Show some ❤️ by starring some of my repositories!
 
@@ -525,4 +525,7 @@ Dynamic movie and TV show browsing platform with responsive UI and modern fronte
 #
 
 ![footer](/assets/footer.webp)
+
+```
+
 ```
