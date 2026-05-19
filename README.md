@@ -316,7 +316,7 @@ Production-grade developer networking platform focused on real-time communicatio
 
 ### 🛠️ Tech Stack
 
-- 🎨 Frontend: ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) TypeScript, Tailwind CSS, Zustand, TanStack Query, Motion (formerly Framer Motion)
+- 🎨 Frontend: Next.js, TypeScript, Tailwind CSS, Zustand, TanStack Query, Motion (formerly Framer Motion)
 - 🛠️ Backend: Node.js, Express.js
 - 🗄️ Database: MongoDB
 - 🔐 Authentication: JWT, OAuth (Google, GitHub, LinkedIn)
