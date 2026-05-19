@@ -106,9 +106,9 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
 
 </div>
 
-<div align="center"> # 💼 Professional Experience </div>
+<div align="center">
 
----
+# 💼 Professional Experience </div>
 
 ## 👨‍💻 Full Stack Developer — Business Today Technology (India Today Group)
 
@@ -125,8 +125,6 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
 - 🔄 Led migration from Next.js 12 to Next.js 15 while resolving multiple security vulnerabilities and improving application stability.
 - 🤝 Collaborated across product, backend, and frontend teams in Agile development workflows while contributing to architectural planning and feature delivery.
 
----
-
 ## 📱 React Native Developer — CyberEd (Part-Time Internship)
 
 📍 Feb 2025 – Mar 2025
@@ -139,8 +137,6 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
 - ⚡ Contributed to OTA update workflows using Expo, enabling seamless updates without requiring Play Store releases.
 - 🤝 Collaborated with developers and stakeholders in an Agile environment to debug issues and improve application stability.
 
----
-
 ## 🧑‍💻 UI Developer — NTT DATA Services
 
 📍 Nov 2020 – Apr 2025
@@ -152,8 +148,6 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
 - 📈 Integrated HighCharts-based analytics systems for dynamic reporting and insights.
 - ⚡ Improved frontend performance and responsiveness by replacing heavy third-party UI libraries with optimized custom solutions.
 - 🤝 Worked closely with cross-functional teams to deliver scalable and maintainable UI systems.
-
----
 
 <div>
 
@@ -298,13 +292,11 @@ Experienced with Next.js, React, Node.js, TypeScript, WebSockets, AWS, and AI-po
 
 <div align="center"> # 🏗️ Featured Personal Projects </div>
 
----
-
 ## 💬 DevMatch — Developer Networking Platform
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git)
 
-[![Live](https://img.shields.io/badge/Live-Visit_Platform-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://devmatch.live)
+[![Live](https://img.shields.io/badge/Live-Visit_Platform-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://devmatch.rajeshranjan.dev)
 
 Production-grade developer networking platform focused on real-time communication and scalable full-stack architecture.
 
@@ -321,8 +313,6 @@ Production-grade developer networking platform focused on real-time communicatio
 - 🎨 Optimized frontend architecture using React Server Components & TanStack Query
 
 ### 🛠️ Tech Stack `Next.js` • `TypeScript` • `MongoDB` • `Socket.IO` • `AWS` • `Tailwind CSS` • `TanStack Query`
-
----
 
 ## 🛍️ Shopprixity — Full Stack E-Commerce Platform
 
@@ -341,8 +331,6 @@ Modern e-commerce platform featuring authentication, product management, cloud m
 - 💳 Payments: PayPal
 - ☁️ Deployment: Vercel
 
----
-
 ## 💳 BancardifyMe — Modern Banking Platform
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/bancardifyme)
@@ -360,8 +348,6 @@ Multi-banking platform focused on secure financial workflows, authentication sys
 - 💳 Integrations: Plaid + Dwolla
 - 📊 Monitoring: Sentry
 - ☁️ Deployment: Netlify
-
----
 
 ## 🎬 MovieMania — Movie Discovery Platform
 
