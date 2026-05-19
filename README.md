@@ -322,7 +322,7 @@ Production-grade developer networking platform focused on real-time communicatio
 - 🔐 Authentication: JWT, OAuth (Google, GitHub, LinkedIn)
 - ⚡ Real Time System: Socket.IO
 - 📨 Mailing System: Amazon SES
-- ☁️ Deployment: Amazon EC2, AWS, Cloudflare
+- ☁️ Deployment: Amazon EC2, AWS, Cloudflare, Nginx, PM2
 
 ## 🛍️ Shopprixity — Full Stack E-Commerce Platform
 
