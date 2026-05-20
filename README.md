@@ -374,6 +374,7 @@ const rajeshRanjan = {
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/amazon_aws-FF9900?style=for-the-badge&logo=icloud&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 
 </div>
 
@@ -392,7 +393,7 @@ Production-grade developer networking platform focused on real-time communicatio
 ### 🚀 Key Features
 
 - ⚡ Real-time messaging with Socket.IO
-- 🔐 JWT + OAuth authentication system
+- 🔐 JWT + OAuth with RBAC authentication system
 - 👥 User discovery and notifications
 - 📡 Online presence, typing indicators & read receipts
 - 🧩 Modular backend architecture with centralized error handling
