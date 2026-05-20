@@ -59,7 +59,7 @@ const rajeshRanjan = {
   education: "B.Tech in Computer Science & Engineering",
 
   experience:
-    "5+ years of experience building scalable full-stack applications, real-time systems, and performance-driven web platforms",
+    "6+ years of experience building scalable full-stack applications, real-time systems, and performance-driven web platforms",
 
   workingOn:
     "Building and optimizing high-traffic media platforms at Business Today Technology (India Today Group) with focus on scalable architecture, AI-powered content systems, SEO optimization, real-time analytics, and modern full-stack engineering",
