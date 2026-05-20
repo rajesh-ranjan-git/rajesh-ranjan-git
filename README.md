@@ -131,12 +131,12 @@ const rajeshRanjan = {
   <h1 align="center">🧮 GitHub Profile Analytics</h1>
 
   <p align="center">  
-    <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rajesh-ranjan-git&style=flat&color=brightgreen"> • <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social"> • 
-    <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
+    <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rajesh-ranjan-git&style=flat&color=brightgreen"> • <img alt="GitHub Followers" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social"> • 
+    <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="Total Stars"> 
   </p>
 
   <p align="center">
-    <img src="https://follow.lazybittu.workers.dev/user/rajesh-ranjan-git.svg?theme=calm_pink&preset=banner" alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜">
+    <img src="https://follow.lazybittu.workers.dev/user/rajesh-ranjan-git.svg?theme=calm_pink&preset=banner" alt="GitHub Followers">
   </p>
 
 </div>
@@ -166,13 +166,13 @@ const rajeshRanjan = {
   </p>
 
   <p align="center">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub repos per language" />
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub most commits per language" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub repos per language" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub most commits per language" />
   </p>
 
   <p align="center">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub stats" />
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajesh-ranjan-git&theme=2077&utcOffset=5.5" alt="Rajesh's github commits" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub stats" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajesh-ranjan-git&theme=2077&utcOffset=5.5" alt="Rajesh's github commits" />
   </p>
 
   <p align=center>
