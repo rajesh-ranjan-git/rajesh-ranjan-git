@@ -45,7 +45,7 @@
 💬 Ask me about **Next JS, React JS, Node JS, Express JS, JavaScript, TypeScript, React Native, MongoDB, MySQL**<br><br>
 📫 Reach me at : rajeshranjan@gmail.com<br><br>
 📫 Call me at : +91-999-934-0771<br><br>
-📄 Know about me (Portfolio) : [https://rajeshranjan.dev](https://rajeshranjan.dev)<br><br>
+📄 Know about me (Portfolio) : [https://rajeshranjan.dev/](https://rajeshranjan.dev/)<br><br>
 📄 Resume : [https://drive.google.com/file/d/1i57BJ4Zp61cIREahhDu-HEPkcNZ6X1AE/view?usp=sharing](https://drive.google.com/file/d/1otpwV4ktAwP-DMi8xBHj0ikCfMB22coU/view?usp=drive_link)<br><br>
 
 </div>
