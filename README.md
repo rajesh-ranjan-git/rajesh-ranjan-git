@@ -550,7 +550,7 @@ _"Any fool can write code that a computer can understand. Good programmers write
       <code><img height="60" width="60" src="/assets/social/linked-in.svg"/></code>
     </a>
     <a href="https://twitter.com/_rajesh____" target="_blank">
-      <code><img  height="60" width="60" src="/assets/social/x.svg"/></code>
+      <code><img  height="60" width="60" src="/assets/social/x-new.svg"/></code>
     </a>
     <a href="https://www.instagram.com/_rajesh____" target="_blank">
       <code><img height="60" width="60" src="/assets/social/instagram.svg"/></code>
