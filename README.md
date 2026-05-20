@@ -543,22 +543,22 @@ _"Any fool can write code that a computer can understand. Good programmers write
 
   <p align="center">
     <br>
-    <a href="https://github.com/rajesh-ranjan-git" target="_blank">
+    <a href="https://github.com/rajesh-ranjan-git/" target="_blank">
       <code><img height="60" width="60" src="/assets/tech-img/git-hub.svg"/></code>
     </a>
-    <a href="https://linkedin.com/in/rajesh-ranjan-660b1b13a" target="_blank">
+    <a href="https://linkedin.com/in/rajesh-ranjan-660b1b13a/" target="_blank">
       <code><img height="60" width="60" src="/assets/social/linked-in.svg"/></code>
     </a>
-    <a href="https://twitter.com/_rajesh____" target="_blank">
+    <a href="https://twitter.com/_rajesh____/" target="_blank">
       <code><img  height="60" width="60" src="/assets/social/x.svg"/></code>
     </a>
-    <a href="https://www.instagram.com/_rajesh____" target="_blank">
+    <a href="https://www.instagram.com/_rajesh____/" target="_blank">
       <code><img height="60" width="60" src="/assets/social/instagram.svg"/></code>
     </a>
-    <a href="https://fb.com/rajeshranjan8271" target="_blank">
+    <a href="https://fb.com/rajeshranjan8271/" target="_blank">
       <code><img height="60" width="60" src="/assets/social/facebook.svg"/></code>
     </a>
-    <a href="mailto:rajeshranjan8271@gmail.com">
+    <a href="mailto:rajeshranjan8271@gmail.com/">
       <code><img src="/assets/social/gmail.svg" alt="Rajesh's Mail" height="60" width="60"></code>
     </a>
   </p>
