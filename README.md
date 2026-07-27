@@ -46,7 +46,7 @@
 📫 Reach me at : rajeshranjan@gmail.com<br><br>
 📫 Call me at : +91-999-934-0771<br><br>
 📄 Know about me (Portfolio) : [https://rajeshranjan.dev/](https://rajeshranjan.dev/)<br><br>
-📄 Resume : [https://drive.google.com/file/d/1i57BJ4Zp61cIREahhDu-HEPkcNZ6X1AE/view?usp=sharing](https://drive.google.com/file/d/1otpwV4ktAwP-DMi8xBHj0ikCfMB22coU/view?usp=drive_link)<br><br>
+📄 Resume : [Resume Link](https://drive.google.com/file/d/1L73b_IyVJpdDCkDk1t9dBPB6kEnEHGrW/view?usp=drive_link)<br><br>
 
 </div>
 
@@ -59,7 +59,7 @@ const rajeshRanjan = {
   education: "B.Tech in Computer Science & Engineering",
 
   experience:
-    "6+ years of experience building scalable full-stack applications, real-time systems, and performance-driven web platforms",
+    "7+ years of experience building scalable full-stack applications, real-time systems, and performance-driven web platforms",
 
   workingOn:
     "Building and optimizing high-traffic media platforms at Business Today Technology (India Today Group) with focus on scalable architecture, AI-powered content systems, SEO optimization, real-time analytics, and modern full-stack engineering",
