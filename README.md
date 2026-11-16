@@ -1,66 +1,84 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Rajesh%20Ranjan&text2=%20Full%20Stack%20Developer%20@Business%20Today%20Technology%20|%20India%20Today%20Group&width=1000&height=300)](https://rajesh-ranjan-portfolio.netlify.app/)
 
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white)](https://rajesh-ranjan-portfolio.netlify.app/)
-  [![GitHub](https://img.shields.io/badge/Github-000000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/rajesh_leetcode_handle/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajesh-ranjan-660b1b13a/)
-  [![Twitter](https://img.shields.io/badge/Twitter-000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_rajesh____/)
-  [![Facebook](https://img.shields.io/badge/Facebook-0077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/rajeshranjan8271/)
-  [![Instagram](https://img.shields.io/badge/Instagram-D62976.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_rajesh____/)
-    
-</div>
+<h1 align="center">Hi, I'm Rajesh Ranjan 👋</h1>
 
-<div>
-
-  <h1 align="center">
-    Yo! 👋, I'm Rajesh Ranjan !
-  </h1>
-  
-  <h3 align="center">
-    👨‍💻 – exploring code like it’s uncharted space 🚀
-  </h3>
-
-  <p align="center">
+<p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Open+Source+Contributor;&center=true&width=500&height=50"></a>
   </p>
-  
-  <h3 align="center">💻 Full Stack Developer @Business Today Technology | India Today Group | Ex-NTT 💻<br>
-  🚀 Next.js | React.js | Node.js | React Native | JavaScript | TypeScript | Express.js | MongoDB | MySQL 🚀<br>
-  🛠️ Building scalable web & cloud solutions with clean, performant code 🛠️</h3>
 
-</div>
+<p align="center">
+  <b>Full Stack Developer @ Business Today Technology (India Today Group)</b><br>
+  6+ years building scalable, high-performance web applications with React, Next.js, Node.js and TypeScript
+</p>
 
-<div>
+<p align="center">
+  <a href="https://rajeshranjan.dev/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/rajesh-ranjan-660b1b13a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://drive.google.com/file/d/1L73b_IyVJpdDCkDk1t9dBPB6kEnEHGrW/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
+  <a href="https://leetcode.com/rajesh_leetcode_handle/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="mailto:rajeshranjan8271@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-  <h1 align="center">🧠 About the Human Behind the Code</h1>
+<h1 align="center">🧠 About</h1>
 
-<a href="https://app.daily.dev/rajeshranjandevcard"><img align="right" src="https://api.daily.dev/devcards/v2/cCXhJYbYBWUgCAg1sao6V.png?r=esd&type=default" width="380" alt="Rajesh Ranjan's Dev Card"/></a>
+I design and build production-grade web platforms with a focus on performance, scalability and developer experience. Currently I work on high-traffic media platforms at India Today Group, covering frontend architecture, AI-powered content pipelines, SEO / Core Web Vitals and AWS-based deployments.
 
-  <div>&nbsp;</div>
+<h1 align="center">🔧 Tech Stack</h1>
 
-💻 Full Stack Developer @Business Today Technology | India Today Group | Ex-NTT<br><br>
-📢 Full Stack Developer with 6+ years of experience building scalable, high-performance web applications using React, Next.js, Node.js, TypeScript, and cloud-native technologies. Experienced in designing real-time systems, AI-powered content pipelines, and production-grade architectures with strong focus on performance optimization, scalability, and developer experience. Skilled in modern frontend architecture, backend systems, DevOps workflows, and AWS-based deployments.<br><br>
-💬 Ask me about **Next JS, React JS, Node JS, Express JS, JavaScript, TypeScript, React Native, MongoDB, MySQL**<br><br>
-📫 Reach me at : rajeshranjan@gmail.com<br><br>
-📫 Call me at : +91-999-934-0771<br><br>
-📄 Know about me (Portfolio) : [https://rajeshranjan.dev/](https://rajeshranjan.dev/)<br><br>
-📄 Resume : [Resume Link](https://drive.google.com/file/d/1L73b_IyVJpdDCkDk1t9dBPB6kEnEHGrW/view?usp=drive_link)<br><br>
+<p>
+  <img src="/assets/tech-img/typescript.svg" alt="TypeScript" title="TypeScript" width="40" height="40">
+  <img src="/assets/tech-img/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40">
+  <img src="/assets/tech-img/react-js.svg" alt="React" title="React / React Native" width="40" height="40">
+  <img src="/assets/tech-img/next-js.svg" alt="Next.js" title="Next.js" width="40" height="40">
+  <img src="/assets/tech-img/redux.svg" alt="Redux" title="Redux" width="40" height="40">
+  <img src="/assets/tech-img/tailwind-css.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40">
+  <img src="/assets/tech-img/node-js.svg" alt="Node.js" title="Node.js" width="40" height="40">
+  <img src="/assets/tech-img/express-js.svg" alt="Express.js" title="Express.js" width="40" height="40">
+  <img src="/assets/tech-img/graph-ql.svg" alt="GraphQL" title="GraphQL" width="40" height="40">
+  <img src="/assets/tech-img/python.svg" alt="Python" title="Python" width="40" height="40">
+  <img src="/assets/tech-img/mongo-db.svg" alt="MongoDB" title="MongoDB" width="40" height="40">
+  <img src="/assets/tech-img/postgre-sql.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40">
+  <img src="/assets/tech-img/my-sql.svg" alt="MySQL" title="MySQL" width="40" height="40">
+  <img src="/assets/tech-img/redis.svg" alt="Redis" title="Redis" width="40" height="40">
+  <img src="/assets/tech-img/aws.svg" alt="AWS" title="AWS" width="40" height="40">
+  <img src="/assets/tech-img/docker.svg" alt="Docker" title="Docker" width="40" height="40">
+  <img src="/assets/tech-img/nginx.svg" alt="Nginx" title="Nginx" width="40" height="40">
+  <img src="/assets/tech-img/cloudflare.svg" alt="Cloudflare" title="Cloudflare" width="40" height="40">
+  <img src="/assets/tech-img/github-actions.svg" alt="GitHub Actions" title="GitHub Actions" width="40" height="40">
+</p>
 
-</div>
+<h1 align="center">💼 Professional Experience</h1>
 
-<div>
+👨‍💻 **Full Stack Developer — Business Today Technology (India Today Group)** · _Apr 2025 – Present_
 
-  <h1 align="center">📈 Developer Dashboard</h1>
+- Re-architected distributed Python services into a unified Next.js system, reducing infrastructure complexity.
+- Built AI-powered content analysis pipelines (OpenAI APIs, NLP) processing 500,000+ news articles.
+- Cut page render time from 3.7s to 1.5s through SSR, caching and Core Web Vitals optimization.
+- Reduced unnecessary API traffic by 40%+ and led the Next.js 12 → 15 migration, resolving security vulnerabilities.
+
+👨‍💻 **UI Developer — NTT DATA Services** · _Nov 2020 – Apr 2025_
+
+- Built reusable React component libraries and frontend modules for enterprise Banking and Education applications.
+- Delivered analytics dashboards with Highcharts-based interactive reporting.
+- Improved performance by replacing heavy third-party UI libraries with lightweight custom components.
+
+<h1 align="center">📈 Developer Dashboard</h1>
 
   <p align="center">  
     <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rajesh-ranjan-git&style=flat&color=brightgreen"> • <img alt="GitHub Followers" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social"> • 
     <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="Total Stars"> 
   </p>
 
+
+
   <p align="center">
     <img src="https://follow.lazybittu.workers.dev/user/rajesh-ranjan-git.svg?theme=calm_pink&preset=banner" alt="GitHub Followers">
+  </p>
+
+<p align="center" >
+    <img height="150" width="150" src="/assets/left.webp"  style="width:20%">
+    <img align="center" src="https://github-readme-streak-stats-eight.vercel.app?user=rajesh-ranjan-git&theme=great-gatsby" style="width:50%"  />
+    <img height="150" width="150" src="/assets/right.webp" style="width:20%">
   </p>
 
   <p align="center">
@@ -83,142 +101,7 @@
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
-</div>
-
-<div align="center">
-
-# 💼 Professional Experience </div>
-
-## 👨‍💻 Full Stack Developer — Business Today Technology (India Today Group)
-
-📍 April 2025 – Present
-
-⚙️ Next.js • React.js • Node.js • TypeScript • Python • MongoDB • PostgreSQL • Redis • AWS
-
-- 🚀 Re-architected distributed Python services into a scalable Next.js-based system, reducing infrastructure complexity and improving maintainability.
-- 🤖 Built AI-powered content analysis pipelines using OpenAI APIs and NLP models to process and analyze 500,000+ news articles.
-- ⚡ Optimized SEO performance and Core Web Vitals using SSR, caching strategies, and dynamic rendering, reducing page render time from 3.7s to 1.5s.
-- 🔌 Developed scalable REST APIs, request tracking systems, and backend optimizations that reduced unnecessary API traffic by 40%+.
-- ☁️ Improved deployment workflows and cloud infrastructure efficiency, significantly reducing deployment times and operational overhead.
-- 📊 Built real-time Google Trends analytics dashboards with polling-based live data visualization systems.
-- 🔄 Led migration from Next.js 12 to Next.js 15 while resolving multiple security vulnerabilities and improving application stability.
-- 🤝 Collaborated across product, backend, and frontend teams in Agile development workflows while contributing to architectural planning and feature delivery.
-
-## 📱 React Native Developer — CyberEd (Part-Time Internship)
-
-📍 Feb 2025 – Mar 2025
-
-⚙️ React Native • Expo • TypeScript • Push Notifications
-
-- 📲 Built reusable React Native UI components to accelerate feature development and improve maintainability.
-- 🎨 Resolved multiple responsiveness and layout issues across devices to improve user experience and mobile compatibility.
-- 🔔 Implemented push notification systems for learning reminders and engagement workflows.
-- ⚡ Contributed to OTA update workflows using Expo, enabling seamless updates without requiring Play Store releases.
-- 🤝 Collaborated with developers and stakeholders in an Agile environment to debug issues and improve application stability.
-
-## 🧑‍💻 UI Developer — NTT DATA Services
-
-📍 Nov 2020 – Apr 2025
-
-⚙️ React.js • JavaScript • TypeScript • MongoDB
-
-- 🧩 Developed reusable React components and scalable frontend modules for enterprise applications.
-- 📊 Built statistical dashboards for Banking and Education domains with interactive data visualizations.
-- 📈 Integrated HighCharts-based analytics systems for dynamic reporting and insights.
-- ⚡ Improved frontend performance and responsiveness by replacing heavy third-party UI libraries with optimized custom solutions.
-- 🤝 Worked closely with cross-functional teams to deliver scalable and maintainable UI systems.
-
-<div>
-
-  <h1 align="center">🔧 Gears Behind the Code</h1>
-
-  <img align="left" height="400px" width="400px" alt="gif" src="/assets/fintechtocat.png" />
-
-</div>
-
-<div>
-
-  <img src="/assets/tech-img/android-studio.svg" alt="android-studio" width="40" height="40">
-  <img src="/assets/tech-img/angular.svg" alt="angular" width="40" height="40">
-  <img src="/assets/tech-img/appwrite.svg" alt="appwrite" width="40" height="40">
-  <img src="/assets/tech-img/atom.svg" alt="atom" width="40" height="40">
-  <img src="/assets/tech-img/aws.svg" alt="aws" width="40" height="40">
-  <img src="/assets/tech-img/azure.svg" alt="azure" width="40" height="40">
-  <img src="/assets/tech-img/bit-bucket.svg" alt="bit-bucket" width="40" height="40">
-  <img src="/assets/tech-img/bootstrap.svg" alt="bootstrap" width="40" height="40">
-  <img src="/assets/tech-img/c-sharp.svg" alt="c-sharp" width="40" height="40">
-  <img src="/assets/tech-img/c.svg" alt="c" width="40" height="40">
-  <img src="/assets/tech-img/cloudflare.svg" alt="cloudflare" width="40" height="40">
-  <img src="/assets/tech-img/code-pen.svg" alt="code-pen" width="40" height="40">
-  <img src="/assets/tech-img/c-plus-plus.svg" alt="c-plus-plus.svg" width="40" height="40">
-  <img src="/assets/tech-img/css.svg" alt="css" width="40" height="40">
-  <img src="/assets/tech-img/dev-to.svg" alt="dev-to" width="40" height="40">
-  <img src="/assets/tech-img/django.svg" alt="django" width="40" height="40">
-  <img src="/assets/tech-img/docker.svg" alt="docker" width="40" height="40">
-  <img src="/assets/tech-img/eclipse.svg" alt="eclipse" width="40" height="40">
-  <img src="/assets/tech-img/express-js.svg" alt="express-js" width="40" height="40">
-  <img src="/assets/tech-img/fast-api.svg" alt="fast-api" width="40" height="40">
-  <img src="/assets/tech-img/figma.svg" alt="figma" width="40" height="40">
-  <img src="/assets/tech-img/firebase.svg" alt="firebase" width="40" height="40">
-  <img src="/assets/tech-img/flask.svg" alt="flask" width="40" height="40">
-  <img src="/assets/tech-img/gcp.svg" alt="gcp" width="40" height="40">
-  <img src="/assets/tech-img/git-hub.svg" alt="git-hub" width="40" height="40">
-  <img src="/assets/tech-img/git-lab.svg" alt="git-lab" width="40" height="40">
-  <img src="/assets/tech-img/git.svg" alt="git" width="40" height="40">
-  <img src="/assets/tech-img/github-actions.svg" alt="github-actions" width="40" height="40">
-  <img src="/assets/tech-img/gradle.svg" alt="gradle" width="40" height="40">
-  <img src="/assets/tech-img/graph-ql.svg" alt="graph-ql" width="40" height="40">
-  <img src="/assets/tech-img/hibernate.svg" alt="hibernate" width="40" height="40">
-  <img src="/assets/tech-img/html.svg" alt="html" width="40" height="40">
-  <img src="/assets/tech-img/intellij-idea.svg" alt="intellij-idea" width="40" height="40">
-  <img src="/assets/tech-img/java.svg" alt="java" width="40" height="40">
-  <img src="/assets/tech-img/javascript.svg" alt="javascript" width="40" height="40">
-  <img src="/assets/tech-img/jenkins.svg" alt="jenkins" width="40" height="40">
-  <img src="/assets/tech-img/jest.svg" alt="jest" width="40" height="40">
-  <img src="/assets/tech-img/jquery.svg" alt="jquery" width="40" height="40">
-  <img src="/assets/tech-img/kafka.svg" alt="kafka" width="40" height="40">
-  <img src="/assets/tech-img/kali.svg" alt="kali" width="40" height="40">
-  <img src="/assets/tech-img/kotlin.svg" alt="kotlin" width="40" height="40">
-  <img src="/assets/tech-img/kubernetes.svg" alt="kubernetes" width="40" height="40">
-  <img src="/assets/tech-img/latex.svg" alt="latex" width="40" height="40">
-  <img src="/assets/tech-img/linux.svg" alt="linux" width="40" height="40">
-  <img src="/assets/tech-img/material-ui.svg" alt="material-ui" width="40" height="40">
-  <img src="/assets/tech-img/maven.svg" alt="maven" width="40" height="40">
-  <img src="/assets/tech-img/mongo-db.svg" alt="mongo-db" width="40" height="40">
-  <img src="/assets/tech-img/my-sql.svg" alt="my-sql" width="40" height="40">
-  <img src="/assets/tech-img/nest-js.svg" alt="nest-js" width="40" height="40">
-  <img src="/assets/tech-img/netlify.svg" alt="netlify" width="40" height="40">
-  <img src="/assets/tech-img/next-js.svg" alt="next-js" width="40" height="40">
-  <img src="/assets/tech-img/nginx.svg" alt="nginx" width="40" height="40">
-  <img src="/assets/tech-img/node-js.svg" alt="node-js" width="40" height="40">
-  <img src="/assets/tech-img/npm.svg" alt="npm" width="40" height="40">
-  <img src="/assets/tech-img/php.svg" alt="php" width="40" height="40">
-  <img src="/assets/tech-img/pnpm.svg" alt="pnpm" width="40" height="40">
-  <img src="/assets/tech-img/postgre-sql.svg" alt="postgre-sql" width="40" height="40">
-  <img src="/assets/tech-img/postman.svg" alt="postman" width="40" height="40">
-  <img src="/assets/tech-img/powershell.svg" alt="powershell" width="40" height="40">
-  <img src="/assets/tech-img/prisma.svg" alt="prisma" width="40" height="40">
-  <img src="/assets/tech-img/pycharm.svg" alt="pycharm" width="40" height="40">
-  <img src="/assets/tech-img/python.svg" alt="python" width="40" height="40">
-  <img src="/assets/tech-img/react-js.svg" alt="react-js" width="40" height="40">
-  <img src="/assets/tech-img/redis.svg" alt="redis" width="40" height="40">
-  <img src="/assets/tech-img/redux.svg" alt="redux" width="40" height="40">
-  <img src="/assets/tech-img/sass.svg" alt="sass" width="40" height="40">
-  <img src="/assets/tech-img/sentry.svg" alt="sentry" width="40" height="40">
-  <img src="/assets/tech-img/spring.svg" alt="spring" width="40" height="40">
-  <img src="/assets/tech-img/stack-overflow.svg" alt="stack-overflow" width="40" height="40">
-  <img src="/assets/tech-img/sublime.svg" alt="sublime" width="40" height="40">
-  <img src="/assets/tech-img/tailwind-css.svg" alt="tailwind-css" width="40" height="40">
-  <img src="/assets/tech-img/typescript.svg" alt="typescript" width="40" height="40">
-  <img src="/assets/tech-img/vercel.svg" alt="vercel" width="40" height="40">
-  <img src="/assets/tech-img/vite.svg" alt="vite" width="40" height="40">
-  <img src="/assets/tech-img/vitest.svg" alt="vitest" width="40" height="40">
-  <img src="/assets/tech-img/vs-code.svg" alt="vs-code" width="40" height="40">
-  <img src="/assets/tech-img/webpack.svg" alt="webpack" width="40" height="40">
-
-</div>
-
-<div>&nbsp;</div>
+<h1 align="center">🔧 Gears Behind the Code</h1>
 
 <div align="center">
 
