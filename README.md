@@ -69,8 +69,6 @@ I design and build production-grade web platforms with a focus on performance, s
     <img src="https://img.shields.io/github/stars/rajesh-ranjan-git?label=Stars" alt="Total Stars"> 
   </p>
 
-
-
   <p align="center">
     <img src="https://follow.lazybittu.workers.dev/user/rajesh-ranjan-git.svg?theme=calm_pink&preset=banner" alt="GitHub Followers">
   </p>
