@@ -51,10 +51,61 @@ I design and build production-grade web platforms with a focus on performance, s
 
 👨‍💻 **Full Stack Developer — Business Today Technology (India Today Group)** · _Apr 2025 – Present_
 
-- Re-architected distributed Python services into a unified Next.js system, reducing infrastructure complexity.
-- Built AI-powered content analysis pipelines (OpenAI APIs, NLP) processing 500,000+ news articles.
-- Cut page render time from 3.7s to 1.5s through SSR, caching and Core Web Vitals optimization.
-- Reduced unnecessary API traffic by 40%+ and led the Next.js 12 → 15 migration, resolving security vulnerabilities.
+_High-traffic news, markets and live-election platforms for Aaj Tak, India Today, Business Today, The Lallantop and more · ~2,500 commits across 8 production repos._
+
+- **Leading a ground-up CMS replacement.** Lead contributor to an API-first headless CMS that replaces the group's legacy Drupal 8 multisite for Aaj Tak, Business Today, India Today Hindi, The Lallantop and Hello! Magazine. I designed the normalized PostgreSQL architecture (13 schemas, delivered in 6 phased migrations), the legacy data-migration pipelines, the dynamic content-type/field engine and the shared design system. _NestJS · TypeORM · PostgreSQL · Redis · Next.js 16_
+- **Built an AI newsroom-intelligence platform** as its primary author, backend and frontend. Content-analysis pipelines (OpenAI, NLP) process 500,000+ news articles. It includes an engagement-prediction model (Gradient Boosting on NER, sentiment and embedding features, with daily feedback and weekly retraining), semantic-similarity competitor tracking, duplicate detection, Google/X trend ingestion, and GPT-based summarizers and FAQ/blog generators. _Python · Quart · OpenAI · Transformers · scikit-learn · MongoDB · Playwright_
+- **Delivered live election results at national scale.** Core developer of the election data platform for India Today, Aaj Tak and Bangla Aaj Tak (Bihar 2025 and the 2026 Assembly elections). Led its 2026 rebuild with live results, seat tally, interactive constituency maps, vote share, candidate profiles and Hindi i18n. _Next.js 16 · React 19 (Compiler) · TypeScript · Zustand · MySQL_
+- **Owned performance, SEO and monetization on Business Today and BT Bazaar.** Cut page render time from 3.7s to 1.5s through SSR, caching and Core Web Vitals (LCP/FCP) work. Built a full Schema.org JSON-LD layer, AMP pages, an infinite "next story" scroll, and ad-tech integration (Google Publisher Tag, PubMatic, Amazon APS, Taboola).
+- **Modernized the stack.** Re-architected distributed Python services into a unified Next.js system and led the Next.js 12 → 15 / React 18 migrations. Reduced unnecessary API traffic by 40%+ and cleared SonarQube issues and security vulnerabilities.
+- **Automated newsroom workflows.** Built an automated markets live blog driven by NSE/BSE/Sensex data and published via AWS S3/SQS, an election simulator with a public API, and a multi-step story-filing flow with a live mobile preview per site.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+<details>
+<summary><b>📂 Project highlights at India Today Group</b></summary>
+
+<br>
+
+**🗂️ Headless media CMS (iSmart 2.0)** · _Oct 2026 – Present · lead contributor_
+- Moved content storage from JSON blobs to a normalized design: 13 Postgres schemas (IAM, content, taxonomy, media, workflow, audit, analytics…), a consolidated baseline migration, and seed/seed-export tooling.
+- Migration pipelines from the legacy platform, starting with The Lallantop, plus an admin migration UI.
+- Editorial features: live blogs, scheduling, SEF URL patterns, taxonomy, edit workflow, media-bank integration, multi-brand mobile previews, Chartbeat-backed newsroom dashboards.
+- Platform work: RBAC standards, structured logging, centralized design system, DB architecture docs.
+
+**🤖 Elevate: AI newsroom intelligence** · _Jun 2025 – Mar 2026 · primary author_
+- **News Prediction Engine:** ingests news and analytics data, engineers features, ranks tomorrow's most engaging stories with a hybrid of ML and GPT predictions, and runs retraining, anomaly-detection and reporting pipelines.
+- **News Intelligence and Duplicacy engines:** competitor sitemap parsing and an embedding-based similarity pipeline.
+- **Trends Analyzer** (Google Trends, X) with on-demand, self-pausing schedulers. **Competitive Content Analyzer** (Playwright). **Comments Summarizer**, **FAQ Generator**, election **Blog Generator**, and a Hindi content analyzer (Cohere).
+
+**🗳️ Election Analysis Dashboard** · _Aug 2025 – Present · core developer, led the 2026 rebuild_
+- Live results grid, seat tally and matrix, power map, strike rate, victory margins, turnout by gender, Know Your Candidate (assets, education, cases).
+- JWT and email login (AWS SES), service worker, per-state dynamic menus, command-palette navigation, public mode.
+
+**📈 Business Today and BT Bazaar** · _May 2025 – Sep 2026_
+- Next.js App Router behind a custom Express server with SAML SSO and Redis sessions and caching.
+- Union Budget 2026 interactive graphs, billionaires list, mutual funds UI, stock-detail embeds, FIFA World Cup section, AI-generated story FAQs with FAQ schema (regular and AMP pages).
+- Custom drag-and-snap slider that replaced Swiper, table-aware in-article ad injection, group-wide search v4.
+
+**🧰 Newsroom tools and other sites**
+- **xSmart:** internal AI-enabled CMS. Elevate UI, Stock Auto Live Blog, Election Simulator, rebuilt story filing.
+- **Video Wall:** multi-stream HLS video wall with personalization and ads.
+- **GDB survey site:** "Zara Sochiye" video campaign section and global search API (Highcharts, Zustand).
+
+</details>
 
 👨‍💻 **UI Developer — NTT DATA Services** · _Nov 2020 – Apr 2025_
 
