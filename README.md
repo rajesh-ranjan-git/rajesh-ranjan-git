@@ -103,11 +103,6 @@ _High-traffic news, markets and live-election platforms for Aaj Tak, India Today
   <img alt="github-snake" src="/snake-commit-contribution/github-snake.svg" />
 </picture>
 
-<h1 align="center">
-  🛸 Beam Me a Message
-  <img src="/assets/handshake.gif" height="25px">
-</h1>
-
 <p align="center">
   <a href="https://github.com/rajesh-ranjan-git/" target="_blank">
     <code><img height="60" width="60" src="/assets/tech-img/git-hub.svg"/></code>
