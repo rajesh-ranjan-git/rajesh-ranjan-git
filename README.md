@@ -52,83 +52,7 @@
 
 <div>
 
-```javascript
-const rajeshRanjan = {
-  currentRole: "Full Stack Developer @ India Today Group",
-
-  education: "B.Tech in Computer Science & Engineering",
-
-  experience:
-    "7+ years of experience building scalable full-stack applications, real-time systems, and performance-driven web platforms",
-
-  workingOn:
-    "Building and optimizing high-traffic media platforms at Business Today Technology (India Today Group) with focus on scalable architecture, AI-powered content systems, SEO optimization, real-time analytics, and modern full-stack engineering",
-
-  specialties: [
-    "Full Stack Development",
-    "Scalable Web Architecture",
-    "Real-time Applications",
-    "AI-powered Workflows",
-    "Performance Optimization",
-    "SEO & Core Web Vitals",
-    "Modern Frontend Engineering",
-    "Cloud & DevOps",
-  ],
-
-  techStack: {
-    frontend: [
-      "React.js",
-      "Next.js",
-      "TypeScript",
-      "Tailwind CSS",
-      "TanStack Query",
-      "Redux",
-      "React Native",
-    ],
-
-    backend: [
-      "Node.js",
-      "Express.js",
-      "REST APIs",
-      "GraphQL",
-      "WebSockets",
-      "Socket.IO",
-    ],
-
-    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-
-    cloudAndDevOps: [
-      "AWS",
-      "EC2",
-      "Cloudflare",
-      "Nginx",
-      "PM2",
-      "GitHub Actions",
-      "CI/CD",
-    ],
-
-    aiAndData: ["OpenAI APIs", "NLP Pipelines", "Python", "Transformer Models"],
-  },
-
-  currentFocus:
-    "Designing production-grade full-stack applications with modern frontend architecture, scalable backend systems, AI integrations, and real-time communication workflows using Next.js, React, Node.js, TypeScript, WebSockets, and AWS infrastructure",
-
-  building: [
-    "DevMatch — Real-time developer networking platform",
-    "AI-powered content analysis systems",
-    "Scalable media-tech platforms",
-  ],
-
-  funFact:
-    "I enjoy architecting scalable systems just as much as solving complex DSA and LeetCode problems — whether it's optimizing Core Web Vitals, designing real-time architectures, or debugging production issues at 2 AM 🚀",
-};
-```
-
-</div>
-
-<div>
-
-  <h1 align="center">🧮 GitHub Profile Analytics</h1>
+  <h1 align="center">📈 Developer Dashboard</h1>
 
   <p align="center">  
     <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rajesh-ranjan-git&style=flat&color=brightgreen"> • <img alt="GitHub Followers" src="https://img.shields.io/github/followers/rajesh-ranjan-git?label=Followers&style=social"> • 
@@ -138,28 +62,6 @@ const rajeshRanjan = {
   <p align="center">
     <img src="https://follow.lazybittu.workers.dev/user/rajesh-ranjan-git.svg?theme=calm_pink&preset=banner" alt="GitHub Followers">
   </p>
-
-</div>
-
-<div>
-
-  <h1 align="center">🏆 Achievements Unlocked</h1>
-
-  <p align="center" style="width:100%">
-    <img  src="https://github-profile-trophy.vercel.app/?username=rajesh-ranjan-git&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=false&theme=juicyfresh" >
-  </p>
-
-  <p align="center" >
-    <img height="150" width="150" src="/assets/left.webp"  style="width:20%">
-    <img align="center" src="https://github-readme-streak-stats-eight.vercel.app?user=rajesh-ranjan-git&theme=great-gatsby" style="width:50%"  />
-    <img height="150" width="150" src="/assets/right.webp" style="width:20%">
-  </p>
-
-</div>
-
-<div>
-
-  <h1 align="center">📈 Developer Dashboard</h1>
 
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajesh-ranjan-git&theme=2077&v=2" alt="Rajesh's GitHub profile details" />
@@ -176,18 +78,8 @@ const rajeshRanjan = {
   </p>
 
   <p align=center>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajesh-ranjan-git&show_icons=true&theme=merko" alt="Rajesh's github stats" />
-  </p>
-
-  <p align=center>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajesh-ranjan-git&theme=react-dark&hide_border=false&area=true&radius=10&color=00DCA8&line=00ab75&area_color=4ddb75" alt="Rajesh's github activity graph" />
   </p>
-
-</div>
-
-<div>
-
-  <h1 align="center">🎯 Profile Contributions 3D</h1>
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -375,119 +267,6 @@ const rajeshRanjan = {
 ![Amazon AWS](https://img.shields.io/badge/amazon_aws-FF9900?style=for-the-badge&logo=icloud&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
-
-</div>
-
-<div align="center">
-
-# 🏗️ Featured Personal Projects </div>
-
-## 💬 DevMatch — Developer Networking Platform
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git)
-
-[![Live](https://img.shields.io/badge/Live-Visit_Platform-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://devmatch.rajeshranjan.dev)
-
-Production-grade developer networking platform focused on real-time communication and scalable full-stack architecture.
-
-### 🚀 Key Features
-
-- ⚡ Real-time messaging with Socket.IO
-- 🔐 JWT + OAuth with RBAC authentication system
-- 👥 User discovery and notifications
-- 📡 Online presence, typing indicators & read receipts
-- 🧩 Modular backend architecture with centralized error handling
-- ☁️ AWS EC2 deployment with Nginx, PM2 & Cloudflare
-- 🔄 Automated CI/CD pipelines using GitHub Actions
-- 📧 AWS SES transactional email workflows
-- 🎨 Optimized frontend architecture using React Server Components & TanStack Query
-
-### 🛠️ Tech Stack
-
-- 🎨 Frontend: Next.js, TypeScript, Tailwind CSS, Zustand, TanStack Query, Motion (formerly Framer Motion)
-- 🛠️ Backend: Node.js, Express.js
-- 🗄️ Database: MongoDB
-- 🔐 Authentication: JWT, OAuth (Google, GitHub, LinkedIn)
-- ⚡ Real Time System: Socket.IO
-- 📨 Mailing System: Amazon SES
-- ☁️ Deployment: Amazon EC2, AWS, Cloudflare, Nginx, PM2
-
-## 🛍️ Shopprixity — Full Stack E-Commerce Platform
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/Shopprixity)
-
-[![Live](https://img.shields.io/badge/Live-Visit_Platform-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://shopprixity.vercel.app)
-
-Modern e-commerce platform featuring authentication, product management, cloud media handling, and payment integrations.
-
-### 🛠️ Tech Stack
-
-- 🎨 Frontend: React.js, Tailwind CSS, Vite
-- 🛠️ Backend: Node.js, Express.js
-- 🗄️ Database: MongoDB, Prisma
-- 🔐 Authentication: Firebase + JWT
-- 💳 Payments: PayPal
-- ☁️ Deployment: Vercel
-
-## 💳 BancardifyMe — Modern Banking Platform
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/bancardifyme)
-
-[![Live](https://img.shields.io/badge/Live-Visit_Platform-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://bancardifyme.netlify.app)
-
-Multi-banking platform focused on secure financial workflows, authentication systems, and responsive dashboard architecture.
-
-### 🛠️ Tech Stack
-
-- 🎨 Frontend: Next.js, TypeScript, Tailwind CSS
-- 🛠️ Backend: Node.js, Express.js
-- 🗄️ Database: Appwrite
-- 🔐 Authentication: Firebase + Appwrite
-- 💳 Integrations: Plaid + Dwolla
-- 📊 Monitoring: Sentry
-- ☁️ Deployment: Netlify
-
-## 🎬 MovieMania — Movie Discovery Platform
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajesh-ranjan-git/MovieMania)
-
-[![Live](https://img.shields.io/badge/Live-Visit_Platform-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://moviemania-platform.netlify.app)
-
-Dynamic movie and TV show browsing platform with responsive UI and modern frontend architecture.
-
-### 🛠️ Tech Stack
-
-- 🎨 React.js + Tailwind CSS
-- ⚡ Vite
-- 📦 Lucide React
-- ☁️ Netlify Deployment
-
-<div>
-
-  <h1 align="center">🎯 Ongoing Priorities & Aspirations</h1>
-
-```yaml
-🔭 Professional Goals:
-  - Building scalable and high-performance digital media platforms at Business Today Technology (India Today Group)
-  - Enhancing SEO, Core Web Vitals, accessibility, and overall user experience across large-scale web applications
-  - Designing production-grade architectures with focus on scalability, maintainability, and developer experience
-  - Expanding expertise in AI-powered workflows, real-time systems, and cloud-native applications
-
-🔬 Learning & Development:
-  - Advanced System Design & Distributed Architecture
-  - Scalable backend systems and event-driven architectures
-  - Cloud infrastructure, DevOps, and deployment automation
-  - Performance optimization for high-traffic applications
-  - AI integrations, NLP pipelines, and modern data workflows
-  - Modern frontend rendering strategies and web performance optimization
-
-🤝 Collaboration Interests:
-  - Full-stack web applications and scalable SaaS platforms
-  - Real-time applications and developer-focused tools
-  - Open-source contributions and community-driven projects
-  - AI-powered products and modern web engineering workflows
-  - Frontend architecture, developer experience, and performance engineering
-```
 
 </div>
 
