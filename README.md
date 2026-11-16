@@ -75,38 +75,6 @@ _High-traffic news, markets and live-election platforms for Aaj Tak, India Today
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-<details>
-<summary><b>📂 Project highlights at India Today Group</b></summary>
-
-<br>
-
-**🗂️ Headless media CMS (iSmart 2.0)** · _Oct 2026 – Present · lead contributor_
-- Moved content storage from JSON blobs to a normalized design: 13 Postgres schemas (IAM, content, taxonomy, media, workflow, audit, analytics…), a consolidated baseline migration, and seed/seed-export tooling.
-- Migration pipelines from the legacy platform, starting with The Lallantop, plus an admin migration UI.
-- Editorial features: live blogs, scheduling, SEF URL patterns, taxonomy, edit workflow, media-bank integration, multi-brand mobile previews, Chartbeat-backed newsroom dashboards.
-- Platform work: RBAC standards, structured logging, centralized design system, DB architecture docs.
-
-**🤖 Elevate: AI newsroom intelligence** · _Jun 2025 – Mar 2026 · primary author_
-- **News Prediction Engine:** ingests news and analytics data, engineers features, ranks tomorrow's most engaging stories with a hybrid of ML and GPT predictions, and runs retraining, anomaly-detection and reporting pipelines.
-- **News Intelligence and Duplicacy engines:** competitor sitemap parsing and an embedding-based similarity pipeline.
-- **Trends Analyzer** (Google Trends, X) with on-demand, self-pausing schedulers. **Competitive Content Analyzer** (Playwright). **Comments Summarizer**, **FAQ Generator**, election **Blog Generator**, and a Hindi content analyzer (Cohere).
-
-**🗳️ Election Analysis Dashboard** · _Aug 2025 – Present · core developer, led the 2026 rebuild_
-- Live results grid, seat tally and matrix, power map, strike rate, victory margins, turnout by gender, Know Your Candidate (assets, education, cases).
-- JWT and email login (AWS SES), service worker, per-state dynamic menus, command-palette navigation, public mode.
-
-**📈 Business Today and BT Bazaar** · _May 2025 – Sep 2026_
-- Next.js App Router behind a custom Express server with SAML SSO and Redis sessions and caching.
-- Union Budget 2026 interactive graphs, billionaires list, mutual funds UI, stock-detail embeds, FIFA World Cup section, AI-generated story FAQs with FAQ schema (regular and AMP pages).
-- Custom drag-and-snap slider that replaced Swiper, table-aware in-article ad injection, group-wide search v4.
-
-**🧰 Newsroom tools and other sites**
-- **xSmart:** internal AI-enabled CMS. Elevate UI, Stock Auto Live Blog, Election Simulator, rebuilt story filing.
-- **Video Wall:** multi-stream HLS video wall with personalization and ads.
-- **GDB survey site:** "Zara Sochiye" video campaign section and global search API (Highcharts, Zustand).
-
-</details>
-
 👨‍💻 **UI Developer — NTT DATA Services** · _Nov 2020 – Apr 2025_
 
 - Built reusable React component libraries and frontend modules for enterprise Banking and Education applications.
